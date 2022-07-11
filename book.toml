@@ -1,0 +1,11 @@
+[book]
+authors = ["Mehdi Oulmakki", "Rob Cobb"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Mathematical Thinking"
+
+[build]
+build-dir = "output"
+create-missing = false
+use-default-preprocessors = false
