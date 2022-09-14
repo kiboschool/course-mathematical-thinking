@@ -15,5 +15,5 @@
 - [Functions and Relations](lessons/functions-and-relations.md)
 - [Exponents and Logarithms](lessons/exponents-and-logarithms.md)
 - [Number Systems](lessons/number-systems.md)
-- [Modulo Arithmetic](lessons/modulo-arithmetic.md)
+- [Modular Arithmetic](lessons/modular-arithmetic.md)
 - [Limits](lessons/limits.md)
