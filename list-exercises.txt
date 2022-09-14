@@ -1,0 +1,1 @@
+.exercises/projects/how-good-is-a-password:git@github.com:kiboschool/how-good-is-a-password.git
