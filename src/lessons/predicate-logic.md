@@ -11,5 +11,5 @@ You'll also practice evaluating chains of reasoning to verify that the reasoning
 - Predicates and statements
 - Logical conjunctions AND and OR
 - Negation
-- Conditional statements (if...then), inverses, and contrapositives
+- Conditional logic, Implication (if...then), inverses, and contrapositives
 - Less familiar logical constructions (XOR, if and only if)

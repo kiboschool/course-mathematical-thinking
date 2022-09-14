@@ -12,4 +12,4 @@ These lessons will focus on some typical patterns for proving statements, and in
 - Proof by contradiction
 - Direct proofs
 - Indirect proofs
-- Proofs by contrapositives
+- Proof by contrapositive
