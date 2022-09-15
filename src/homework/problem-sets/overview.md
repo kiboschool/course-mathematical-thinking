@@ -1,6 +1,7 @@
 **General instructions**:
 -  You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
--  Show your work. Direct answers will not be accepted. 
+-  Show your work. Direct answers will not be accepted.
+-  Each submission is worth 5% of your final grade, for a total of 45%.
 
 **Problem Sets**:
 - [Week 1](week1.md)
