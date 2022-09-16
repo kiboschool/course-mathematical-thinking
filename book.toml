@@ -9,3 +9,6 @@ title = "Mathematical Thinking"
 build-dir = "output"
 create-missing = false
 use-default-preprocessors = false
+
+[output.html]
+mathjax-support = true
