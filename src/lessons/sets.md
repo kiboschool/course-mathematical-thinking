@@ -12,5 +12,5 @@ This week will focus on _sets_. Sets let mathematicians describe lots of things 
 - number sets
 
 ## Resources:
-
+- Section B1 from Introduction to Algorithms, Third edition.
 - [Discrete Mathematics: An open textbook section 0.3](http://discrete.openmathbooks.org/dmoi3/sec_intro-sets.html)
