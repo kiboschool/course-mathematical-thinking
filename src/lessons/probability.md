@@ -11,3 +11,6 @@ Probability is about the chances that an event happens. These lessons will focus
 - Definitions: events, randomness and uncertainty
 - Probability spaces, sets, and distributions
 - Conditional probability
+
+## Resources:
+- [Chapter 1, 2, and 4 of Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)
