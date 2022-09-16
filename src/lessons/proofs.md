@@ -13,3 +13,7 @@ These lessons will focus on some typical patterns for proving statements, and in
 - Direct proofs
 - Indirect proofs
 - Proof by contrapositive
+
+## Resources
+- [A Concise introduction to logic part 2](https://open.umn.edu/opentextbooks/textbooks/452)
+- [Discrete mathematics - an open introduction part 3.2](http://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html)
