@@ -10,3 +10,7 @@ In the next few lessons, you'll learn more about the rules of functions and rela
 - function composition
 - the 'jections: injection, surjection, bijection (one-to-one, onto, and invertible)
 - pigeonhole principle
+
+## Resources:
+- Sections B2 & B3 from Introduction to Algorithms, Third edition.
+- [Discrete Mathematics: An open textbook section 0.4](http://discrete.openmathbooks.org/dmoi3/sec_intro-functions.html)
