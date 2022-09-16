@@ -12,4 +12,8 @@ You'll also practice evaluating chains of reasoning to verify that the reasoning
 - Logical conjunctions AND and OR
 - Negation
 - Conditional logic, Implication (if...then), inverses, and contrapositives
-- Less familiar logical constructions (XOR, if and only if)
+- If and only If
+
+## Resources:
+- A Concise introduction to logic part 1
+- [Discrete mathematics - an open introduction part 3.1](http://discrete.openmathbooks.org/dmoi3/sec_propositional.html)
