@@ -52,21 +52,21 @@ This problem set is due Sunday October 16th at 10pm
 
 8. Prove whether or not each of the following arguments is valid.
 
-    a. Premises: \\(((P \wedge Q) \leftrightarrow R), (P \leftrightarrow S), (S \wedge Q)\\). Conclusion: \\(R\\).
+    a. Premises: \\(((P \wedge Q) \iff R), (P \iff S), (S \wedge Q)\\). Conclusion: \\(R\\).
 
-    b. Premises:  \\((P \leftrightarrow Q)\\). Conclusion:  \\(((P \to Q) \wedge (Q \to P))\\).
+    b. Premises:  \\((P \iff Q)\\). Conclusion:  \\(((P \to Q) \wedge (Q \to P))\\).
 
-    c. Premises: \\(P, \neg Q\\). Conclusion: \\(\neg(P \leftrightarrow Q)\\).
+    c. Premises: \\(P, \neg Q\\). Conclusion: \\(\neg(P \iff Q)\\).
 
-    d. Premises:  \\(( \neg P \vee Q), (P\vee \neg Q)\\). Conclusion:  \\((P \leftrightarrow Q)\\).
+    d. Premises:  \\(( \neg P \vee Q), (P\vee \neg Q)\\). Conclusion:  \\((P \iff Q)\\).
 
-    e. Premises:  \\((P \leftrightarrow Q), (R \leftrightarrow S)\\). Conclusion:  \\(((P^R) \leftrightarrow (Q^S))\\).
+    e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P^R) \iff (Q^S))\\).
 
-    f. Premises:  \\(((P \vee Q) \leftrightarrow R), \neg P \leftrightarrow Q)\\). Conclusion:  R\\).
+    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  R\\).
 
-    g. Conclusion:  \\(((P \leftrightarrow Q) \leftrightarrow (\neg P \leftrightarrow \neg Q))\\)
+    g. Conclusion:  \\(((P \iff Q) \iff (\neg P \iff \neg Q))\\)
 
-    h. Conclusion:  \\(((P \to Q) \leftrightarrow (\neg P \vee Q))\\)
+    h. Conclusion:  \\(((P \to Q) \iff (\neg P \vee Q))\\)
 
 ## References
 
