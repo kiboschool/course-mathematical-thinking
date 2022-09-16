@@ -12,3 +12,7 @@ In these lessons, we'll focus on counting elements of sets, in different ways. H
 - factorials
 - counting infinite sets: cardinality
 - binomial theorem
+
+## Resources:
+- [Chapter 1 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/ch_counting.html)
+- [Chapter 3 of Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)
