@@ -15,5 +15,5 @@ You'll also practice evaluating chains of reasoning to verify that the reasoning
 - If and only If
 
 ## Resources:
-- A Concise introduction to logic part 1
+- [A Concise introduction to logic part 1](https://open.umn.edu/opentextbooks/textbooks/452)
 - [Discrete mathematics - an open introduction part 3.1](http://discrete.openmathbooks.org/dmoi3/sec_propositional.html)
