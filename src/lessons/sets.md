@@ -10,3 +10,7 @@ This week will focus on _sets_. Sets let mathematicians describe lots of things 
 - union and intersection
 - set builder notation
 - number sets
+
+## Resources:
+
+- [Discrete Mathematics: An open textbook section 0.3](http://discrete.openmathbooks.org/dmoi3/sec_intro-sets.html)
