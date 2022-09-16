@@ -13,3 +13,8 @@ However surprising it may seem, definining operations on a 'group' like this is 
 - modulo operation
 - modular arithmetic (addition, multiplication, exponentiation, logarithm)
 - applications of modular arithmetic
+
+## Resources:
+
+- [Chapter 5.2 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec_addtops-numbth.html)
+- [Chapter 4 of Number Theory: In Context and Interactive](http://discrete.openmathbooks.org/dmoi3/sec_addtops-numbth.html)
