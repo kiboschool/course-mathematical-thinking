@@ -6,8 +6,11 @@ Each position in a decimal number has a place value 10^n. But... we don't have t
 
 These lessons will explore number systems and representation. You'll focus on common number systems like decimal (base 10), binary (base 2), and hexadecimal (base 16), since those show up frequently in applications.
 
+This week, you'll also revisit exponents and logarithms. These functions tend to be very helpful in programming in general, but especially when dealing with different bases. Exponents and logarithms will also give you a chance to practice proving different statements about numbers.
+
 ## Topics
 
 - Representing numbers in different bases
 - Changing between bases
 - Representing numbers electronically
+- Definitions and propertiest of exponents and logarithms
