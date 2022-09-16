@@ -16,4 +16,4 @@
 - [Number Systems](lessons/number-systems.md)
 - [Number Theory](lessons/number-theory.md)
 - [Modular Arithmetic](lessons/modular-arithmetic.md)
-- [Limits](lessons/limits.md)
+- [Review and Preview](lessons/review.md)
