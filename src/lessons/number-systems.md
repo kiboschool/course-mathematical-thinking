@@ -14,3 +14,7 @@ This week, you'll also revisit exponents and logarithms. These functions tend to
 - Changing between bases
 - Representing numbers electronically
 - Definitions and propertiest of exponents and logarithms
+
+## Resources:
+
+- [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/coolBriskWalk.pdf)
