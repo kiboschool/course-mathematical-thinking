@@ -25,3 +25,6 @@ This problem set is due Sunday November 27th at 10pm
     2. 1011011
     3. 1111111
     4. 1001010
+
+## References:
+Problems 1-3 were drawn from [chapter 6 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)
