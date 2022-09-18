@@ -41,6 +41,5 @@
 
 - [Modular Arithmetic](lessons/modular-arithmetic.md)
   - [Problem Set 9](homework/problem-sets/week9.md)
-  - [Guiding Question for week 10](homework/the-question/week9.md)
 
 - [Review and Preview](lessons/review.md)
