@@ -13,4 +13,4 @@ For example, you must be familiar with the term Megabyte and Gigabyte. Can you l
 
 Now in your opinion, what is the largest video game ever created? by intuition, do you think it would fit in your hardrive right now? what if I told you it was a whopping 250 Gigabytes? 
 
-What is a Gygabite anyway? what's a byte? 
+What is a Gygabyte anyway? what's a byte? 
