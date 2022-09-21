@@ -1,14 +1,9 @@
-## Submission and Due dates:
+# Guiding Question: Week 7
 
-This problem set is due Sunday November 27th at 10pm
+In the next few weeks, we will grapple with numbers more concretely as we transition from more theoretical topics. So let's try and quantify some concrete numbers that are relevant to our field.
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
-- Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
+For example, you may be familiar with the terms Megabyte and Gigabyte. Can you look up how many Gigabytes your laptop has?
 
-## Instructions:
-At this point we know that we can represent arbitrary numbers in binary form, but you don't spend your time online looking purely at numbers right? You read text, watch videos, listen to music, play games, and so many other interactions. 
+Now in your opinion, what is the largest video game ever created? By intuition, do you think it would fit in your hard drive right now? What if I told you it was a whopping 250 Gigabytes?
 
-Pick one form of media of your choice, and explore how fundamentally, that data is codified as a series of numbers by computers. For example, it might be a good start to look at how color is stored, or images, but it's up to you ultimately what media you pick. 
-
-Share what you found, and any questions it sparks for you.
+What is a Gigabyte anyway? What's a byte?

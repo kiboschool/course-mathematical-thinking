@@ -1,16 +1,15 @@
-## Submission and Due dates:
+# Guiding Question: Week 6
 
-This problem set is due Sunday November 20th at 10pm
+We have been able to solve so many day-to-day problems using computers. Many of these problems fundamentally are about transformation: Taking some input, and turning it into some new, more useful output.
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
-- Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
+Take a look at the following three links:
 
-## Instructions:
-In the next few weeks, we will grapple with numbers more concretely as we transition from more theoretical topics. So let's try and quantify some concrete numbers that are relevant to our field. 
+- [link 1](https://www.unitconverters.net/)
+- [link 2](https://image.online-convert.com/convert-to-jpg)
+- [link 3](https://convertio.co/ocr/).
 
-For example, you must be familiar with the term Megabyte and Gigabyte. Can you look up how many Gigabytes your laptop has? 
 
-Now in your opinion, what is the largest video game ever created? by intuition, do you think it would fit in your hardrive right now? what if I told you it was a whopping 250 Gigabytes? 
-
-What is a Gygabyte anyway? what's a byte? 
+- Take some time and test each of these tools.
+- For each of the tools linked, what kind of input do they expect to receive? what kind of output do they produce?
+- Make a guess as to how each one of them could be working.
+- Based on that guess, do you think it's possible to go the other way around? In other words, use the output to produce the input, somehow?

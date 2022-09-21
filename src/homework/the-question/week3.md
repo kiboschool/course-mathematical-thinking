@@ -1,11 +1,9 @@
-## Submission and Due dates:
+# Guiding Question: Week 3
 
-This problem set is due Sunday October 30th at 10pm
-
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
-- Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
-
-## Instructions:
-
-Our class needs to send 3 representatives to a mathematics competition. How many possible teams could represent us in that competition? Without additional research, think through how to compute that number, and share you reasoning in the link above.
+Let's go through a little exercise thought exercise:
+- Take a piece of paper and write the names of 10 people you know. Spread them around the page.
+- Now, try to draw a line around the names of all the people who :
+  - You think can prepare a nice meal.
+  - You had a party with before?.
+  - You can beat in a race.
+- Did you end up with any of these categories being empty? Did you end up with anyone in all three categories?

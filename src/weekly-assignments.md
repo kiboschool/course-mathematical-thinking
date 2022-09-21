@@ -41,12 +41,13 @@ Each week is guided by a question that prompts you to think and explore the cent
 
 ### Guiding Question Index
 
-- [Question 1](homework/the-question/week1.md)
-- [Question 2](homework/the-question/week2.md)
-- [Question 3](homework/the-question/week3.md)
-- [Question 4](homework/the-question/week4.md)
-- [Question 5](homework/the-question/week5.md)
-- [Question 6](homework/the-question/week6.md)
-- [Question 7](homework/the-question/week7.md)
-- [Question 8](homework/the-question/week8.md)
-- [Question 9](homework/the-question/week9.md)
+Each week will have a guiding question released the prior week, to help prime your thinking about the topic.
+
+- [Guiding Question - Week 2](homework/the-question/week2.md)
+- [Guiding Question - Week 3](homework/the-question/week3.md)
+- [Guiding Question - Week 4](homework/the-question/week4.md)
+- [Guiding Question - Week 5](homework/the-question/week5.md)
+- [Guiding Question - Week 6](homework/the-question/week6.md)
+- [Guiding Question - Week 7](homework/the-question/week7.md)
+- [Guiding Question - Week 8](homework/the-question/week8.md)
+- [Guiding Question - Week 9](homework/the-question/week9.md)

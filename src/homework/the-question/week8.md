@@ -1,16 +1,7 @@
-## Submission and Due dates:
+# Guiding Question: Week 8
 
-This problem set is due Sunday December 4th at 10pm
+At this point we know that we can represent arbitrary numbers in binary form, but you don't spend your time online looking purely at numbers right? You read text, watch videos, listen to music, play games, and so many other interactions.
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
-- Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
+Pick one form of media of your choice, and explore how fundamentally, that data is codified as a series of numbers by computers. For example, it might be a good start to look at how color is stored, or images, but it's up to you ultimately what media you pick.
 
-## Instructions:
-As you can hopefully see at this point, the binary number system helped us solve a critical issue of representing data: Find a ways to map a concept to numbers, then we can safely store it and have computers manipulating it. 
-
-Now computers don't *magically* know how to manipulate arbitrary data, that's very much up to us, as software developers, to build algorithms that handle this. Algorithm is a crucial word that will come back often throughout the program. It is a series of steps to be performed to solve a given problem, particularly by computers. Your lab is currently covering a very popular algorithm, RSA. 
-
-Let's build up some intuition for talking about algorithms though. Find 10 items that can be sorted - these can be books, cards, coins and bills, your pick! 
-
-Shuffle them in front of you, then try to sort them. Pause and reflect on how you are approaching the task of sorting them, and write as accurately as possible what your algorithm for sorting is. Reach out to a classmate, and swap algorithms. Do you notice any differences? does one approach feel better than the other?
+Share what you found, and any questions it sparks for you.
