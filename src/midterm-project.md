@@ -22,9 +22,9 @@ The project has 3 parts:
 - Part 2: Attacking Passwords
 - Part 3: Storing Passwords
  -->
-- [Part 1: Password Generation](1-password-generation.md)
-- [Part 2: Attacking Passwords](2-attacking-passwords.md)
-- [Part 3: Storing Passwords](3-storing-passwords.md)
+- [Part 1: Password Generation](labs/lab1-1-password-generation.md)
+- [Part 2: Attacking Passwords](labs/lab1-2-attacking-passwords.md)
+- [Part 3: Storing Passwords](labs/lab1-3-storing-passwords.md)
 
 Each part will involve applying a different set of mathematical concepts you've learned.
 
