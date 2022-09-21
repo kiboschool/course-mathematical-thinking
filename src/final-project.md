@@ -17,9 +17,9 @@ The project has 3 parts:
 - Part 3: Proving RSA
  -->
 The project has 3 parts:
-- [Part 1: Defining Encryption](1-defining-encryption.md)
-- [Part 2: Preparing for RSA](2-preparing-for-RSA.md)
-- [Part 3: Proving RSA](3-proving-RSA.md)
+- [Part 1: Defining Encryption](labs/lab2-1-defining-encryption.md)
+- [Part 2: Preparing for RSA](labs/lab2-2-preparing-for-RSA.md)
+- [Part 3: Proving RSA](labs/lab2-3-proving-RSA.md)
 
 Each part will involve applying a different set of mathematical concepts you've learned.
 
