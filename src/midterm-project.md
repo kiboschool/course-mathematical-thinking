@@ -44,16 +44,16 @@ Your answers will only be scored after the finished project deadline. You are en
 
 You have access to the entire project now, but we have not have covered all the topics yet. Plan to revisit the project each week as you learn the skills required to solve each part of the challenge.
 
-## Notes
-
-- For questions that require you to perform calculations, make sure to show your work.
-- For questions that ask you for a hypothesis or opinion, we do not expect a ***correct*** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
-
 ## Submission
 
 For each deadline, there will be a gradescope link to submit your work. You'll be able to revise and resubmit those parts for the final submission deadline. The final submission is what will be graded.
 
 For each of the questions, create a pdf or scan an image to show your work. It may be easiest to write your solution by hand, then upload a photo of that instead of typesetting your work in a text editor; feel free to do either.
+
+## Notes
+
+- For questions that require you to perform calculations, make sure to show your work.
+- For questions that ask you for a hypothesis or opinion, we do not expect a ***correct*** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
 
 ## Part 1: Password generation
 
