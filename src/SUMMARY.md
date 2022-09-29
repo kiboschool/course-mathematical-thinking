@@ -4,6 +4,7 @@
 [Weekly Assignments](weekly-assignments.md)
 [Midterm Project](midterm-project.md)
 [Final Project](final-project.md)
+[Problem Set 0](homework/problem-sets/week0.md)
 
 ## Lessons
 
