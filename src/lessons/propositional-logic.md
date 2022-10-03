@@ -8,11 +8,10 @@ You'll also practice evaluating chains of reasoning to verify that the reasoning
 
 ## Topics
 
-- Propositions and statements
-- Logical conjunctions AND and OR
-- Negation
-- Conditional logic, Implication (if...then), inverses, and contrapositives
-- If and only If
+- [Propositions and statements](propositions.md)
+- [Logical conjunctions AND and OR](and_or.md)
+- [Negation and conditional logic](implication.md)
+- [If and only If](iff.md)
 
 ## Resources:
 - [A Concise introduction to logic part 1](https://open.umn.edu/opentextbooks/textbooks/452)
