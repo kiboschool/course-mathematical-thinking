@@ -16,9 +16,9 @@ This is stricter than the simple implication. In fact, another way to reason abo
 
 Let's consider the following truth table:
 
-	| \\(\mathbb P) | \\(\mathbb Q) | \\(\mathbb P \implies \mathbb Q)| \\(\mathbb Q \implies \mathbb P) | \\( \mathbb P \implies \mathbb Q) \\(\land) \\(\mathbb Q \implies \mathbb P) |
-| ------------ | -------------| -----------------------------------| | | |
-| True | True | True | True | | True | 
+| \\(\mathbb P\\) | \\(\mathbb Q\\) | \\(\mathbb P \to \mathbb Q\\)| \\(\mathbb Q \to \mathbb P\\) | \\((\mathbb P \to \mathbb Q) \land (\mathbb Q \to \mathbb P\\) |
+| ------------ | -------------| -----------------------------------| | |
+| True | True | True | True | True | 
 | True | False | False | True | False | 
 | False | True | True | False | False | 
 | False | False | True |  True | True |
@@ -32,7 +32,7 @@ When both are true, we can say that "If and only if the DJ is playing Jerusalema
 
 Let's simplify our truth table and introduce the formal statement for biconditionals: \\(\iff)
 
-	| \\(\mathbb P) | \\(\mathbb Q) | \\(\mathbb P \iff \mathbb Q)| 
+| \\(\mathbb P\\) | \\(\mathbb Q\\) | \\(\mathbb P \iff \mathbb Q\\)| 
 | ------------ | -------------| -----------------------------------|
 | True | True |  True | 
 | True | False | False | 
@@ -41,13 +41,13 @@ Let's simplify our truth table and introduce the formal statement for biconditio
 
 ### Priority
 
-\\(\iff) shares the same priority as \\(\implies)
+\\(\iff\\) shares the same priority as \\(\to\\)
 
 We have covered all our connectors now! so our final priority order is:
-1- \\(\lnot)
-2- \(\land)
-3- \\(\lor)
-4- \\(\implies and \iff)
+1- \\(\lnot\\)
+2- \(\land\\)
+3- \\(\lor\\)
+4- \\(\to  ,  \iff\\)
 
 ## References:
 For further details, you can read through the following chapters:
