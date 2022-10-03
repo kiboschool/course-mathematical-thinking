@@ -17,7 +17,7 @@ This is stricter than the simple implication. In fact, another way to reason abo
 Let's consider the following truth table:
 
 | \\(\mathbb P\\) | \\(\mathbb Q\\) | \\(\mathbb P \to \mathbb Q\\)| \\(\mathbb Q \to \mathbb P\\) | \\((\mathbb P \to \mathbb Q) \land (\mathbb Q \to \mathbb P\\) |
-| ------------ | -------------| -----------------------------------| | |
+| ------------ | -------------| -----------------------------------|--------|-------|
 | True | True | True | True | True | 
 | True | False | False | True | False | 
 | False | True | True | False | False | 
