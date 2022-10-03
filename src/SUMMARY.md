@@ -8,7 +8,7 @@
 
 ## Lessons
 
-- [Predicate Logic](lessons/propositional-logic.md)
+- [Propositional Logic](lessons/propositional-logic.md)
   - [Problem Set 1](homework/problem-sets/week1.md)
 
 - [Proofs](lessons/proofs.md)
