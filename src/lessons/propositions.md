@@ -46,9 +46,9 @@ This is inherently ambiguous: In the language we want to build, a proposition ca
 
 ### Notation:
 
-We will often assign a propositon to a variable \\(\mathbb P) instead of rewriting the whole sentence. Here \\(\mathbb P) simply stands for **P**roposition. 
+We will often assign a propositon to a variable \\(\mathbb P\\) instead of rewriting the whole sentence. Here \\(\mathbb P\\) simply stands for **P**roposition. 
 
-If we deal with multiple propositions, we carry on in alphabetical order, so our second proposition is \\(\mathbb Q), then \\(\mathbb R), etc.
+If we deal with multiple propositions, we carry on in alphabetical order, so our second proposition is \\(\mathbb Q\\), then \\(\mathbb R\\), etc.
 
 ### Programming 1 connection:
 As you start progressing in programming 1, you will encounter boolean variables - variables that can either be True or False. You can effectively apply everything we learn about propositions in this course to boolean variables in programming!
@@ -80,8 +80,8 @@ Is *"The DJ is playing Jerusalema"* a proposition? sure is, the song is either p
 How about "Zainab is not on the dancefloor" ? This is also a proposition, Zainab is either on the dancefloor or not.
 
 So we can consider two different propositions here:
-- \\(\mathbb P): The DJ is playing Jerusalema
-- \\(\mathbb Q): Zainab is not on the dancefloor
+- \\(\mathbb P\\): The DJ is playing Jerusalema
+- \\(\mathbb Q\\): Zainab is not on the dancefloor
 
 Which makes our initial sentence take the form of if \\(\mathbb P), then  \\(\mathbb Q)
 
