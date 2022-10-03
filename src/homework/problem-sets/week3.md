@@ -7,7 +7,7 @@ This problem set is due Sunday October 30th at 10pm
 - Submit your work through this [link](tbd)
 
 ## Instructions:
-1. Let A = { x \\(\in \mathbb N : 3 \le x \le 13}\\), B = { x \\(\in \mathbb N: x is even}\\), and C = { x \\(\in mathbb N: x is Odd}\\)
+1. Let A = \\({ x \in \mathbb N : 3 \le x \le 13}\\), B = \\({ x \in \mathbb N: x is even}\\), and C = \\({ x \in mathbb N: x is Odd}\\)
    a. find A \\(\cap\\) B.
    
    b. find A \\(\cup\\) B.
@@ -16,7 +16,7 @@ This problem set is due Sunday October 30th at 10pm
    
    d. Find B \\(\cup\\) C. 
 
-2. Let a = { 1, 2, 3, 4, 5, 6}. Find all sets B \\(\in \mathcal P (A) \\)
+2. Let a = { 1, 2, 3, 4, 5, 6}. Find all sets \\( B \in \mathcal P (A) \\)
 
 4. Are there sets A and B such that |A| = |B|, |A \\(\cup\\) B| = 10, and |A \\(\cap\\) B| = 5? Explain.
 
@@ -30,9 +30,9 @@ This problem set is due Sunday October 30th at 10pm
 
 6. Let A, B, and C be sets:
    
-   a. Suppose that A \\(\subseteq B and B \subseteq C. Does this mean that A \subset C? Prove your answer. (This is equivalent to proving that \forall x, if x \in A, then x \in C)\\)
+   a. Suppose that \\(A \subseteq B\\) and \\(B \subseteq C\\). Does this mean that \\(A \subset C\\)? Prove your answer. (This is equivalent to proving that \\(\forall x, if x \in A, then x \in C)\\)
    
-   b.   Suppose that \\(A \in B and B \in C\\). Does this mean that \\(A \in C\\)? Prove your answer.
+   b.   Suppose that \\(A \in B\\) and \\(B \in C\\). Does this mean that \\(A \in C?\\) Prove your answer.
 
 8. In a regular deck of playing cards there are 26 red cards and 12 face cards. Explain, using sets and what you have learned about cardinalities, why there are only 32 cards which are either red or a face card.
 
