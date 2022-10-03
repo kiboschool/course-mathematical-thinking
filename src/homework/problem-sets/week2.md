@@ -9,7 +9,7 @@ This problem set is due Sunday October 23rd at 10pm
 ## Instructions:
 
 1. Prove the following statements:
-   1. Given that \\(forall x, (F(x) \lor G(x)) and \\(\lnot \exists x G(x)), conclude that \\(forall x, F(x))
+   1. Given that \\(\forall x, (F(x) \lor G(x)) and \\(\lnot \exists x G(x)), conclude that \\(forall x, F(x))
    2. \\( \forall x (\lnot F(x) \lor G(x)) \\(\implies) \\(\forall x (F(x) \implies G(x)))
    3. \\(\lnot \exists x F(x) \iff \forall x \lnot F(x))
    4. \\(\lnot \forall x F(x) \iff \exists x \lnot F(x))
