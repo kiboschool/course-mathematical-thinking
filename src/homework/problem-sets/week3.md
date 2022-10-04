@@ -7,7 +7,7 @@ This problem set is due Sunday October 30th at 10pm
 - Submit your work through this [link](tbd)
 
 ## Instructions:
-1. Let A = \\({ x \in \mathbb N : 3 \le x \le 13}\\), B = \\({ x \in \mathbb N: x is even}\\), and C = \\({ x \in mathbb N: x is Odd}\\)
+1. Let A = \\( { x \in \mathbb N : 3 \le x \le 13} \\), B = \\( { x \in \mathbb N: x\\) is even}, and C = \\({ x \in \mathbb N: x\\) is Odd}
    a. find A \\(\cap\\) B.
    
    b. find A \\(\cup\\) B.
@@ -30,7 +30,7 @@ This problem set is due Sunday October 30th at 10pm
 
 6. Let A, B, and C be sets:
    
-   a. Suppose that \\(A \subseteq B\\) and \\(B \subseteq C\\). Does this mean that \\(A \subset C\\)? Prove your answer. (This is equivalent to proving that \\(\forall x, if x \in A, then x \in C)\\)
+   a. Suppose that \\(A \subseteq B\\) and \\(B \subseteq C\\). Does this mean that \\(A \subset C\\)? Prove your answer. (This is equivalent to proving that \\(\forall x, x \in A \to x \in C)\\)
    
    b.   Suppose that \\(A \in B\\) and \\(B \in C\\). Does this mean that \\(A \in C?\\) Prove your answer.
 
