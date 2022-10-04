@@ -16,7 +16,7 @@ This is stricter than the simple implication. In fact, another way to reason abo
 
 Let's consider the following truth table:
 
-| \\(\mathbb P\\) | \\(\mathbb Q\\) | \\(\mathbb P \to \mathbb Q\\)| \\(\mathbb Q \to \mathbb P\\) | \\((\mathbb P \to \mathbb Q) \land (\mathbb Q \to \mathbb P\\) |
+| \\( P\\) | \\( Q\\) | \\( P \to  Q\\)| \\( Q \to  P\\) | \\(( P \to  Q) \land ( Q \to  P\\) |
 | ------------ | -------------| -----------------------------------|--------|-------|
 | True | True | True | True | True | 
 | True | False | False | True | False | 
@@ -32,7 +32,7 @@ When both are true, we can say that "If and only if the DJ is playing Jerusalema
 
 Let's simplify our truth table and introduce the formal statement for biconditionals: \\(\iff)
 
-| \\(\mathbb P\\) | \\(\mathbb Q\\) | \\(\mathbb P \iff \mathbb Q\\)| 
+| \\( P\\) | \\( Q\\) | \\( P \iff  Q\\)| 
 | ------------ | -------------| -----------------------------------|
 | True | True |  True | 
 | True | False | False | 
