@@ -9,6 +9,10 @@
 ## Lessons
 
 - [Propositional Logic](lessons/propositional-logic.md)
+  - [Propositions and statements](lessons/propositional-logic/propositions.md)
+  - [Logical conjunctions](lessons/propositional-logic/logical-conjunctions.md)
+  - [Negation and Implication](lessons/propositional-logic/negation-and-implication.md)
+  - [If and only if](lessons/propositional-logic/iff.md)
   - [Problem Set 1](homework/problem-sets/week1.md)
 
 - [Proofs](lessons/proofs.md)
