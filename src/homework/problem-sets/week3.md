@@ -7,7 +7,7 @@ This problem set is due Sunday October 30th at 10pm
 - Submit your work through this [link](tbd)
 
 ## Instructions:
-1. Let A = \\( \\{ x \in \mathbb N : 3 \le x \le 13\\}\\), B = \\( \{ x \in \mathbb N: x  is  even\\}\\), and C = \\(\{ x \in \mathbb N: x\\) is Odd\\}
+1. Let A = \\( \\{ x \in \mathbb N : 3 \le x \le 13\\}\\), B = \\( \\{ x \in \mathbb N: x  is  even\\}\\), and C = \\(\\{ x \in \mathbb N: x\\) is Odd\\}
    a. find A \\(\cap\\) B.
    
    b. find A \\(\cup\\) B.
