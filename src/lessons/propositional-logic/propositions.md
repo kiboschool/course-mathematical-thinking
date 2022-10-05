@@ -36,13 +36,11 @@ Can the first sentence be True? well yes, it says so! Some propositions may have
 
 How about the second sentence then? Do you think it is a proposition? Think aboutit for a second before seeing the answer below
 
-<details>answer:
 Well if it is a proposition, then it can be evaluated as either True or False:
 - If we say that it is True, then that means the sentence is False, which is a contradiction!
 - If we say that it is False, then that means the sentence is not False, so it is True! this is another contradiction!
 
 This is inherently ambiguous: In the language we want to build, a proposition can not be both True and False at the same time, so we won't consider sentences like this.
-</details>
 
 ### Notation:
 

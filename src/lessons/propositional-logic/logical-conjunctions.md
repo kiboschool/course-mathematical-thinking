@@ -72,7 +72,8 @@ but don't take my word for it. Let's show this using truth tables. Two statement
 | False | False | True | | |
 | False | False | False | | |
 
-<details>answer:
+What you should see is that the fourth and fifth columns are different, so the two statements are *not* equivalent. You can use truth tables to assess if two propositions are the same by simply showing that they evaluate the same way in a table. Make sure to fill it up entirely before looking at the solution below.
+
 
 | \\( P\\) | \\( Q\\) | \\( R\\) | \\( P \land  Q \lor  R\\) | \\( P \land ( Q \lor  R)\\) |
 | ------------ | -------------| -----------------------------------|--|---| 
@@ -84,9 +85,6 @@ but don't take my word for it. Let's show this using truth tables. Two statement
 | False | True | False | False | False |
 | False | False | True | True | False |
 | False | False | False | False| False |
-
-As you can tell, the fourth and fifth columns are different, so the two statements are *not* equivalent. You can use truth tables to assess if two propositions are the same by simply showing that they evaluate the 
-</details>
 
 We will continue looking at connectors in the next section.
 

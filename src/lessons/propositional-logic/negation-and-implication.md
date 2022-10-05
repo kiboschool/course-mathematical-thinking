@@ -109,7 +109,7 @@ Let's build up the truth tables for each of these new propositions. Try it yours
 What do you notice? Which of these forms are equivalent to each other? Your tables should indicate that the inverse and conerse are equivalent, and that an implication and its *contrapositive* are equivalent. We will use this fact next week!
 
 ### Priority:
-\\(\implies\\) has the lowest priority, so \\(\land\\) and \\(\lor\\) will always be evaluated before it, unless parenthesis change that.
+\\(\to\\) has the lowest priority, so \\(\land\\) and \\(\lor\\) will always be evaluated before it, unless parenthesis change that.
 \\(\lnot\\) has the highest priority, so it will be evaluated before anything else. 
 
 ## References:
