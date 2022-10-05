@@ -6,13 +6,6 @@ These lessons are focused on _propositional logic_: the rules that govern logica
 
 You'll also practice evaluating chains of reasoning to verify that the reasoning is correct, or, if it's mistaken, locating which steps are invalid.
 
-## Topics
-
-- [Propositions and statements](propositions.md)
-- [Logical conjunctions AND and OR](and_or.md)
-- [Negation and conditional logic](implication.md)
-- [If and only If](iff.md)
-
 ## Resources:
 - [A Concise introduction to logic part 1](https://open.umn.edu/opentextbooks/textbooks/452)
 - [Discrete mathematics - an open introduction part 3.1](http://discrete.openmathbooks.org/dmoi3/sec_propositional.html)

@@ -21,6 +21,10 @@
 
 - [Sets](lessons/sets.md)
   - [Guiding Question](homework/the-question/week3.md)
+  - [Key Set Definitions](lessons/sets/set_definitions.md)
+  - [Set Operations](lessons/sets/set_operations.md)
+  - [Subsets](lessons/sets/subsets.md)
+  - [visualizing_sets](lessons/sets/visualizing_sets.md)
   - [Problem Set 3](homework/problem-sets/week3.md)
 
 - [Counting](lessons/counting.md)
