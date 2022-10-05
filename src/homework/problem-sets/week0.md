@@ -9,6 +9,7 @@ You can submit answers on a separate sheet of paper (scanned or photographed).
 ## Problems
 
 1. Determine the truth value for the following statements:
+
     a. Class starts at 4:00pm WAT or at 7:30pm WAT.
 
     b. The course website will be : https://mathematical-thinking.vercel.app/ 

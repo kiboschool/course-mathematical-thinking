@@ -235,3 +235,9 @@ summary + * {
 img {
     box-shadow: var(--med-shadow);
 }
+
+@media print {
+  li {
+    margin-bottom: 6em;
+  }
+}
