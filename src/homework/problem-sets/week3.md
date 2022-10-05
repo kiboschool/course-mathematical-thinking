@@ -31,7 +31,7 @@ This problem set is due Sunday October 30th at 10pm
 
 6. Let A, B, and C be sets:
    
-   a. Suppose that \\(A \subseteq B\\) and \\(B \subseteq C\\). Does this mean that \\(A \subset C\\)? Prove your answer. (This is equivalent to proving that \\(\forall x, x \in A \to x \in C)\\)
+   a. Suppose that \\(A \subseteq B\\) and \\(B \subseteq C\\). Does this mean that \\(A \subseteq C\\)? Prove your answer. (This is equivalent to proving that \\(\forall x, x \in A \to x \in C)\\)
    
    b.   Suppose that \\(A \in B\\) and \\(B \in C\\). Does this mean that \\(A \in C?\\) Prove your answer.
 
