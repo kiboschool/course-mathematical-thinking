@@ -52,20 +52,18 @@ We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\\) is
 
 There may be a few different ways to express a given definition of a set, but this is a helpful notation we should practice. Try to interpret the following four sets in plain english:
 
-\\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
-<answer> 
-	This is the set of all numbers x such that x + 3 is in \\(\mathbb N\\), in other words a postive integer. In other words, this is the set {-3, -2, -1, 0, 1, ...} as -3 + 3 = 0 which belongs to \\(\mathbb N\\)
-</answer> 
-<details>\\(\\{x \in \mathbb N : x + 3 \in \mathbb N\\}\\)
-	This is the set of all positive integers x such that x+3 is a positive integer. We end up with the set of positive integers \\(\mathbb N\\)
-</details> 
-<details>\\(\\{x \in \mathbb R: x \in \mathbb N \lor -x \in \mathbb N\\}\\)
-	This is the set of all numbers x such that x is a positive integer, or -x is a positive integer. If -x is a positive integer, then x is a negative integer. This ends up being a convoluted way to represent \\(\mathbb Z\\), the set of all integers.
-</details>
-<details> \\(\\{x \in \mathbb R: x \in \mathbb N \land -x \in \mathbb N\\}\\)
-	This is the set of all numbers x such that x is a positive integer, **and** -x is a positive integer. This is an odd combination, but there is one number which satisfies it: 0. This makes our answer the set {0}
-</details>
+	\\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
 
+This is the set of all numbers x such that x + 3 is in \\(\mathbb N\\), in other words a postive integer. In other words, this is the set {-3, -2, -1, 0, 1, ...} as -3 + 3 = 0 which belongs to \\(\mathbb N\\)
+
+	\\(\\{x \in \mathbb N : x + 3 \in \mathbb N\\}\\)
+This is the set of all positive integers x such that x+3 is a positive integer. We end up with the set of positive integers \\(\mathbb N\\)
+
+	\\(\\{x \in \mathbb R: x \in \mathbb N \lor -x \in \mathbb N\\}\\)
+This is the set of all numbers x such that x is a positive integer, or -x is a positive integer. If -x is a positive integer, then x is a negative integer. This ends up being a convoluted way to represent \\(\mathbb Z\\), the set of all integers.
+
+	\\(\\{x \in \mathbb R: x \in \mathbb N \land -x \in \mathbb N\\}\\)
+This is the set of all numbers x such that x is a positive integer, **and** -x is a positive integer. This is an odd combination, but there is one number which satisfies it: 0. This makes our answer the set {0}
 
 Next, we cover operations between sets.
 

@@ -10,29 +10,26 @@ The same way we can combine numbers through addition, substractions, etc. There 
 The Union of two sets \\(A\\) and \\(B\\) represent all the elements that belong to either of the two sets. The union operation is represented by the symbol \\(\cup\\)
 
 Formally then, \\(A \cup B = \\{x \in U: x \in A \lor x \in B\\}\\)
-Given this definition, how would you evaluate the following:
+Given this definition, how would you evaluate \\(A \cup \emptyset\\) ? Try it out.
 
-<details> \\(A \cup \emptyset\\)
-	This evaluates to \\(A\\). The empty set has no elements to contribute to the union
-</details>
 
-<details> \\(A \cup U\\)
-	This evaluates to \\(U\\). The universal set already contains all the elements of \\(A\\)
-</details>
+This evaluates to \\(A\\). The empty set has no elements to contribute to the union
+
+How about \\(A \cup U\\)?
+
+This evaluates to \\(U\\). The universal set already contains all the elements of \\(A\\)
 
 ### Intersection
 The Intersection of two sets \\(A\\) and \\(B\\) represent all the elements that belong to both of the two sets. The intersection operation is represented by the symbol \\(\cap\\)
 
 Formally then, \\(A \cap B = \\{x \in U: x \in A \land x \in B\\}\\)
-Given this definition, how would you evaluate the following:
+Given this definition, how would you evaluate \\(A \cap \emptyset\\)?
 
-<details> \\(A \cap \emptyset\\)
-	This evaluates to \\(\emptyset\\). The empty set has no elements, so there are no elements in common between it and \\(A\\)
-</details>
+This evaluates to \\(\emptyset\\). The empty set has no elements, so there are no elements in common between it and \\(A\\)
 
-<details> \\(A \cap U\\)
-	This evaluates to \\(A\\). The universal set already contains all the elements of \\(A\\), so those are the elements the two sets have in common
-</details>
+How about \\(A \cap U\\)?
+
+This evaluates to \\(A\\). The universal set already contains all the elements of \\(A\\), so those are the elements the two sets have in common
 
 ### Substraction:
 The substraction of two sets \\(A\\) and \\(B\\) represent all the elements that belong to \\(A\\) but not to \\(B\\) of the two sets. The intersection operation is represented by the symbol \\(\setminus\\)
@@ -41,19 +38,15 @@ Formally then, \\(A \setminus B = \\{x \in U: x \in A \land x \notin B\\}\\)
 
 Notice that while order did not matter for union and intersection, \\(A \setminus B\\) and \\(B \setminus A\\) will produce different results.
 
-Given this definition, how would you evaluate the following:
+Given this definition, how would you evaluate the following \\(A \setminus \emptyset\\)? 
 
-<details> \\(A \setminus \emptyset\\)
-	This evaluates to \\(\A\\). The empty set has no elements, so there are no elements to remove \\(A\\)
-</details>
+This evaluates to \\(\A\\). The empty set has no elements, so there are no elements to remove \\(A\\)
 
-<details> \\(A \setminus U\\)
-	This evaluates to \\(\emptyset\\). The universal set already contains all the elements of \\(A\\), so we would 'take away' all the elements, leaving the empty set.
-</details>
+How about \\(A \setminus U\\) and \\(U \setminus A\\)? We should expect these to be different. 
 
-<details> \\(U \setminus A\\)
-	This evaluates to \\(\bar A\\). By our definition, this would be all the elements that do not belong to \\(A\\), in other words its complement.
-</details>
+\\(A \setminus U\\) evaluates to \\(\emptyset\\). The universal set already contains all the elements of \\(A\\), so we would 'take away' all the elements, leaving the empty set.
+
+\\(U \setminus A\\) evaluates to \\(\bar A\\). By our definition, this would be all the elements that do not belong to \\(A\\), in other words its complement.
 
 ## References:
 For further details, you can read through the following chapter:

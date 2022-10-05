@@ -19,13 +19,11 @@ Sometimes, we want to state that a set is a **strict subset** of another - meani
 So to indicate that \\(A\\) is a strict subset of \\(C\\), we use \\(\subset\\). \\(A \subset C \to (\forall x \in A, x \in C) \land (\exists y \in C \land y \notin A)\\)
 
 ## Power sets:
-How many subsets does the set \\(A = \\{1, 2, 3\\}\\) have? we can think of a few quickly, like \\\\({1\\}\\) or \\(\\{2, 3\\}\\). We use the term *Power Set* to represent - and bear with us here - the set of all subsets of a given set. Think about it for a moment, how many elements do you think qualify as *subsets* of \\(A\\)? 
+How many subsets does the set \\(A = \\{1, 2, 3\\}\\) have? we can think of a few quickly, like \\(\\{1\\}\\) or \\(\\{2, 3\\}\\). We use the term *Power Set* to represent - and bear with us here - the set of all subsets of a given set. Think about it for a moment, how many elements do you think qualify as *subsets* of \\(A\\)? Take a few minutes to think about it before clicking here!
 
-<details> Take a few minutes to think about it before clicking here!
-	More directly, \\( \mathbb P\(A\) = \\{\emptyset, \\{1\\}, \\{2\\}, \\{3\\}, \\{1, 2\\}, \\{1, 3\\}, \\{2, 3\\}, \\{1, 2, 3\\}\\}\\)
+More directly, the powerset of \\(A\\) \\( \mathcal P\(A\) = \\{\emptyset, \\{1\\}, \\{2\\}, \\{3\\}, \\{1, 2\\}, \\{1, 3\\}, \\{2, 3\\}, \\{1, 2, 3\\}\\}\\)
 
-Note that \\(2 \notin \mathbb P\(A\)\\), as it is the **set** {2} that is contained, not the number 2.
-</details>
+Note that \\(2 \notin \mathcal P\(A\)\\), as it is the **set** {2} that is contained, not the number 2.
 
 
 ## References:
