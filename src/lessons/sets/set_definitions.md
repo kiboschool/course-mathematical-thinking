@@ -16,7 +16,7 @@ Let's talk notation with a simple set: let \\( V = \\{a, e, i, o, u, y\\}\\) be 
 
 Finally, one thing to bear in mind is that sets can contain anything and everything: numbers, symbols, words, other sets.
 
-For example consider: \\( A = \\{\\42, guide, \\{79, 80, 82\\}\\}\\) This set contains the number 42, the word guide, and the set {79, 80, 82}. This means that 80 \\(\notin  A\\), even though 80 belongs to a set within \\( A\\), it is not directly an element of \\( A\\)
+For example consider: \\( A = \\{42, guide, \\{79, 80, 82\\}\\}\\) This set contains the number 42, the word guide, and the set {79, 80, 82}. This means that 80 \\(\notin  A\\), even though 80 belongs to a set within \\( A\\), it is not directly an element of \\( A\\)
 ### Programming 1 connection:
 Sets are so useful, they are a core part of many programming languages as well. You can even create them in a similar fashion: In python you can recreate our set of vowels as follows:
 
@@ -46,15 +46,16 @@ Our initial examples of sets were quite small, so we could list all the elements
 
 We can express the key idea behind a set using set builder notation, a shorthand that captures the *conditions* we set on an element to belong to a set. Let's try to define an infinite set: \\(E\\) is the set of **even, positive** integers. 
 
-In other words, \\(E\\) is the set of all elements of \\(\mathbb N\\) that are even. so if we consider a variable \\(x x \in E \to (x \in \mathbb N \land x\\) is even \\()\\)
+In other words, \\(E\\) is the set of all elements of \\(\mathbb N\\) that are even. so if we consider a variable \\(x \in E \to (x \in \mathbb N \land x\\) is even \\()\\)
 
-We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\\) is even \\(}\\). Here, the **:** is a shorthand for "such that". Following the **:** you can define propositions that **must** be true for all elements of the set. 
+We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\\) is even \\(\\}\\). Here, the **:** is a shorthand for "such that". Following the **:** you can define propositions that **must** be true for all elements of the set. 
 
 There may be a few different ways to express a given definition of a set, but this is a helpful notation we should practice. Try to interpret the following four sets in plain english:
 
-<details> \\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
+\\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
+<answer> 
 	This is the set of all numbers x such that x + 3 is in \\(\mathbb N\\), in other words a postive integer. In other words, this is the set {-3, -2, -1, 0, 1, ...} as -3 + 3 = 0 which belongs to \\(\mathbb N\\)
-</details> 
+</answer> 
 <details>\\(\\{x \in \mathbb N : x + 3 \in \mathbb N\\}\\)
 	This is the set of all positive integers x such that x+3 is a positive integer. We end up with the set of positive integers \\(\mathbb N\\)
 </details> 

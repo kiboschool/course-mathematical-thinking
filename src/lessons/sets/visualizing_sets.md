@@ -8,7 +8,7 @@ We've introduced a lot of notation so let's take a moment and consolidate all of
 
 ![2-set venn diagram](/images/two-set-venn-empty.svg)
 
-![3-set venn diagram](/images/three-set-venn-empty.svg)
+![3-set venn diagram](/images/three-set-empty.svg)
 
 You can easily express the various operations we showed above: 
 
@@ -20,7 +20,7 @@ How would you express the relationship between the three sets displayed in this 
 ![Give it at least 3 minutes before opening the answer](/images/three-set-complicated.svg)
 
 <details> Solution:
-	There are a few different ways to express the relationship here, but the simples we could think of is: \\(\(B \cap C\) \cup \(C \cap \bar A\)\\). Is it equivalent to what you found?
+	There are a few different ways to express the relationship here, but the simples we could think of is: \\((B \cap C) \cup (C \cap \bar A)\\). Is it equivalent to what you found?
 </details>
 
 ## References:
