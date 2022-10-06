@@ -33,8 +33,8 @@ jobs:
             productionFlag="--prod"
           fi
 
-          if [[ ${GITHUB_REF} == "refs/heads/draft" ]]; then
-            export VERCEL_PROJECT_ID=${DRAFT_PROJECT_ID} 
+          if [[ ${GITHUB_REF} == "refs/heads/preview" ]]; then
+            export VERCEL_PROJECT_ID=${PREVIEW_PROJECT_ID} 
             productionFlag="--prod"
           fi
 
@@ -43,4 +43,4 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           MAIN_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-          DRAFT_PROJECT_ID: ${{ secrets.DRAFT_VERCEL_PROJECT_ID }}
+          PREVIEW_PROJECT_ID: ${{ secrets.PREVIEW_VERCEL_PROJECT_ID }}
