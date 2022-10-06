@@ -71,7 +71,7 @@ We will look at some more strict connectors than implication in the next few sec
 
 ## Negation
 
-Thi is the most straightforward connector. \\(\lnot\\), also known as the ***NOT*** operator, simply changes the value of a proposition to its opposite. For example if we have \\( P\\): Zainab is on the dancefloor, then \\(\lnot \matbb P\\) is the proposition Zainab is *not* on the dancefloor. This leads to the very straightforward Truth table:
+Thi is the most straightforward connector. \\(\lnot\\), also known as the ***NOT*** operator, simply changes the value of a proposition to its opposite. For example if we have \\( P\\): Zainab is on the dancefloor, then \\(\lnot P\\) is the proposition Zainab is *not* on the dancefloor. This leads to the very straightforward Truth table:
 
 
 | \\( P\\) | \\(\lnot  P\\) |

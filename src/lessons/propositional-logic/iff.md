@@ -30,7 +30,7 @@ Thinking through this in english we have:
 
 When both are true, we can say that "If and only if the DJ is playing Jerusalema, then Zainab is not on the dancefloor". This is why we call this kind of statement "biconditional", as they are the combination of two "conditional" statements. 
 
-Let's simplify our truth table and introduce the formal statement for biconditionals: \\(\iff)
+Let's simplify our truth table and introduce the formal statement for biconditionals: \\(\iff\\)
 
 | \\( P\\) | \\( Q\\) | \\( P \iff  Q\\)| 
 | ------------ | -------------| -----------------------------------|
@@ -45,7 +45,7 @@ Let's simplify our truth table and introduce the formal statement for biconditio
 
 We have covered all our connectors now! so our final priority order is:
 1- \\(\lnot\\)
-2- \(\land\\)
+2- \\(\land\\)
 3- \\(\lor\\)
 4- \\(\to  ,  \iff\\)
 
