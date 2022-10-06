@@ -1,10 +1,8 @@
-# Weekly Assignments
+# Problem Sets and Guiding Questions
 
-Throughout the course, you will be expected to perform two tasks weekly:
-- A problem set will be released halfway through each week covering that week's content.
-- A short, open-ended research question will be released at the end of each week.
-
-You'll also have two larger projects, described on their own pages.
+Throughout the course, you will be expected to complete two tasks weekly:
+- A problem set covering that week's content.
+- A short, open-ended research question to ponder about the week's material.
 
 You can find the instructions and links to each week's work below.
 
@@ -14,12 +12,23 @@ Problem sets let you practice with the topics you cover that week, explore appli
 
 ### Problem Set Instructions
 
--  You may collaborate with up to 1 peer. If you do, include their name explicitly in your submission.
--  Show your work. Direct answers will not be accepted.
--  Each submission is worth 5% of your final grade, for a total of 45%.
+- Submit your work in Gradescope
+- Show your work. Direct answers will not be accepted.
+- Each submission is worth 5% of your final grade, for a total of 50%.
+- You may collaborate with your peers. If you do, include their names explicitly 
+  in your submission (write something like "I collaborated with (names) on this 
+  assignment" at the top of your submission)
 
 ### Problem Set Index
 
+Problem Set 0 is a chance to practice submitting work on Gradescope. It is intended
+to be quite easy, and will not be scored.
+
+Note that Problem Set 0 and Problem Set 1 are both due in Week 1. You should
+submit Problem Set 0 as soon as possible, to confirm that you are properly set
+up for further submissions.
+
+- [Problem Set 0](homework/problem-sets/week0.md)
 - [Problem Set 1](homework/problem-sets/week1.md)
 - [Problem Set 2](homework/problem-sets/week2.md)
 - [Problem Set 3](homework/problem-sets/week3.md)

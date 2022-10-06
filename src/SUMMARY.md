@@ -1,7 +1,7 @@
 # Mathematical Thinking
 
 [Mathematical Thinking](mathematical-thinking.md)
-[Weekly Assignments](weekly-assignments.md)
+[Problem Sets and Guiding Questions](weekly-assignments.md)
 [Midterm Project](midterm-project.md)
 [Final Project](final-project.md)
 [Problem Set 0](homework/problem-sets/week0.md)
