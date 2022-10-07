@@ -3,7 +3,7 @@
 ## Key ideas:
 - Defining what a proposition is.
 - Recognizing ambiguous and unambiguous statements
-- Recognizing atomic componts of a sentence
+- Recognizing atomic components of a sentence
 - Establishing the goal of propositional logic
 
 ## Building a clear language:

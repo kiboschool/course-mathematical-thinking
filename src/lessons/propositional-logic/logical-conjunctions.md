@@ -6,7 +6,7 @@
 - Introduce the truth table and notation for Or
 
 ## And:
-The first connector we will discuss is ***AND***. We use it often to connect propositions - "I am tired ***AND*** I am happy" - but let's formalize our understanding of it. Firt, in propositional logic, we often use a specific symbol to indicate ***AND*** rather than writin the word over and over again. The symbol for AND is \\(\land). So you should be able to interpret I am tired \\(\land) I am happy the same way as the above sentence.
+The first connector we will discuss is ***AND***. We use it often to connect propositions - "I am tired ***AND*** I am happy" - but let's formalize our understanding of it. Firt, in propositional logic, we often use a specific symbol to indicate ***AND*** rather than writin the word over and over again. The symbol for AND is \\( \land \\). So you should be able to interpret I am tired \\( \land \\) I am happy the same way as the above sentence.
 
 Let \\( P\\), \\( Q\\) be two propositions. Instinctively, we have a sense for what \\( P \land  Q\\) mean, but let's formalize it! remember that our key objective is to be very specific. This might be easier to reason about with concrete examples so:
 - Let \\( P\\) be the proposition "You are reading this on your phone"

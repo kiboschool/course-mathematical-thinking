@@ -9,3 +9,4 @@ You'll also practice evaluating chains of reasoning to verify that the reasoning
 ## Resources:
 - [A Concise introduction to logic part 1](https://open.umn.edu/opentextbooks/textbooks/452)
 - [Discrete mathematics - an open introduction part 3.1](http://discrete.openmathbooks.org/dmoi3/sec_propositional.html)
+- [Instructor reading for Propositional Logic](https://www.wolframcloud.com/obj/scamach2/Published/Propositional%20Logic.nb)

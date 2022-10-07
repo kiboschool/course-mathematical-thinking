@@ -68,16 +68,6 @@ This may seem counterintuitive to you at a glance. The key idea here is not to c
 
 We will look at some more strict connectors than implication in the next few sections. For now though, let's move on to a very simple one. 
 
-## Negation
-
-This is the most straightforward connector. \\(\lnot\\), also known as the ***NOT*** operator, simply changes the value of a proposition to its opposite. For example if we have \\( P\\): Zainab is on the dancefloor, then \\(\lnot \matbb P\\) is the proposition Zainab is *not* on the dancefloor. This leads to the very straightforward Truth table:
-
-
-| \\( P\\) | \\(\lnot  P\\) |
-| ------------ | -------------|
-| True | False |
-| False | True |
-
 ## Converse, Inverse, Contrapositive
 
 Given an implication \\( P \to  Q\\), we can derive 3 related propositions:
