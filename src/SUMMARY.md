@@ -11,12 +11,17 @@
 - [Propositional Logic](lessons/propositional-logic.md)
   - [Propositions and statements](lessons/propositional-logic/propositions.md)
   - [Logical conjunctions](lessons/propositional-logic/logical-conjunctions.md)
-  - [Negation and Implication](lessons/propositional-logic/negation-and-implication.md)
+  - [Negation](lessons/propositional-logic/negation)
+  - [Implication](lessons/propositional-logic/implication.md)
   - [If and only if](lessons/propositional-logic/iff.md)
   - [Problem Set 1](homework/problem-sets/week1.md)
 
 - [Proofs](lessons/proofs.md)
   - [Guiding Question](homework/the-question/week2.md)
+  - [Direct Proofs](lessons/proofs/direct_proofs.md)
+  - [First Order Logic](lessons/proofs/first_order_logic.md)
+  - [Proofs by contrapositive](lessons/proofs/indirect_proofs_contrapositive.md)
+  - [Proofs by contradiction](lessons/proofs/indirect_proofs_contradiction.md)
   - [Problem Set 2](homework/problem-sets/week2.md)
 
 - [Sets](lessons/sets.md)

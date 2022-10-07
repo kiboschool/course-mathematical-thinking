@@ -11,9 +11,9 @@ This problem set is due Sunday October 23rd at 10pm
 1. Prove the following statements:
    1. Given that \\( \forall x, F(x) \lor G(x)\\) and \\(\lnot \exists x G(x)\\), conclude that \\(\forall x, F(x)\\)
    2. \\( \forall x (\lnot F(x) \lor G(x)) \to \forall x (F(x) \to G(x))\\)
-   3. \\( \lnot \exists x F(x) \iff \forall x \lnot F(x) \\)
-   4. \\(\lnot \forall x F(x) \iff \exists x \lnot F(x) \\)
-   5. \\(\exists x F(x) \iff \lnot \forall x \lnot F(x) \\)
+   3. \\( \lnot (\exists x F(x)) \iff \forall x \lnot F(x) \\)
+   4. \\(\lnot (\forall x F(x)) \iff \exists x \lnot F(x) \\)
+   5. \\(\exists x F(x) \iff \lnot (\forall x \lnot F(x)) \\)
 
 2. Consider the statement: For all integers _n_, if _n_ is even then _8n_ is even. 
    1. Prove the statement. What kind of proof are you using?
