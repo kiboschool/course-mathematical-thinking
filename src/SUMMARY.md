@@ -15,16 +15,16 @@
   - [If and only if](lessons/propositional-logic/iff.md)
   - [Problem Set 1](homework/problem-sets/week1.md)
 
-- [Proofs](lessons/proofs.md)
-  - [Guiding Question](homework/the-question/week2.md)
-  - [Problem Set 2](homework/problem-sets/week2.md)
-
 - [Sets](lessons/sets.md)
   - [Guiding Question](homework/the-question/week3.md)
   - [Key Set Definitions](lessons/sets/set_definitions.md)
   - [Set Operations](lessons/sets/set_operations.md)
   - [Subsets](lessons/sets/subsets.md)
   - [Visualizing sets](lessons/sets/visualizing_sets.md)
+  - [Problem Set 2](homework/problem-sets/week2.md)
+
+- [Proofs](lessons/proofs.md)
+  - [Guiding Question](homework/the-question/week2.md)
   - [Problem Set 3](homework/problem-sets/week3.md)
 
 - [Counting](lessons/counting.md)

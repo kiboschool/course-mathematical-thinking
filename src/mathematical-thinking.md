@@ -42,8 +42,8 @@ By the end of the course, you will be able to:
 ## Weekly Topics
 
 1. Propositional Logic
-2. Introduction to Proofs
-3. Introduction to Sets
+2. Introduction to Sets
+3. Introduction to Proofs
 4. Counting
 5. Probability
 6. Functions and Relations
