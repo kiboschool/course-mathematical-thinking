@@ -15,6 +15,10 @@ This course will help you develop the ability to think logically and mathematica
 
 You'll review number systems, and their relevance to digital computers. You'll discuss and practice algebraic operations and concepts fundamental to Computer Science. The course also includes an introduction to counting and probability.  You'll also explore how all of these methods are used in real-world computational problems.
 
+## Course Overview
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://www.loom.com/embed/0b4f098ed9f64945b0d4b8648d4353b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Meeting Times
 
 * Class 1: Mondays from 3:00pm - 4:30pm GMT
