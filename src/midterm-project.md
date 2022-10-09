@@ -16,12 +16,14 @@ By the end of this project, you will have compared different password schemes, y
 
 ## Instructions
 
-The project has 3 parts:
-<!-- This is what should be published when the course begins. We can swap to the version with urls once we reach week 4
+The project will have 3 parts:
 - Part 1: Password Generation
 - Part 2: Attacking Passwords
 - Part 3: Storing Passwords
--->
+
+More information will be published here when the project is assigned.
+
+<!-- This is what should be published in week 3
 
 - [Part 1: Password Generation](#part-1-password-generation)
 - [Part 2: Attacking Passwords](#part-2-attacking-passwords)
@@ -285,3 +287,4 @@ Security is an arms race. When researchers invent new techniques to keep things 
 On a lighter note, take a look at this [comic](https://imgs.xkcd.com/comics/password_strength.png).
 
 5. (Optional) What do you think of the statement the comic makes? Is the password scheme from the comic (four 3-to-8 letter words) safe? What would you recommend to your friends and family, in terms of password management?
+-->

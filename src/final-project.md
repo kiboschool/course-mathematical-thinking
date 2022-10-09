@@ -8,14 +8,15 @@ Encryption algorithms will also transform data, but with a clear way to get the 
 
 ## Instructions
 
-<!--
-This is what should be shown to the students initially. We publish the linked version when students reach the relevant content
-
 The project has 3 parts:
 - Part 1: Defining Encryption
 - Part 2: Preparing for RSA
 - Part 3: Proving RSA
- -->
+
+More information will be published here when the project is assigned.
+
+<!-- When publishing the final project, uncomment the rest of this file
+
 
 The project has 3 parts:
 - [Part 1: Defining Encryption](#part-1-intuition-for-encryption)
@@ -240,3 +241,5 @@ Following the reasoning above is good practice however for future algorithms we 
 Most importantly, our future studies will focus a lot on not only proving that algorithms are correct, but on figuring out how fast they operate exactly.
 This is called runtime analysis, and is a crucial skill to support your growth as a developer and computer scientist.
 You intuitively might believe that factoring large numbers is hard and slow when the numbers get really big, but we will move from intuitions to proofs in that area too!
+
+-->
