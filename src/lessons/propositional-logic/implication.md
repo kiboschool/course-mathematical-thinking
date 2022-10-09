@@ -2,7 +2,6 @@
 
 ## Key ideas:
 - Introduce the truth table and notation for implications
-- Introduce the truth table and notation for negation
 - Define inverse, converse, and contrapositive.
 
 ## Implications:
@@ -68,16 +67,6 @@ Similarly, we can conclude that the final scenario should also evaluate to True.
 This may seem counterintuitive to you at a glance. The key idea here is not to consider implications as *more strict* than they are: They simply say that the *conclusion* will always follow *the hypothesis*, but there may be other scenarios where the conclusion is True. The only way an implication is false is by showing that *the hypothesis is True* and *the conclusion is False* 
 
 We will look at some more strict connectors than implication in the next few sections. For now though, let's move on to a very simple one. 
-
-## Negation
-
-Thi is the most straightforward connector. \\(\lnot\\), also known as the ***NOT*** operator, simply changes the value of a proposition to its opposite. For example if we have \\( P\\): Zainab is on the dancefloor, then \\(\lnot \matbb P\\) is the proposition Zainab is *not* on the dancefloor. This leads to the very straightforward Truth table:
-
-
-| \\( P\\) | \\(\lnot  P\\) |
-| ------------ | -------------|
-| True | False |
-| False | True |
 
 ## Converse, Inverse, Contrapositive
 
