@@ -34,6 +34,16 @@ up for further submissions.
 
 - [Problem Set 0](homework/problem-sets/week0.md)
 - [Problem Set 1](homework/problem-sets/week1.md)
+- Problem Set 2
+- Problem Set 3
+- Problem Set 4
+- Problem Set 5
+- Problem Set 6
+- Problem Set 7
+- Problem Set 8
+- Problem Set 9
+
+<!--
 - [Problem Set 2](homework/problem-sets/week2.md)
 - [Problem Set 3](homework/problem-sets/week3.md)
 - [Problem Set 4](homework/problem-sets/week4.md)
@@ -42,6 +52,7 @@ up for further submissions.
 - [Problem Set 7](homework/problem-sets/week7.md)
 - [Problem Set 8](homework/problem-sets/week8.md)
 - [Problem Set 9](homework/problem-sets/week9.md)
+-->
 
 ## Guiding Questions
 
@@ -56,6 +67,18 @@ Each week is guided by a question that prompts you to think and explore the cent
 
 Each week will have a guiding question released the prior week, to help prime your thinking about the topic.
 
+The questions will be linked here when each week's lessons are published.
+
+- Guiding Question - Week 2
+- Guiding Question - Week 3
+- Guiding Question - Week 4
+- Guiding Question - Week 5
+- Guiding Question - Week 6
+- Guiding Question - Week 7
+- Guiding Question - Week 8
+- Guiding Question - Week 9
+
+<!--
 - [Guiding Question - Week 2](homework/the-question/week2.md)
 - [Guiding Question - Week 3](homework/the-question/week3.md)
 - [Guiding Question - Week 4](homework/the-question/week4.md)
@@ -64,3 +87,4 @@ Each week will have a guiding question released the prior week, to help prime yo
 - [Guiding Question - Week 7](homework/the-question/week7.md)
 - [Guiding Question - Week 8](homework/the-question/week8.md)
 - [Guiding Question - Week 9](homework/the-question/week9.md)
+-->
