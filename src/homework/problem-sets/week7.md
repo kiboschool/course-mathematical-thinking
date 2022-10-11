@@ -1,12 +1,18 @@
-## Submission and Due dates:
+# Problem Set 7
+
+## Submission
 
 This problem set is due Sunday November 27th at 10pm
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
+- You may collaborate with up your peers. If you do, be sure to mention who you 
+  collaborated with explicitly in your submission. For example, write "I worked
+  with Ope and Mehdi on this problem set" at the top.
 - Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
 
-## Instructions:
+Submit your response in Gradescope, either using the app or the website.
+
+## Problems
+
 1. Solve the following equations:
     1. 2^{4x} = 8
     2. 4^{2x} = \frac{1}{2}
