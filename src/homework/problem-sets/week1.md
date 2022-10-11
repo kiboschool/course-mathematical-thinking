@@ -65,7 +65,7 @@ Submit your response in Gradescope, either using the app or the website.
 
     e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P \wedge R) \iff (Q \wedge S))\\).
 
-    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  R\\).
+    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  \\(R\\).
 
     g. Conclusion:  \\(((P \iff Q) \iff (\neg P \iff \neg Q))\\)
 
