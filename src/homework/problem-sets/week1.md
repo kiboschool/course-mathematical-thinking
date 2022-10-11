@@ -59,7 +59,7 @@ This problem set is due Sunday October 16th at 10pm
 
     d. Premises:  \\(( \neg P \vee Q), (P\vee \neg Q)\\). Conclusion:  \\((P \iff Q)\\).
 
-    e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P^R) \iff (Q^S))\\).
+    e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P \wedge R) \iff (Q \wedge S))\\).
 
     f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  R\\).
 
