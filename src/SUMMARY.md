@@ -5,6 +5,7 @@
 [Midterm Project](midterm-project.md)
 [Final Project](final-project.md)
 [Problem Set 0](homework/problem-sets/week0.md)
+[Live Classes](live-classes.md)
 
 ## Lessons
 

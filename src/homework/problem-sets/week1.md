@@ -4,8 +4,12 @@
 
 This problem set is due Sunday October 16th at 10pm
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
+- You may collaborate with up your peers. If you do, be sure to mention who you 
+  collaborated with explicitly in your submission. For example, write "I worked
+  with Ope and Mehdi on this problem set" at the top.
 - Show your work. Direct answers will not be accepted.
+
+Submit your response in Gradescope, either using the app or the website.
 
 ## Problems
 
