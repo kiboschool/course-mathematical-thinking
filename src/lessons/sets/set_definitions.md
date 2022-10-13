@@ -36,7 +36,7 @@ Let's combine the last two concepts we've encountered: What is the complement of
 ## Famous sets
 
 In the days and weeks to come, we will reason about specific groups of numbers. These are so commonly used that they have some shorthands we share here for reference:
-- \\(\mathbb N\\) is the set of **natural** number, or positive integers. Sometimes refered to as whole numbers, \\(\mathbb N = \\{0, 1, 2, 3 ...\\}\\)
+- \\(\mathbb N\\) is the set of **natural** number, or non-negative integers. Sometimes refered to as whole numbers, \\(\mathbb N = \\{0, 1, 2, 3 ...\\}\\)
 - \\(\mathbb Z\\) is the set of **integers**, this includes positive and negative whole numbers, \\(\mathbb Z = \\{..., -2, -1, 0, 1, 2, ...\\}\\)
 - \\(\mathbb Q\\) is the set of **rational** numbers, this includes all elements of \\(\mathbb Z\\), as well as all numbers that can be expressed as finite fractions like 0.25, or 0.11
 - \\(\mathbb R\\) is the set of **real** numbers, this includes all elements of \\(\mathbb Q\\), as well as all numbers that can not be expressed as finite fractions such as *pi*, or \\(\frac {1}{3}\\)
