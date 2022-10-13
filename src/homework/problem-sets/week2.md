@@ -23,7 +23,7 @@ Submit your response in Gradescope, either using the app or the website.
 
    d. Find B \\(\cup\\) C. 
 
-2. Let a = { 1, 2, 3, 4, 5, 6}. Find all sets \\( B \in \mathcal P (A) \\)
+2. Let a = { 1, 2, 3, 4}. Find all sets \\( B \in \mathcal P (A) \\)
 
 4. Are there sets A and B such that |A| = |B|, |A \\(\cup\\) B| = 10, and |A \\(\cap\\) B| = 5? Explain.
 

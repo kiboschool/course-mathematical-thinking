@@ -17,8 +17,6 @@
   - [If and only if](lessons/propositional-logic/iff.md)
   - [Problem Set 1](homework/problem-sets/week1.md)
 
-<!--
-
 - [Sets](lessons/sets.md)
   - [Guiding Question](homework/the-question/week2.md)
   - [Key Set Definitions](lessons/sets/set_definitions.md)
@@ -26,6 +24,8 @@
   - [Subsets](lessons/sets/subsets.md)
   - [Visualizing sets](lessons/sets/visualizing_sets.md)
   - [Problem Set 2](homework/problem-sets/week2.md)
+
+<!--
 
 - [Proofs](lessons/proofs.md)
   - [Guiding Question](homework/the-question/week3.md)
