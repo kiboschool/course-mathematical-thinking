@@ -22,7 +22,7 @@ First of all, what is the contrapositive of this implication? think about it for
 
 From here on out, we can approach our proof directly: 
 - Assume that x and y are two odd integers.
-- This means that \\(x = 2k+1\\) and \\(y = 2n+1\\) for some integers k and n such that \\(k \neq n\\) - we want to make a general argument, so let's make sure x and y are different.
+- This means that \\(x = 2k+1\\) and \\(y = 2n+1\\) for some integers k and n - we want to make a general argument, so we cannot assume that k and n are equal, but we also do not want to assume that they are different.
 - This means that \\(xy = (2k+1)(2n+1)\\)
 - Expanding we get \\(xy = 4kn + 2k + 2n + 1\\)
 - \\(xy = 2(2kn + k + n) + 1\\)

@@ -8,19 +8,19 @@
 ## Predicates:
 Predicates are a bit of a tricky concept. So far we've worked with *propositions*: statements that evaluate to True or False. 
 
-A predicate is a bit different. Defining a predicate is like defining a "test" of sorts. For example let a predicate \\(F(x): x can code in Python\\). Simply saying \\(F(x)\\) is not a proposition. What would that mean? who is x?
+A predicate is a bit different. Defining a predicate is like defining a "test" of sorts. For example let a predicate \\(F(x): "x can code in Python"\\). Simply saying \\(F(x)\\) is not a proposition. What would that mean? who is x?
 
-On the other hand, we should be able to answer the question \\(F(Guido Van Rossum)\\) with a quick google search - as the creator of Python, one would hope he knows how to use it! This can be a handy shorthand to separate to express our thinking more accurately. 
+On the other hand, we should be able to answer the question \\(F(Guido\ Van\ Rossum)\\) with a quick google search - as the creator of Python, one would hope he knows how to use it! This can be a handy shorthand to separate to express our thinking more accurately. 
 
-Predicates can work on multiple variables as well. For example we can define a predicate \\(G(x, y): x has seen more episodes of Top Boy than y\\). This may be True or False based on the x and y, but still captures what we need to do to establish if the predicate.
+Predicates can work on multiple variables as well. For example we can define a predicate \\(G(x, y): "x has seen more episodes of Top Boy than y"\\). This may be True or False based on the x and y, but still captures what we need to do to establish if the predicate.
 
 Let's revisit one of last week's example and update it using predicates. We go back to the dancefloor with our friend Zainab. Recall we had the implication:
 
 > If the DJ is playing Jerusalema, then Zainab is not on the dancefloor
 
 Let's rephrase this in terms of predicates
-- Let \\(P(s): The DJ is currently playing song s\\)
-- Let \\(Df(x): x is on the dancefloor\\)
+- Let \\(P(s): "The DJ is currently playing song s"\\)
+- Let \\(Df(x): "x is on the dancefloor"\\)
 
 We can rephrase our implication now as:
 > \\(P(jerusalema) \to \lnot Df(Zainab)\\)
@@ -48,7 +48,7 @@ Similarly, for Kamau: \\(\lnot(\exists song: P(song) \to \lnot Df(Kamau))\\) - I
 
 Note that this the way we've been discussing this. It only makes sense to talk about songs. Our predicate P() and our quantifiers are pertaining to songs. They would not make sense for numbers, vegetables, people, or any other type of data. 
 
-This is important to bear in mind: It is your responsibility when using quantifiers to specify what kind of information we are talking about. For the purposes of this week's content, we will be focusing on positive whole numbers. When we say for all numbers *n*, we really mean for all positive integers. 
+This is important to bear in mind: It is your responsibility when using quantifiers to specify what kind of information we are talking about. For the purposes of this week's content, we will be focusing on whole numbers. When we say for all numbers *n*, we really mean for all non-negative integers. 
 
 With this we have all the tools we need to start getting into the meat of things: Proofs!
 

@@ -22,5 +22,5 @@ Video recordings of the class will also be posted after the classes each week.
 [w2-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Sets.nb
 [w2-video1]: https://youtu.be/yakr-wBGQ8g
 [w2-video2]: 
-[w2-classproblems]: 
+[w2-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Sets%20Class%20Problems%20Solutions.nb
 [w2-psSols]:
