@@ -7,7 +7,7 @@ Video recordings of the class will also be posted after the classes each week.
 |------|---------------------|-------------------------|----------------------|---------------------|-----------------------------------|----------------------|
 | 1    | Propositional Logic | [Notes][w1-notes]       | [YouTube][w1-video1] |[YouTube][w1-video2] |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
 | 2    | Sets                | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
-| 3    | Proofs              | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
+| 3    | Proofs              | [Notes][w3-notes]       | [YouTube][w3-video1] |[YouTube][w3-video2] |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
 
 
 
