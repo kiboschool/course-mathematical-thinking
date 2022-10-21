@@ -25,8 +25,6 @@
   - [Visualizing sets](lessons/sets/visualizing_sets.md)
   - [Problem Set 2](homework/problem-sets/week2.md)
 
-<!--
-
 - [Proofs](lessons/proofs.md)
   - [Guiding Question](homework/the-question/week3.md)
   - [Direct Proofs](lessons/proofs/direct_proofs.md)
@@ -34,6 +32,8 @@
   - [Proofs by contrapositive](lessons/proofs/indirect_proofs_contrapositive.md)
   - [Proofs by contradiction](lessons/proofs/indirect_proofs_contradiction.md)
   - [Problem Set 3](homework/problem-sets/week3.md)
+
+<!--
 
 - [Counting](lessons/counting.md)
   - [Guiding Question](homework/the-question/week4.md)

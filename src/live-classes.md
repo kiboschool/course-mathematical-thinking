@@ -7,7 +7,7 @@ Video recordings of the class will also be posted after the classes each week.
 |------|---------------------|-------------------------|----------------------|---------------------|-----------------------------------|----------------------|
 | 1    | Propositional Logic | [Notes][w1-notes]       | [YouTube][w1-video1] |[YouTube][w1-video2] |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
 | 2    | Sets                | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
-| 3    | Proofs              |                         |                      |                     |                                   |                      |
+| 3    | Proofs              | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
 
 
 
@@ -17,10 +17,14 @@ Video recordings of the class will also be posted after the classes each week.
 [w1-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Propositional%20Logic%20class%20problems.nb
 [w1-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%201%20Solutions.nb
 
-
-
 [w2-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Sets.nb
 [w2-video1]: https://youtu.be/yakr-wBGQ8g
 [w2-video2]: https://youtu.be/Z2M1HthW-Zg
 [w2-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Sets%20Class%20Problems%20Solutions.nb
 [w2-psSols]:
+
+[w3-notes]: 
+[w3-video1]:
+[w3-video2]:
+[w3-classproblems]: 
+[w3-psSols]:
