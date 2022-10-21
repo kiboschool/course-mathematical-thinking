@@ -21,10 +21,10 @@ Video recordings of the class will also be posted after the classes each week.
 [w2-video1]: https://youtu.be/yakr-wBGQ8g
 [w2-video2]: https://youtu.be/Z2M1HthW-Zg
 [w2-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Sets%20Class%20Problems%20Solutions.nb
-[w2-psSols]:
+[w2-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-[w3-notes]: 
+[w3-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Proofs.nb
 [w3-video1]:
 [w3-video2]:
 [w3-classproblems]: 
-[w3-psSols]:
+[w3-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
