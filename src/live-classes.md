@@ -24,7 +24,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w2-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [w3-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Proofs.nb
-[w3-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D:
-[w3-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D:
-[w3-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D:
+[w3-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w3-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w3-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w3-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
