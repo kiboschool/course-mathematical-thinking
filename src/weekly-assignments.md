@@ -35,7 +35,7 @@ up for further submissions.
 - [Problem Set 0](homework/problem-sets/week0.md)
 - [Problem Set 1](homework/problem-sets/week1.md)
 - [Problem Set 2](homework/problem-sets/week2.md)
-- Problem Set 3
+- [Problem Set 3](homework/problem-sets/week3.md)
 - Problem Set 4
 - Problem Set 5
 - Problem Set 6
@@ -45,7 +45,6 @@ up for further submissions.
 
 <!--
 
-- [Problem Set 3](homework/problem-sets/week3.md)
 - [Problem Set 4](homework/problem-sets/week4.md)
 - [Problem Set 5](homework/problem-sets/week5.md)
 - [Problem Set 6](homework/problem-sets/week6.md)
