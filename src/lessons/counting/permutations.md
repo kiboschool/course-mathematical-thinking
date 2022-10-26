@@ -34,13 +34,13 @@ First, let's define the factorial notation. \\(n! = n . (n-1) . (n-2 )...1\\). I
 
 We can therefore define the number of permuations of n **distinct** elements as n!
 
-So to go back to our original question: How many potential orders could there have been? well there are 26 letters, so 26! gives us \\(4.03 . 10^26\\), or 403 million billion billion - yes, there are no typos here - different possible permutations. As you can see, with as simple a set as the 26 letters, we would quickly have to perform a tremendous amount of computation and store a lot of data if we wanted to keep a record of every possible permutation of the alphabet.
+So to go back to our original question: How many potential orders could there have been? well there are 26 letters, so let's compute 26!. This should equate to approximately 403 million billion billion - yes, there are no typos here - different possible permutations. As you can see, with as simple a set as the 26 letters, we would quickly have to perform a tremendous amount of computation and store a lot of data if we wanted to keep a record of every possible permutation of the alphabet.
 
 ### Special case: Zero!
 
 What shoud 0! be equal to? this is a tricky one to define, but we can reach a definition from the following observation. 
 
-Notice that \\(\frac{n!}{n} = \frac{n . (n-1) . (n-2 )...1}{n})\\)
+Notice that \\(\frac{n!}{n} = \frac{n . (n-1) . (n-2 )...1}{n}\\)
 
 As we cancel out *n* from both parts of the fraction, we obtain \\((n-1) . (n-2 )...1 = (n-1)!\\) by definition
 

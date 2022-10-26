@@ -42,16 +42,16 @@ How about \\(\binom{n}{0}\\)? well plugging into our formula we get \\(\frac{n!}
 
 This symmetric pattern continues. Let's look at two other scenarios:
 
-\\(\binom{n}{1} = \frac{n!}{1! . (n-1)!} = \frac{n!}{(n-1)!} = n\\) 
+\\(\binom{n}{1} = \frac{n!}{1!(n-1)!} = \frac{n!}{(n-1)!} = n\\) 
 
 Once again this makes sense in plain english: How many ways are there to pick one element from a set of *n*? *n* different ways - you could pick any of the elements
 
 How about \\(\binom{n}{n-1}\\)?
-Well: \\(\binom{n}{n-1} = \frac{n!}{(n-1)! . (n-(n-1))!} = \frac{n!}{(n-1)!} = n\\) 
+Well: \\(\binom{n}{n-1} = \frac{n!}{(n-1)!(n-(n-1))!} = \frac{n!}{(n-1)!} = n\\) 
 
 Interestingly, we obtain the same result! \\(\binom{n}{1}\\) = \\(\binom{n}{n-1}\\) = n. We can make sense of this logically: Choosing n-1 elements from a set of *n* is effectively the same as picking 1 element **not** to choose. 
 
-This symmetric pattern continues, as  \\(\binom{n}{k}\\) = \\(\binom{n}{n-k}\\) for all \\(0 \le k \le n\\). This pattern is further explored in the diagram below
+This symmetric pattern continues, as  \\(\binom{n}{k}\\) = \\(\binom{n}{n-k}\\) for all integers \\(0 \le k \le n\\). This pattern is further explored in the diagram below
 
 ![\\(Pascal's triangle\\)](/images/pascal-triangle.svg)
 
