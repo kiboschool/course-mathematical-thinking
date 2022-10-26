@@ -34,6 +34,9 @@
 
 - [Counting](lessons/counting.md)
   - [Guiding Question](homework/the-question/week4.md)
+  - [Permutations](lessons/counting/permutations.md)
+  - [Combinations](lessons/counting/combinations.md)
+  - [Combinations with repetition](lessons/counting/combinations_repetition.md)
   - [Problem Set 4](homework/problem-sets/week4.md)
 
 - [Probability](lessons/probability.md)
