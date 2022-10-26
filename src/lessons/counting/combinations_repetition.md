@@ -23,6 +23,6 @@ One way to tackle this is to turn it into a combination problem: The above equat
 
 Therefore, we can think of this as having to choose which 1's belong to x, which 1's belong to y, and which 1's belong to z. In this case. our set is {x, y, z}, and we will be making 7 choices from that set. 
 
-Applying our formula, this gives us \\(\binom{7+3-1}{7} = \binom{9}{7} = 36 different solutions.\\)
+Applying our formula, this gives us \\(\binom{7+3-1}{7} = \binom{9}{7} = 36\\) different solutions.
 
 With this, we are now ready to transition to probability - the most direct application of all our counting strategies.
