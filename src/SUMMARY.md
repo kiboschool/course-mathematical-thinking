@@ -33,12 +33,16 @@
   - [Proofs by contradiction](lessons/proofs/indirect_proofs_contradiction.md)
   - [Problem Set 3](homework/problem-sets/week3.md)
 
-<!--
 
 - [Counting](lessons/counting.md)
   - [Guiding Question](homework/the-question/week4.md)
+  - [Permutations](lessons/counting/permutations.md)
+  - [Permutations with Repetition](lessons/counting/permutations_repetition.md)
+  - [Combinations](lessons/counting/combinations.md)
+  - [Combinations with Repetition](lessons/counting/combinations_repetition.md)
   - [Problem Set 4](homework/problem-sets/week4.md)
 
+<!--
 - [Probability](lessons/probability.md)
   - [Guiding Question](homework/the-question/week5.md)
   - [Problem Set 5](homework/problem-sets/week5.md)
