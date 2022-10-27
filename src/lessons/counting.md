@@ -16,3 +16,4 @@ In these lessons, we'll focus on counting elements of sets, in different ways. H
 ## Resources:
 - [Chapter 1 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/ch_counting.html)
 - [Chapter 3 of Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)
+- [Instructor reading](https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Counting.nb)

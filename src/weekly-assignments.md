@@ -36,7 +36,7 @@ up for further submissions.
 - [Problem Set 1](homework/problem-sets/week1.md)
 - [Problem Set 2](homework/problem-sets/week2.md)
 - [Problem Set 3](homework/problem-sets/week3.md)
-- Problem Set 4
+- [Problem Set 4](homework/problem-sets/week4.md)
 - Problem Set 5
 - Problem Set 6
 - Problem Set 7
@@ -45,7 +45,6 @@ up for further submissions.
 
 <!--
 
-- [Problem Set 4](homework/problem-sets/week4.md)
 - [Problem Set 5](homework/problem-sets/week5.md)
 - [Problem Set 6](homework/problem-sets/week6.md)
 - [Problem Set 7](homework/problem-sets/week7.md)
@@ -70,7 +69,7 @@ The questions will be linked here when each week's lessons are published.
 
 - [Guiding Question - Week 2](homework/the-question/week2.md)
 - [Guiding Question - Week 3](homework/the-question/week3.md)
-- Guiding Question - Week 4
+- [Guiding Question - Week 4](homework/the-question/week4.md)
 - Guiding Question - Week 5
 - Guiding Question - Week 6
 - Guiding Question - Week 7
