@@ -95,16 +95,16 @@ Here's one way to think about the insecurity: if you and your classmate each cho
     - must use at least one uppercase and one lowercase character
     - must use at least one symbol
 
-| Name 	| Size 	| % chance of collision 	|
-|------	|------	|-----------------------	|
-| S0   	| 100  	| 1%                    	|
-| S1   	|      	|                       	|
-| S2   	|      	|                       	|
-| S3   	|      	|                       	|
-| S4   	|      	|                       	|
-| S5   	|      	|                       	|
-| S6   	|      	|                       	|
-| S7   	|      	|                       	|
+| Name | Size | % chance of collision |
+|------|------|-----------------------|
+| S0   | 100  | 1%                    |
+| S1   |      |                       |
+| S2   |      |                       |
+| S3   |      |                       |
+| S4   |      |                       |
+| S5   |      |                       |
+| S6   |      |                       |
+| S7   |      |                       |
 
 4. Compare schemes S1 through S6 - which seems most secure? Explain your reasoning.
 
