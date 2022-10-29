@@ -30,7 +30,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w3-classproblems]:https://www.wolframcloud.com/obj/scamach2/Published/Proofs%20Class%20Problems%20Solutions.nb
 [w3-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-[w4-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w4-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Counting.nb
 [w4-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w4-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w4-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
