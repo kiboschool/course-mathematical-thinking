@@ -43,7 +43,7 @@ Our sequence of elements here are all the 26 letters of the alphabet. We are loo
 So how many options do we have for the first slot? 26, as with our previous examples.
 How about the second slot? well all the letters are still fair options - typing 'a' the first time does not prevent us from typing 'a' again, so it's 26 options once again.
 
-The same logic applies for the third and fourth slot. This leaves us with \\(26 . 26 . 26 . 26 = 4^{26} \\) possible permutations. 
+The same logic applies for the third and fourth slot. This leaves us with \\(26 . 26 . 26 . 26 = 26^{4} \\) possible permutations. 
 
 Generally speaking then, a k-permutation of a sequence of n elements that **allows replacement** can be computed as \\(k^n\\)
 
