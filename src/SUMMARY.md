@@ -42,12 +42,13 @@
   - [Combinations with Repetition](lessons/counting/combinations_repetition.md)
   - [Problem Set 4](homework/problem-sets/week4.md)
 
-<!--
 - [Probability](lessons/probability.md)
   - [Guiding Question](homework/the-question/week5.md)
+  - [Intro to Probability](lessons/probability/probability_intro.md)
+  - [Combining Events](lessons/probability/complex_events.md)
   - [Problem Set 5](homework/problem-sets/week5.md)
 
-- [Functions and Relations](lessons/functions-and-relations.md)
+<!-- - [Functions and Relations](lessons/functions-and-relations.md)
   - [Guiding Question](homework/the-question/week6.md)
   - [Problem Set 6](homework/problem-sets/week6.md)
 
@@ -64,3 +65,4 @@
   - [Problem Set 9](homework/problem-sets/week9.md)
 
 - [Review and Preview](lessons/review.md)
+ -->
