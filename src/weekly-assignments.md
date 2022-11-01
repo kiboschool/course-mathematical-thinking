@@ -19,6 +19,10 @@ Problem sets let you practice with the topics you cover that week, explore appli
   in your submission (write something like "I collaborated with (names) on this 
   assignment" at the top of your submission)
 
+Here's a video demonstrating how to submit your work in Gradescope:
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/eb46a02bf3fc444e83d3a0ef74095199" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ### Problem Set Index
 
 Problem Set 0 is a chance to practice submitting work on Gradescope. It is intended
@@ -33,11 +37,20 @@ up for further submissions.
 - [Problem Set 2](homework/problem-sets/week2.md)
 - [Problem Set 3](homework/problem-sets/week3.md)
 - [Problem Set 4](homework/problem-sets/week4.md)
+- Problem Set 5
+- Problem Set 6
+- Problem Set 7
+- Problem Set 8
+- Problem Set 9
+
+<!--
+
 - [Problem Set 5](homework/problem-sets/week5.md)
 - [Problem Set 6](homework/problem-sets/week6.md)
 - [Problem Set 7](homework/problem-sets/week7.md)
 - [Problem Set 8](homework/problem-sets/week8.md)
 - [Problem Set 9](homework/problem-sets/week9.md)
+-->
 
 ## Guiding Questions
 
@@ -52,11 +65,23 @@ Each week is guided by a question that prompts you to think and explore the cent
 
 Each week will have a guiding question released the prior week, to help prime your thinking about the topic.
 
+The questions will be linked here when each week's lessons are published.
+
 - [Guiding Question - Week 2](homework/the-question/week2.md)
 - [Guiding Question - Week 3](homework/the-question/week3.md)
+- [Guiding Question - Week 4](homework/the-question/week4.md)
+- Guiding Question - Week 5
+- Guiding Question - Week 6
+- Guiding Question - Week 7
+- Guiding Question - Week 8
+- Guiding Question - Week 9
+
+<!--
+
 - [Guiding Question - Week 4](homework/the-question/week4.md)
 - [Guiding Question - Week 5](homework/the-question/week5.md)
 - [Guiding Question - Week 6](homework/the-question/week6.md)
 - [Guiding Question - Week 7](homework/the-question/week7.md)
 - [Guiding Question - Week 8](homework/the-question/week8.md)
 - [Guiding Question - Week 9](homework/the-question/week9.md)
+-->

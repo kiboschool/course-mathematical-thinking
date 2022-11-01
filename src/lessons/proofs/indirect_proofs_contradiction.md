@@ -19,7 +19,7 @@ Let's look at at an example. Let's consider the following implication and try to
 - And now what? can we argue at this stage that *n* is even? It's quite unclear. 
 
 Let's approach this from a different angle. We want to show that it's impossible for this proposition to be False. So we will start by assuming that it is False, then looking for a contradiction. We have an implication, so we can rephrase it as follows: 
-- \\let (E(x):  x is even\\)
+- let \\(E(x):  "x is even"\\)
 - Show that \\(\forall n E(n^2) \to E(n)\\)
 
 When is an implication \\(P \to Q\\) false? well when P is True and Q is false. We will then show that if this is the case for some number, then we will reach a contradiction. 

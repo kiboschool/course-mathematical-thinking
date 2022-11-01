@@ -4,8 +4,12 @@
 
 This problem set is due Sunday October 16th at 10pm
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
+- You may collaborate with up your peers. If you do, be sure to mention who you 
+  collaborated with explicitly in your submission. For example, write "I worked
+  with Ope and Mehdi on this problem set" at the top.
 - Show your work. Direct answers will not be accepted.
+
+Submit your response in Gradescope, either using the app or the website.
 
 ## Problems
 
@@ -59,9 +63,9 @@ This problem set is due Sunday October 16th at 10pm
 
     d. Premises:  \\(( \neg P \vee Q), (P\vee \neg Q)\\). Conclusion:  \\((P \iff Q)\\).
 
-    e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P^R) \iff (Q^S))\\).
+    e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P \wedge R) \iff (Q \wedge S))\\).
 
-    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  R\\).
+    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  \\(R\\).
 
     g. Conclusion:  \\(((P \iff Q) \iff (\neg P \iff \neg Q))\\)
 

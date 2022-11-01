@@ -40,7 +40,7 @@ Notice that while order did not matter for union and intersection, \\(A \setminu
 
 Given this definition, how would you evaluate the following \\(A \setminus \emptyset\\)? 
 
-This evaluates to \\(\A\\). The empty set has no elements, so there are no elements to remove \\(A\\)
+This evaluates to \\(A\\). The empty set has no elements, so there are no elements to remove \\(A\\)
 
 How about \\(A \setminus U\\) and \\(U \setminus A\\)? We should expect these to be different. 
 

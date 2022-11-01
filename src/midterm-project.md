@@ -23,8 +23,6 @@ The project will have 3 parts:
 
 More information will be published here when the project is assigned.
 
-<!-- This is what should be published in week 3
-
 - [Part 1: Password Generation](#part-1-password-generation)
 - [Part 2: Attacking Passwords](#part-2-attacking-passwords)
 - [Part 3: Storing Passwords](#part-3-storing-passwords)
@@ -97,21 +95,22 @@ Here's one way to think about the insecurity: if you and your classmate each cho
     - must use at least one uppercase and one lowercase character
     - must use at least one symbol
 
-| Name 	| Size 	| % chance of collision 	|
-|------	|------	|-----------------------	|
-| S0   	| 100  	| 1%                    	|
-| S1   	|      	|                       	|
-| S2   	|      	|                       	|
-| S3   	|      	|                       	|
-| S4   	|      	|                       	|
-| S5   	|      	|                       	|
-| S6   	|      	|                       	|
-| S7   	|      	|                       	|
+| Name | Size | % chance of collision |
+|------|------|-----------------------|
+| S0   | 100  | 1%                    |
+| S1   |      |                       |
+| S2   |      |                       |
+| S3   |      |                       |
+| S4   |      |                       |
+| S5   |      |                       |
+| S6   |      |                       |
+| S7   |      |                       |
 
 4. Compare schemes S1 through S6 - which seems most secure? Explain your reasoning.
 
 5. Compare S6 to S7 - which seems more secure? Which is more common? What is your hypothesis as to why S7 may be preferred to S6?
 
+<!-- This is what should be published in week 3
 ## Part 2: Attacking passwords
 
 In Part 1, you got a rough sense of the security of a password scheme by asking how likely it was that two random passwords from the same scheme would match. But... that's not actually what happens in the real world. In the real world, passwords have to be secure against an _attacker_.

@@ -1,10 +1,15 @@
-## Submission and Due dates:
+## Problem Set 2
+
+## Submission
 
 This problem set is due Sunday October 23rd at 10pm
 
-- You may collaborate with up to 1 peer, make sure to include it explicitly in your submission.
+- You may collaborate with up your peers. If you do, be sure to mention who you 
+  collaborated with explicitly in your submission. For example, write "I worked
+  with Ope and Mehdi on this problem set" at the top.
 - Show your work. Direct answers will not be accepted.
-- Submit your work through this [link](tbd)
+
+Submit your response in Gradescope, either using the app or the website.
 
 ## Instructions:
 
@@ -18,7 +23,7 @@ This problem set is due Sunday October 23rd at 10pm
 
    d. Find B \\(\cup\\) C. 
 
-2. Let a = { 1, 2, 3, 4, 5, 6}. Find all sets \\( B \in \mathcal P (A) \\)
+2. Let A = { 1, 2, 3, 4}. Find all sets \\( B \in \mathcal P (A) \\)
 
 4. Are there sets A and B such that |A| = |B|, |A \\(\cup\\) B| = 10, and |A \\(\cap\\) B| = 5? Explain.
 

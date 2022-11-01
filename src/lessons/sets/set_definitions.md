@@ -36,7 +36,7 @@ Let's combine the last two concepts we've encountered: What is the complement of
 ## Famous sets
 
 In the days and weeks to come, we will reason about specific groups of numbers. These are so commonly used that they have some shorthands we share here for reference:
-- \\(\mathbb N\\) is the set of **natural** number, or positive integers. Sometimes refered to as whole numbers, \\(\mathbb N = \\{0, 1, 2, 3 ...\\}\\)
+- \\(\mathbb N\\) is the set of **natural** number, or non-negative integers. Sometimes refered to as whole numbers, \\(\mathbb N = \\{0, 1, 2, 3 ...\\}\\)
 - \\(\mathbb Z\\) is the set of **integers**, this includes positive and negative whole numbers, \\(\mathbb Z = \\{..., -2, -1, 0, 1, 2, ...\\}\\)
 - \\(\mathbb Q\\) is the set of **rational** numbers, this includes all elements of \\(\mathbb Z\\), as well as all numbers that can be expressed as finite fractions like 0.25, or 0.11
 - \\(\mathbb R\\) is the set of **real** numbers, this includes all elements of \\(\mathbb Q\\), as well as all numbers that can not be expressed as finite fractions such as *pi*, or \\(\frac {1}{3}\\)
@@ -52,17 +52,17 @@ We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\\) is
 
 There may be a few different ways to express a given definition of a set, but this is a helpful notation we should practice. Try to interpret the following four sets in plain english:
 
-	\\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
+\\(\\{x \in \mathbb R: x + 3 \in \mathbb N\\}\\)
 
 This is the set of all numbers x such that x + 3 is in \\(\mathbb N\\), in other words a postive integer. In other words, this is the set {-3, -2, -1, 0, 1, ...} as -3 + 3 = 0 which belongs to \\(\mathbb N\\)
 
-	\\(\\{x \in \mathbb N : x + 3 \in \mathbb N\\}\\)
+\\(\\{x \in \mathbb N : x + 3 \in \mathbb N\\}\\)
 This is the set of all positive integers x such that x+3 is a positive integer. We end up with the set of positive integers \\(\mathbb N\\)
 
-	\\(\\{x \in \mathbb R: x \in \mathbb N \lor -x \in \mathbb N\\}\\)
+\\(\\{x \in \mathbb R: x \in \mathbb N \lor -x \in \mathbb N\\}\\)
 This is the set of all numbers x such that x is a positive integer, or -x is a positive integer. If -x is a positive integer, then x is a negative integer. This ends up being a convoluted way to represent \\(\mathbb Z\\), the set of all integers.
 
-	\\(\\{x \in \mathbb R: x \in \mathbb N \land -x \in \mathbb N\\}\\)
+\\(\\{x \in \mathbb R: x \in \mathbb N \land -x \in \mathbb N\\}\\)
 This is the set of all numbers x such that x is a positive integer, **and** -x is a positive integer. This is an odd combination, but there is one number which satisfies it: 0. This makes our answer the set {0}
 
 Next, we cover operations between sets.
