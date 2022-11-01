@@ -43,7 +43,7 @@ What is the probability that we achieve both \\(E_1\\) and \\(E_6\\)? In plain e
 
 This can be constructed as a brand new event \\(G\\) which consists of the outcomes that belong to **both** \\(E_1\\) and \\(E_6\\), or more directly, \\(G = (E_1 \cap E_6)\\). 
 
-We therefore can compute \\(P(G) = P(E_1 \cap E_6) = \frac {|E_1 \cap E_6|}{|S|}\\). Considering our table, this gives us \\(\frac {2}{36}\\)
+We therefore can compute \\(P(G) = P(E_1 \cap E_6) = \frac {|E_1 \cap E_6|}{|S|}\\). From the table, you can see that only (1,6) and (6, 1) belong to both evets. This gives us \\(\frac {2}{36}\\)
 
 How about the following scenario:
 
@@ -64,7 +64,9 @@ How about the probability that we satisfy either of two events? Let's start with
 
 We can create a new event \\(G\\) which consists of the outcomes that belong to **either** \\(E_1\\) or \\(F\\), or more directly, \\(G = E_1 \cup F\\). It follows then that \\(P(G) = P(E_1 \cup F) = \frac {|E_1 \cup F|}{|S|}\\)
 
-How do we compute \\(|E_1 \cup F|\\)? luckily, we know by definition of these two events that they are disjoint, so \\(|E_1 \cup F| = |E_1| + |F|\\). This means that \\(P(E_1 \cup F) = \frac {14}{36}\\)
+How do we compute \\(|E_1 \cup F|\\)? luckily, we know by definition of these two events that they are disjoint, so \\(|E_1 \cup F| = |E_1| + |F|\\). 
+
+This means that \\(P(E_1 \cup F) = \frac {14}{36}\\)
 
 This leads us to our fourth key theorem:
 
@@ -74,8 +76,11 @@ If *A* and *B* are disjoint events with sample space *S*, then \\(P(A \cup B) = 
 
 We can prove this directly: \\(P(A \cup B) = \frac{|A \cup B|}{|S|}\\)
 Given that the two sets are disjoint, we have \\(|A \cup B| = |A| + |B|\\)
+
 Therefore, \\(P(A \cup B) = \frac{|A| + |B|}{|S|}\\)
+
 \\(P(A \cup B) = \frac{|A|}{|S|} + \frac{|B|}{|S|}\\)
+
 \\(P(A \cup B) = P(A) + P(B)\\)
 
 ## How about non-disjoint events?
@@ -88,17 +93,17 @@ This same logic applies to figuring out the probabilites of non-disjoint events.
 
 These events are not disjoint, we know we could achieve both outcomes. 
 
-The probability that we roll at least a single 1 **or** a single 6 therefore is \\(P(E_1 \cup E_6) = \frac {|E_1 \cup E_6|}{|S|} = \frac {|E_1| + |E_6| - |E_! \cap E_6|}{36} = \frac {20}{36})
+The probability that we roll at least a single 1 **or** a single 6 therefore is \\(P(E_1 \cup E_6) = \frac {|E_1 \cup E_6|}{|S|} = \frac {|E_1| + |E_6| - |E_! \cap E_6|}{36} = \frac {20}{36}\\)
 
 By the same approach of theorem 4, we can generalize the formula for \\(P(A \cup B) = P(A) + P(B) - P(A \cap B)\\)
 
 ## Complements of events
 
-For some sample space *S*, we define the complement of an event *E* to be  all the outcomes that are not present in *E*. Similarly as in sets, we represent the complement of *E* as \\(\bar E\\).
+For some sample space \\(S\\), we define the complement of an event \\(E\\) to be  all the outcomes that are not present in \\(E\\). Similarly as in sets, we represent the complement of \\(E\\) as \\(\bar E\\).
 
 It follows then that \\((E \cup \bar E) = S\\)
 
-Note that *E* and \\(\bar E\\) are by definition *disjoint*, as they will never share outcomes in common.
+Note that \\(E\\) and \\(\bar E\\) are by definition *disjoint*, as they will never share outcomes in common.
 
 This means that \\(P(E \cup \bar E) = P(E) + P(\bar E)\\) from **Theorem 4**
 
@@ -108,11 +113,12 @@ This enables us to come up with a new, very useful theorem:
 
 ### Theorem 5
 
-For some sample space *S* and event *E*: \\(P(E) = 1 - P(\bar E)\\)
+For some sample space \\(S\\) and event \\(E\\): \\(P(E) = 1 - P(\bar E)\\)
 
 This is very handy in scenarios where computing \\(P(\bar E)\\) is simpler than computing \\(P(E)\\). 
 
-For example, let *E* be the event that when rolling two dice, you get two different numbers?
+For example, let \\(E\\) be the event that when rolling two dice, you get two different numbers?
+
 By definition, this is 1 minus the probability of obtaining a doubled number. Intuitively, it is simpler to see that there are exactly 6 outcomes where we have doubled numbers: (1,1), (2,2), (3,3), (4,4), (5,5), and (6,6)
 
 Therefore, our probability \\(P(E) = 1-P(\bar E) = 1 - \frac{6}{36} = \frac {5}{6}\\)

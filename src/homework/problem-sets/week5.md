@@ -15,11 +15,11 @@ Submit your response in Gradescope, either using the app or the website.
 
 
 1. We flip a coin three times. The set of all outcomes can be described as:
-\\(\omega = {HHH, HHT, HTH, HTT, TTT, TTH, THH, THT}\\)
+\\(\omega = \{HHH, HHT, HTH, HTT, TTT, TTH, THH, THT\}\\)
 For each of the following events which are subests of \\(\omega\\), describe the event in english, then compute the probability of it occuring:
-  - \\(\E_1 = {HHH, TTT}\\)
-  - \\(\E_2 = {HHT, THH, HTH}\\)
-  - \\(\E_3 = {HHH, HHT, HTH, HTT}\\)
+  - \\(E_1 = \{HHH, TTT\}\\)
+  - \\(E_2 = \{HHT, THH, HTH\}\\)
+  - \\(E_3 = \{HHH, HHT, HTH, HTT\}\\)
 2. If A, B, and C are three events, show that:
 \\(P( A \cup B \cup C) = P(A) + P(B) + P(C) - P(A \cap B) - P(B \cap C) - P(A \cap B) + P(A \cap B \cap C)\\)
 
