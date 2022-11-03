@@ -22,7 +22,7 @@ We can define a few events for this: Let \\(C_1, C_2, C_3\\) represent the event
 
 Similarly, let \\(H_1, H_2, H_3\\) represent the events that the host opens door 1, 2, and 3 respectively. 
 
-We set a scenario where you initially pick door 1, then the host opens door 2. At this point in time, what is \\(P(C_3|H_2\\)? Are they better than your odds if you stick to your initial choice?
+We set a scenario where you initially pick door 1, then the host opens door 2. At this point in time, what is \\(P(C_3|H_2)\\)? Are they better than your odds if you stick to your initial choice?
 
 \\(P(C_3|H_2) = \frac{P(C_3 \cap H_2)}{P(H_2)}\\)
 

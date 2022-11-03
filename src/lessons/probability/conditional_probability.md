@@ -5,7 +5,7 @@
 - Define the formula for conditional probability and how it is affected by independent events
 
 ## Do these events matter?
-Picture this. Your team has been competing with a rival school for many years now, and you have been keeping track diligently of your wins and losses. Your team's record so far is that you have won 64 games and lost 50. With this in mind, you are confident to head into the next game.
+Picture this. Your team has been competing with a rival school for many years now, and you have been keeping track diligently of your wins and losses. Your team's record so far is that you have won 70 games and lost 50. With this in mind, you are confident to head into the next game.
 
 One of your older classmates however is not as confident, and she says that "Mr.O will be the referee this time around, he doesn't like us". This leaves you exceedingly curious. Time to go back to your data and see if the referee really influences your chances to win:
 
@@ -50,8 +50,7 @@ We can reach the second statement from the first as follows:
 
 \\(P(B) = \frac{P(A \cap B)}{P(A)}\\) given that both \\(P(A)\\) and \\(P(B)\\) are non-zero
 
-\\(P(B) = P(B|A)\\) bby definition of conditional probability
-
+\\(P(B) = P(B|A)\\) by definition of conditional probability
 
 And similarly, we can reach the third statement from the first: 
 
@@ -79,11 +78,11 @@ We can prove this statement directly:
 
 How can we evaluate \\(P(A) - P(A \cap B)\\)? This expression represents the probability of event \\(A\\) occuring, minus the probability of event \\(A\\) and \\(B\\) occuring. From a set perspective, this means we care only about the outcomes that belong to \\(A\\) but do not belong to \\(B\\). This can be expressed as \\(P(A \cap \bar B)\\). 
 
-Therefore, \\P(A)P(\bar B) = P(A \cap \bar B)\\)
+Therefore, \\(P(A)P(\bar B) = P(A \cap \bar B)\\)
 
 And thus, we have shown that \\(A\\) and \\(\bar B\\) are independent.
 
-Symmetrically, we can use the same approach to show that \\( \bar A\\) and \\( B\\) are independent, as well as \\(bar A\\) and \\(\bar B\\) 
+Symmetrically, we can use the same approach to show that \\( \bar A\\) and \\(B\\) are independent, as well as \\(\bar A\\) and \\(\bar B\\) 
 
 In the next section, we bring all our knowledge together in a case study, and see how we can use code to help us hone our intuition with probabilities.
 
