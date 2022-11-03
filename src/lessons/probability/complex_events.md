@@ -1,4 +1,4 @@
-# Probability
+# Combining events
 
 ## Key ideas
 
@@ -6,7 +6,7 @@
 
 What is the probability of satifying two different events at once? Let's consider a game that involves rolling two dice at the same time. 
 
-In this case, our sample space S has 36 different outcomes, which we can visualiz in the table below. The top row represents the value of the first dice, the leftmost column the values of the second. The pairs inside the table show all our possible outcomes:
+In this case, our sample space S has 36 different outcomes, which we can visualize in the table below. The top row represents the value of the first dice, the leftmost column the values of the second. The pairs inside the table show all our possible outcomes:
 
 | |1|2|3|4|5|6|
 |-|-|-|-|-|-|-|
@@ -47,7 +47,7 @@ We therefore can compute \\(P(G) = P(E_1 \cap E_6) = \frac {|E_1 \cap E_6|}{|S|}
 
 How about the following scenario:
 
-Let \\(F = {(6,5), (5,6), (6,6)}\\) represent the event that the sum of your dice rolls is greater than 10. What is the probability that both \\(E_1\\) and \\(F\\) occur? as we've shown, P(E \cap F) is equal to \\(\frac {|E \cap F|}{|S|} = \frac {0}{36}\\)
+Let \\(F = {(6,5), (5,6), (6,6)}\\) represent the event that the sum of your dice rolls is greater than 10. What is the probability that both \\(E_1\\) and \\(F\\) occur? as we've shown, P\\(E \cap F\\) is equal to \\(\frac {|E \cap F|}{|S|} = \frac {0}{36}\\)
 
 ### Disjoint sets:
 

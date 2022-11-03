@@ -4,7 +4,7 @@
 
 This problem set is due Sunday November 13th at 10pm
 
-- You may collaborate with up your peers. If you do, be sure to mention who you 
+- You may collaborate with your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
   with Ope and Mehdi on this problem set" at the top.
 - Show your work. Direct answers will not be accepted.
@@ -20,6 +20,7 @@ For each of the following events which are subests of \\(\omega\\), describe the
   - \\(E_1 = \{HHH, TTT\}\\)
   - \\(E_2 = \{HHT, THH, HTH\}\\)
   - \\(E_3 = \{HHH, HHT, HTH, HTT\}\\)
+
 2. If A, B, and C are three events, show that:
 \\(P( A \cup B \cup C) = P(A) + P(B) + P(C) - P(A \cap B) - P(B \cap C) - P(A \cap B) + P(A \cap B \cap C)\\)
 
@@ -27,7 +28,7 @@ For each of the following events which are subests of \\(\omega\\), describe the
 
 4. One coin in a collection of 65 has two heads. The rest are fair. If a coin, chosen at random from the lot and then tossed, turns up heads 6 times in a row, what is the probability that it is the two-headed coin? 
 
-5. You are given two urns and fifty balls. Half of the balls are white and half are black. You are asked to distribute the balls in the urns with no restriction placed on the number of either type in an urn. How should you distribute the balls in the urns to maximize the probability of obtaining a white ball if an urn is chosen at random and a ball drawn out at random? Justify your answer.
+5. You are given two urns and forty balls. Half of the balls are white and half are black. You are asked to distribute the balls in the urns with no restriction placed on the number of either type in an urn. How should you distribute the balls in the urns to maximize the probability of obtaining a white ball if an urn is chosen at random and a ball drawn out at random? Justify your answer.
 
 ## References: 
 
