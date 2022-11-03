@@ -32,8 +32,8 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w4-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Counting.nb
 [w4-video1]: https://youtu.be/uaN7UYmnHb4
-[w4-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
-[w4-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w4-video2]: https://youtu.be/pK-MrD1tb2c
+[w4-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Counting%20Class%20Problems%20Solutions.nb
 [w4-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [w5-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
@@ -41,3 +41,21 @@ Video recordings of the class will also be posted after the classes each week.
 [w5-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w5-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w5-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+[w6-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w6-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w6-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w6-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w6-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+[w7-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w7-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w7-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w7-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w7-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+[w8-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w8-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w8-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w8-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w8-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
