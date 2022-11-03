@@ -8,7 +8,7 @@
 
 Let's consider one of Mathematics' most famous questions: The Monty Hall problem. This problem became famous when it was shared in a journal in 1990:
 
-    Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
+> Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
 
 Think about it for a moment. What move maximizes your chance of winning: Staying with your first choice? shifting? or does it even matter? Take some time to think through it, and try applying conditional probabilities to figure it out before moving forward. 
 
@@ -22,7 +22,7 @@ We can define a few events for this: Let \\(C_1, C_2, C_3\\) represent the event
 
 Similarly, let \\(H_1, H_2, H_3\\) represent the events that the host opens door 1, 2, and 3 respectively. 
 
-We set a scenario where you initially pick door 1, then the host opens door 2. At this point in time, what is \\P(C_3|H_2\\)? Are they better than your odds if you stick to your initial choice?
+We set a scenario where you initially pick door 1, then the host opens door 2. At this point in time, what is \\(P(C_3|H_2\\)? Are they better than your odds if you stick to your initial choice?
 
 \\(P(C_3|H_2) = \frac{P(C_3 \cap H_2)}{P(H_2)}\\)
 
@@ -31,12 +31,13 @@ Let's start by computing \\(P(H_2)\\), following the assumption that you choose 
 - If the car is indeed behind door 1, then the host has a \\(\frac{1}{2}\\) chance to open door 2, and a \\(\frac{1}{2}\\) chance to open door 3, as they pick randomly.
 - If the car is behind door 2, then the host will open door 3. There is no chance the host opens door 2 in this scenario.
 - If the car is behind door 3, then the host will always open door 2.
-- The car has a \\(\frac{1}{3}\\) chance to be behind any door.
-- In this scenario then, the probability the host opens door 2 is \\(\frac{1}{3} . \frac{1}{2}  + \frac{1}{3} . 0 + \frac{1}{3} . 1 = \frac{1}{2}\\)
 
-Now what is \\(P(C_3 \cap H_2)\\)? As mentioned, if the car is behind door 3 then the host is guaranteed to open door 2, so this is the same as the odds that the car is behind door 3. \\P(C_3 \cap H_2) = P(C_3) = \frac{1}{3}\\)
 
-Plugging this in, we get that our conditional probability \\(P(C_3|H_2) = \frac{2}{3}\\)! We have a 66.67% chance to win by switching instead of sticking to our initial guess!
+The car has a \\(\frac{1}{3}\\) chance to be behind any door. This means that the probability the host opens door 2 is \\(\frac{1}{3} . \frac{1}{2}  + \frac{1}{3} . 0 + \frac{1}{3} . 1 = \frac{1}{2}\\)
+
+Now what is \\(P(C_3 \cap H_2)\\)? As mentioned, if the car is behind door 3 then the host is guaranteed to open door 2, so this is the same as the odds that the car is behind door 3. \\(P(C_3 \cap H_2) = P(C_3) = \frac{1}{3}\\)
+
+Plugging this in, we get that our conditional probability \\(P(C_3|H_2) = \frac{2}{3}\\). We have a 66.67% chance to win by switching instead of sticking to our initial guess!
 
 This is a surprising result to many - in fact, thousands of readers sent very angry letters when the solution was published. The reasoning is sound though.
 

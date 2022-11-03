@@ -10,7 +10,7 @@ Picture this. Your team has been competing with a rival school for many years no
 One of your older classmates however is not as confident, and she says that "Mr.O will be the referee this time around, he doesn't like us". This leaves you exceedingly curious. Time to go back to your data and see if the referee really influences your chances to win:
 
 |Referee|# of wins|# of losses| Total |
-|*|*|*|*|
+|-|-|-|-|
 |Mr C.|20|8|**28**|
 |Mr O.|6|12|**18**|
 |Mr S.|44|20|**64**|
@@ -24,7 +24,7 @@ We say then that two events \\(E\\) and \\(F\\) are independent if \\( P(E) = P(
 
 Conversely, if \\( P(E) \neq P(E|F)\\), then the two events are dependent - \\(F\\) can influence \\(E\\), and vice versa.
 
-Let's go back to our example above. What is P(Winning | Mr.O is the referee)? We do not have a set formula for this *yet*, but let's think about it. We have played a total of 18 games refereed by Mr.O, and won 6. The chances of us winning based on this data are therefore \\(P(Winning | Mr.O is the referee) = \frac{6}{18} = \frac{1}{3} \\), noticeably lower than our overall 58% winrate!
+Let's go back to our example above. What is **P(Winning | Mr.O is the referee)**? We do not have a set formula for this *yet*, but let's think about it. We have played a total of 18 games refereed by Mr.O, and won 6. The chances of us winning based on this data are therefore **P(Winning | Mr.O is the referee)** = \\(\frac{6}{18} = \frac{1}{3} \\), noticeably lower than our overall 58% winrate!
 
 This suggests that our two events, Winning and having Mr. O as our referee, are **depedent!** 
 
@@ -63,29 +63,29 @@ The reason we take time to explicitly show that these three statements are equiv
 
 ### Independence and complements
 
-If \\(A\\) and \\(B\\) are independent events, it follows that \\(A\\) and \\(\lbar B\\) are independent as well. 
+If \\(A\\) and \\(B\\) are independent events, it follows that \\(A\\) and \\(\bar B\\) are independent as well. 
 
-Intuitively this should make sense: If \\(A\\) occuring does not influence \\(B\\), then it shouldn't influence \\(\lbar B\\). If \\(P(B)\\) doesn't change given \\(A\\) then neither should \\(1-P(B)\\)
+Intuitively this should make sense: If \\(A\\) occuring does not influence \\(B\\), then it shouldn't influence \\(\bar B\\). If \\(P(B)\\) doesn't change given \\(A\\) then neither should \\(1-P(B)\\)
 
 We can prove this statement directly:
 
 \\(P(A)P(B) = P(A \cap B)\\) by definition of independence
 
-\\(P(A)(1-P(\lbar B)) = P(A \cap B)\\) by definition of complement
+\\(P(A)(1-P(\bar B)) = P(A \cap B)\\) by definition of complement
 
-\\(P(A) - P(A)P(\lbar B) = P(A \cap B)\\)
+\\(P(A) - P(A)P(\bar B) = P(A \cap B)\\)
 
-\\(P(A) - P(A \cap B) = P(A)P(\lbar B)\\)
+\\(P(A) - P(A \cap B) = P(A)P(\bar B)\\)
 
-How can we evaluate \\(P(A) - P(A \cap B)\\)? This expression represents the probability of event \\(A\\) occuring, minus the probability of event \\(A\\) and \\(B\\) occuring. From a set perspective, this means we care only about the outcomes that belong to \\(A\\) but do not belong to \\(B\\). This can be expressed as \\(P(A \cap \lbar B)\\). 
+How can we evaluate \\(P(A) - P(A \cap B)\\)? This expression represents the probability of event \\(A\\) occuring, minus the probability of event \\(A\\) and \\(B\\) occuring. From a set perspective, this means we care only about the outcomes that belong to \\(A\\) but do not belong to \\(B\\). This can be expressed as \\(P(A \cap \bar B)\\). 
 
-Therefore, \\P(A)P(\lbar B) = P(A \cap \lbar B)\\)
+Therefore, \\P(A)P(\bar B) = P(A \cap \bar B)\\)
 
-And thus, we have shown that \\(A\\) and \\(\lbar B\\) are independent.
+And thus, we have shown that \\(A\\) and \\(\bar B\\) are independent.
 
-Symmetrically, we can use the same approach to show that \\( \lbar A\\) and \\( B\\) are independent, as well as \\(lbar A\\) and \\(\lbar B\\) 
+Symmetrically, we can use the same approach to show that \\( \bar A\\) and \\( B\\) are independent, as well as \\(bar A\\) and \\(\bar B\\) 
 
-In the next section, we move beyond uniform probabilities to more complex scenarios, and then bring all our knowledge together in one case study
+In the next section, we bring all our knowledge together in a case study, and see how we can use code to help us hone our intuition with probabilities.
 
 
 ## References:
