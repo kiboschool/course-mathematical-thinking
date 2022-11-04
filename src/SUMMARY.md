@@ -42,11 +42,15 @@
   - [Combinations with Repetition](lessons/counting/combinations_repetition.md)
   - [Problem Set 4](homework/problem-sets/week4.md)
 
-<!--
 - [Probability](lessons/probability.md)
   - [Guiding Question](homework/the-question/week5.md)
+  - [Intro to Probability](lessons/probability/probability_intro.md)
+  - [Combining Events](lessons/probability/complex_events.md)
+  - [Conditional Probability](lessons/probability/conditional_probability.md)
+  - [Case study: The Monty Hall Problem](lessons/probability/case_study.md)
   - [Problem Set 5](homework/problem-sets/week5.md)
 
+<!--
 - [Functions and Relations](lessons/functions-and-relations.md)
   - [Guiding Question](homework/the-question/week6.md)
   - [Problem Set 6](homework/problem-sets/week6.md)

@@ -37,7 +37,7 @@ up for further submissions.
 - [Problem Set 2](homework/problem-sets/week2.md)
 - [Problem Set 3](homework/problem-sets/week3.md)
 - [Problem Set 4](homework/problem-sets/week4.md)
-- Problem Set 5
+- [Problem Set 5](homework/problem-sets/week5.md)
 - Problem Set 6
 - Problem Set 7
 - Problem Set 8
@@ -45,7 +45,6 @@ up for further submissions.
 
 <!--
 
-- [Problem Set 5](homework/problem-sets/week5.md)
 - [Problem Set 6](homework/problem-sets/week6.md)
 - [Problem Set 7](homework/problem-sets/week7.md)
 - [Problem Set 8](homework/problem-sets/week8.md)
@@ -70,7 +69,7 @@ The questions will be linked here when each week's lessons are published.
 - [Guiding Question - Week 2](homework/the-question/week2.md)
 - [Guiding Question - Week 3](homework/the-question/week3.md)
 - [Guiding Question - Week 4](homework/the-question/week4.md)
-- Guiding Question - Week 5
+- [Guiding Question - Week 5](homework/the-question/week5.md)
 - Guiding Question - Week 6
 - Guiding Question - Week 7
 - Guiding Question - Week 8
@@ -78,8 +77,6 @@ The questions will be linked here when each week's lessons are published.
 
 <!--
 
-- [Guiding Question - Week 4](homework/the-question/week4.md)
-- [Guiding Question - Week 5](homework/the-question/week5.md)
 - [Guiding Question - Week 6](homework/the-question/week6.md)
 - [Guiding Question - Week 7](homework/the-question/week7.md)
 - [Guiding Question - Week 8](homework/the-question/week8.md)

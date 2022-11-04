@@ -9,6 +9,7 @@ Video recordings of the class will also be posted after the classes each week.
 | 2    | Sets                | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
 | 3    | Proofs              | [Notes][w3-notes]       | [YouTube][w3-video1] |[YouTube][w3-video2] |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
 | 4    | Counting            | [Notes][w4-notes]       | [YouTube][w4-video1] |[YouTube][w4-video2] |[Class Problems][w4-classproblems] |[Solutions][w4-psSols]|
+| 5    | Probability         | [Notes][w5-notes]       | [YouTube][w5-video1] |[YouTube][w5-video2] |[Class Problems][w5-classproblems] |[Solutions][w5-psSols]|
 
 
 
@@ -36,7 +37,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w4-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Counting%20Class%20Problems%20Solutions.nb
 [w4-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-[w5-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w5-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Probability.nb
 [w5-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w5-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w5-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
