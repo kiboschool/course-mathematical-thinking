@@ -15,13 +15,13 @@ Submit your response in Gradescope, either using the app or the website.
 
 
 1. We flip a coin three times. The set of all possible outcomes is:
-\\(\omega = \{HHH, HHT, HTH, HTT, TTT, TTH, THH, THT\}\\)
+\\(\omega = \\{HHH, HHT, HTH, HTT, TTT, TTH, THH, THT\\} \\)
 
     Each of the following events are subsets of \\(\omega\\). For each event, 
     describe the event in english, then compute the probability of it occuring:
 
-    - \\(E_1 = \{HHH, TTT\}\\)
-    - \\(E_2 = \{HHT, THH, HTH\}\\)
+    - \\(E_1 = \\{HHH, TTT\\}\\)
+    - \\(E_2 = \\{HHT, THH, HTH\}\\)
     - \\(E_3 = \{HHH, HHT, HTH, HTT\}\\)
 
 2. If A, B, and C are three events, show the following: 
