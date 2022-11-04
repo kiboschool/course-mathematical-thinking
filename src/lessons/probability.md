@@ -14,3 +14,4 @@ Probability is about the chances that an event happens. These lessons will focus
 
 ## Resources:
 - [Chapter 1, 2, and 4 of Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)
+- [Instructor reading](https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Probability.nb)
