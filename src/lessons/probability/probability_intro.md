@@ -18,15 +18,15 @@ Without further ado, let's define some key terms for probability:
 Let's quickly clarify the terms with the simplest experiment I can think of: Flipping a coin.
 
 - Flipping the coin is the **experiment**. The outcome of which will be that we see either heads or tails. 
-- Therefore, our **sample space** is \\(S = \{H, T\}\\)
-- We can describe an event \\(E = \{H\}\\) to represent that we get heads when we flip our coin.
+- Therefore, our **sample space** is \\(S = \\{H, T\\}\\)
+- We can describe an event \\(E = \\{H\\}\\) to represent that we get heads when we flip our coin.
 
 How does this translate to probabilities? Fundamentally, the Probability of a given event \\(E\\) occuring is equal to \\(\frac{|E|}{|S|}\\)
 
 In simpler english, we are looking at the ration of "outcomes that make up the event" to "how many possible outcomes are there" In this case. The probabilit of \\(E\\) is represented as \\(P(E) = \frac{|E|}{|S|} = \frac{1}{2}\\) as expected. 
 
 ### Example 2: rolling dice
-Let's look at another example: Rolling a six-sided dice. Our sample space is \\(S = \{1, 2, 3, 4, 5, 6\}\\)
+Let's look at another example: Rolling a six-sided dice. Our sample space is \\(S = \\{1, 2, 3, 4, 5, 6\\}\\)
 
 How likely are we to roll an odd number? you'll probably immediately know that it is 50%, but let's apply the new vocabulary we are learning.
 

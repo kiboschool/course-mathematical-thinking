@@ -47,7 +47,7 @@ We therefore can compute \\(P(G) = P(E_1 \cap E_6) = \frac {|E_1 \cap E_6|}{|S|}
 
 How about the following scenario:
 
-Let \\(F = {(6,5), (5,6), (6,6)}\\) represent the event that the sum of your dice rolls is greater than 10. What is the probability that both \\(E_1\\) and \\(F\\) occur? as we've shown, P\\(E \cap F\\) is equal to \\(\frac {|E \cap F|}{|S|} = \frac {0}{36}\\)
+Let \\(F = \\{(6,5), (5,6), (6,6)\\}\\) represent the event that the sum of your dice rolls is greater than 10. What is the probability that both \\(E_1\\) and \\(F\\) occur? as we've shown, \\(P(E \cap F)\\) is equal to \\(\frac {|E \cap F|}{|S|} = \frac {0}{36}\\)
 
 ### Disjoint sets:
 

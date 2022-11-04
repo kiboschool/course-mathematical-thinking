@@ -21,12 +21,12 @@ Submit your response in Gradescope, either using the app or the website.
     describe the event in english, then compute the probability of it occuring:
 
     - \\(E_1 = \\{HHH, TTT\\}\\)
-    - \\(E_2 = \\{HHT, THH, HTH\}\\)
-    - \\(E_3 = \{HHH, HHT, HTH, HTT\}\\)
+    - \\(E_2 = \\{HHT, THH, HTH\\}\\)
+    - \\(E_3 = \\{HHH, HHT, HTH, HTT\\}\\)
 
 2. If A, B, and C are three events, show the following: 
 
-    \\(P( A \cup B \cup C) = P(A) + P(B) + P(C) - P(A \cap B) - P(B \cap C) - P(A \cap B) + P(A \cap B \cap C)\\)
+    \\(P( A \cup B \cup C) = P(A) + P(B) + P(C) - P(A \cap B) - P(B \cap C) - P(A \cap C) + P(A \cap B \cap C)\\)
 
    Hint: You might start by showing the result for just events A and B. It may 
    also help to draw a Venn diagram. 
