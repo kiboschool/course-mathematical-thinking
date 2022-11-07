@@ -29,7 +29,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w3-video1]: https://youtu.be/l66D36rKfBA
 [w3-video2]: https://youtu.be/pHSM6GsrC30
 [w3-classproblems]:https://www.wolframcloud.com/obj/scamach2/Published/Proofs%20Class%20Problems%20Solutions.nb
-[w3-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[w3-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%203%20Solutions.nb
 
 [w4-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Counting.nb
 [w4-video1]: https://youtu.be/uaN7UYmnHb4
