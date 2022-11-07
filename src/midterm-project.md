@@ -110,7 +110,7 @@ Here's one way to think about the insecurity: if you and your classmate each cho
 
 5. Compare S6 to S7 - which seems more secure? Which is more common? What is your hypothesis as to why S7 may be preferred to S6?
 
-<!-- This is what should be published in week 3
+
 ## Part 2: Attacking passwords
 
 In Part 1, you got a rough sense of the security of a password scheme by asking how likely it was that two random passwords from the same scheme would match. But... that's not actually what happens in the real world. In the real world, passwords have to be secure against an _attacker_.
@@ -193,6 +193,7 @@ As an optional bonus task: write a python function that takes one member of weak
 
 As an optional bonus task: write a python function to return a set of passwords in weak_S6 from a member of weak_S7. (Assume that those sets are similar to the other weak_* sets we've defined above)
 
+<!-- 
 ## Part 3: Storing passwords
 
 Even more effective in practice than brute force attacks and dictionary attacks are _credential stuffing attacks_.
