@@ -40,8 +40,6 @@ up for further submissions.
 - [Problem Set 5](homework/problem-sets/week5.md)
 - Problem Set 6
 - Problem Set 7
-- Problem Set 8
-- Problem Set 9
 
 <!--
 
@@ -70,10 +68,9 @@ The questions will be linked here when each week's lessons are published.
 - [Guiding Question - Week 3](homework/the-question/week3.md)
 - [Guiding Question - Week 4](homework/the-question/week4.md)
 - [Guiding Question - Week 5](homework/the-question/week5.md)
-- Guiding Question - Week 6
 - Guiding Question - Week 7
-- Guiding Question - Week 8
 - Guiding Question - Week 9
+
 
 <!--
 

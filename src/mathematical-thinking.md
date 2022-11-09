@@ -50,10 +50,11 @@ By the end of the course, you will be able to:
 3. Introduction to Proofs
 4. Counting
 5. Probability
-6. Functions and Relations
-7. Number Systems
-8. Number Theory
-9. Modular Arithmetic
+6. Review
+7. Relations and Functions
+8. Relations and Functions Part 2
+9. Number Theory
+10. Number Theory part 2
 
 ## Assessments
 
