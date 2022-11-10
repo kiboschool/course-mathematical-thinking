@@ -39,7 +39,7 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w5-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Probability.nb
 [w5-video1]: https://youtu.be/aUOzKpI_9nU
-[w5-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w5-video2]: https://youtu.be/QRYCfrXjALU
 [w5-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Probability%20Class%20Problems%20Solutions.nb
 [w5-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
