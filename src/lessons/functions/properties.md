@@ -16,6 +16,7 @@ Is the function \\(And\\) injective? We have that \\(And(True, False) = And(Fals
 
 Visually, we can also express this idea as: There are no two arrows that point to the same element
 
+![injective function visualization](images/injective_functions.png)
 
 
 ### Showing a functon is injective, or not
@@ -43,6 +44,8 @@ It follows then that *g* is not surjective.
 
 Visually, we can also express this property as: Every element in the codomain has at least one arrow pointing to it.
 
+![surjective function visualization](images/surjective_functions.png)
+
 ### Showing a function is surjective, or not
 
 To show that a function is **not** surjective requires a counter example: Can you find an element *k* of the codomain such that \\(\forall x \in Domain: f(x) \neq k\\)? This requires some careful thinking for what *k* is, as well as some insight into the function itself to prove that there is no *x* in the domain that satisfies f(x) = k
@@ -62,12 +65,13 @@ So what can we say about a function that is both injective **and** surjective? T
 
 Visually, a bijective function looks like this:
 
+![bijective visualization](images/bijective_function.png)
 
 ### Inverting functions
 
 The most powerful property of bijective functions is that they can be inverted. If we have a bijective function \\(f: A \to B\\), we can define it's inverse \\(f^{-1}: B \to A, f^{-1}(y) = x \iff f(x) = y\\)
 
-From a visual perspective, this is the function we obtain if we flip all the arrows!
+From a visual perspective, this is the function we obtain if we flip all the arrows in the previous image!
 
 The lesson to take here is that a bijective function can be **undone**. If we have the output of a bijective function, we can reliably reconstruct its original input.
 
