@@ -23,11 +23,9 @@ Submit your response in Gradescope, either using the app or the website.
    2. Is this function injective?
    3. Is this function surjective?
 
-3. Let \\(S = \\{\frac{p}{q}: p, q \in \mathbb Z, q \neq 0\\}\\) be the set of fractions. We define a relation *R* on *S* such by the formula: \\(\frac{a}{b} R \frac{c}{d} \iff ad = bc\\). 
+3. Let \\(S = \\{\frac{p}{q}: p, q \in \mathbb Z, q \neq 0\\}\\) be the set of fractions. We define a relation *R* on *S* such by the formula: \\(\frac{a}{b} R \frac{c}{d} \iff ad = bc\\). Is R an equivalence relation? why or why not?
 
-Is R an equivalence relation? why or why not?
-
-4. Consider the following function: \\(f: \mathbb N \to \mathbb N\\) described as \\(f(n+1) = \begin{cases}\frac{f(n)}{2}\quad  if\\,  f(n)\\,  is\\,  even \\\ 3f(n) + 1 \quad if \\, f(n) \\, is\\,  odd \end{cases}
+4. Consider the following function: \\(f: \mathbb N \to \mathbb N\\) described as \\(f(n+1) = \begin{cases}\frac{f(n)}{2}\quad  if\\;  f(n)\\;  is\\;  even \\\ 3f(n) + 1 \quad if \\; f(n) \\; is\\;  odd \end{cases}
 \\)
 
 Notice that if f(0) = 1, we get that: f(1) = 4, f(2) = 2, f(3) = 1, f(4) = 4, etc. So we have a cycle.
