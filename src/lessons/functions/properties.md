@@ -49,7 +49,7 @@ To show that a function is **not** surjective requires a counter example: Can yo
 
 Alternatively, one can also apprach this by looking at the sizes of the domain and codomain: if the codomain is larger than the domain, and each value of the domain maps to exactly one value in the codomain by definition of what a function is, then surely there are elements of the codomain with no source in the domain.
 
-To show a function is surjective requires showing that \\(\forall y \in Codomain, \exists x \in Domain: f(x) = k\\). This is often done in a direct proof. You can define an arbitrary variable \\(y \in Codomain, then show that \\(\exists x \in Domain such that f(x) = y\\). The crux of this proof often lies in finding an expression of x in terms of y, then establishing that it is indeed a member of the domain.
+To show a function is surjective requires showing that \\(\forall y \in Codomain, \exists x \in Domain: f(x) = k\\). This is often done in a direct proof. You can define an arbitrary variable \\(y \in Codomain\\), then show that \\(\exists x \in Domain: f(x) = y\\). The crux of this proof often lies in finding an expression of x in terms of y, then establishing that it is indeed a member of the domain.
 
 
 ## Bijective functions

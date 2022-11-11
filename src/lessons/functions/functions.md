@@ -2,7 +2,7 @@
 
 Every function is a relation, but not every relation is a function. In order to be a function, a relation needs to satisfy **one key constraint:** 
 
-A relation R on a subset of \\(A x B\\) is a function if and only if (\forall x \in A\\), there exists a **unique** element \\(y \in B\\) such that \\(xRy\\)
+A relation \\(R\\) on a subset of \\(A x B\\) is a function if and only if \\(\forall x \in A\\), there exists a **unique** element \\(y \in B\\) such that \\(xRy\\)
 
 Let's go back to our previous examples. We had a relation,  \\(Table1: \\{(Ife, 200), (Tolu, 150), (Olivia, 150), (Tolu, 100)\\}\\) to capture donations from people. If I were to ask you how much Ife donated, the answer is clear: 200
 

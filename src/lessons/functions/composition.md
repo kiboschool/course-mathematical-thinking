@@ -8,7 +8,11 @@ Let's say we have \\(f: A \to B\\) and \\(g: C \to D\\). Could we compose these 
 
 It depends. We know that \\(f(a) \in B\\) so as long as \\(B \subseteq C\\), we can apply both functions, one after the other. However, if the codomain of our firt function is not a subset of the domain of the second, this will not reliably be the case. For the rest of these notes we will set things up so that codomains and domains match, but that is something to be cautious of when combining functions on your own. 
 
-We can formally define the composition of two functions as a new function. Given \\(f: X \to Y\\) and \\(g: Y \to Z\\) we define the function \\(g \circ f: X \to Z, g \circ f(x) = g(f(x))\\). We use the \\(\circ\\) symbol to denote composition, and we read \\(g \circ f\\) as "g of f"
+We can formally define the composition of two functions as a new function. Given \\(f: X \to Y\\) and \\(g: Y \to Z\\) we define the function:
+
+\\(g \circ f: X \to Z, g \circ f(x) = g(f(x))\\). 
+
+We use the \\(\circ\\) symbol to denote composition, and we read \\(g \circ f\\) as "g of f"
 
 This translates directly to programming, where you may have seen this syntax before:
 
@@ -58,7 +62,7 @@ The associative property of functions states that \\((f \circ g) \circ h\\) is e
 
 ### Injective compositions
 
-let \\(f: X \to Y\\) and \\(g: Y \to Z\\ be injective functions. Does that mean that \\(f \circ g\\) is injective as well? 
+let \\(f: X \to Y\\) and \\(g: Y \to Z\\) be injective functions. Does that mean that \\(f \circ g\\) is injective as well? 
 
 Let's Assume that \\(g \circ f\\) is not injective. This means that there are distinct a, b in X such that \\(g \circ f(a) = g \circ f(b)\\).
 - \\(f(a) \neq f(b)\\) since \\(a \neq b\\) and \\(f\\) is injective
@@ -68,12 +72,13 @@ Let's Assume that \\(g \circ f\\) is not injective. This means that there are di
 
 ### Surjective compositions
 
-let \\(f: X \to Y\\) and \\(g: Y \to Z\\ be surjective functions. Does that mean that \\(f \circ g\\) is surjective as well? 
+let \\(f: X \to Y\\) and \\(g: Y \to Z\\) be surjective functions. Does that mean that \\(f \circ g\\) is surjective as well? 
 
-- Let z be an arbitrary element of \\(Z\\). \\(\exists y in Y such that g(y) = z\\) since \\(g\\) is surjective.
-- Since \\(f\\) is surjective, \\(\exists x in X such that f(x) = y\\)
-- Therefore, \\(\exists x in X such that g(f(x)) = z\\)
+- Let z be an arbitrary element of \\(Z\\). \\(\exists y \in Y: g(y) = z\\) since \\(g\\) is surjective.
+- Since \\(f\\) is surjective, \\(\exists x \in X: f(x) = y\\)
+- Therefore, \\(\exists x \\in X: g(f(x)) = z\\)
 - Thus \\(\forall z \in Z, \exists x \in X: g(f(x)) = z\\)
-By definition, this means that \\(g \circ f\\) is **surjective.**
+
+Therefore \\(g \circ f\\) is **surjective.**
 
 What can you conclude about the composition of bijective functions?
