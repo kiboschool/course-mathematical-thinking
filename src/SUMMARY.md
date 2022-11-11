@@ -55,7 +55,7 @@
   - [Relations](lessons/functions/relations.md)
   - [Functions](lessons/functions/functions.md)
   - [Properties of functions](lessons/functions/properties.md)
-  - [Composition of functions](lessons/functions/properties.md)
+  - [Composition of functions](lessons/functions/composition.md)
   - [Problem Set 6](homework/problem-sets/week6.md)
 
 <!-- - [Number Systems](lessons/number-systems.md)
