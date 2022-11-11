@@ -1,4 +1,9 @@
-## Properties of functions:
+# Properties of functions:
+
+## Key Ideas:
+- Introducing Injective, Surjective, and Bijective functions.
+- Showcasing techniques for proving whether or not a function shows these properties.
+- Introducing the concepts of inverses of a function.
 
 ## Injective functions
 
@@ -16,7 +21,7 @@ Is the function \\(And\\) injective? We have that \\(And(True, False) = And(Fals
 
 Visually, we can also express this idea as: There are no two arrows that point to the same element
 
-![injective function visualization](images/injective_functions.png)
+![injective function visualization](/images/injective_functions.png)
 
 
 ### Showing a functon is injective, or not
@@ -44,7 +49,7 @@ It follows then that *g* is not surjective.
 
 Visually, we can also express this property as: Every element in the codomain has at least one arrow pointing to it.
 
-![surjective function visualization](images/surjective_functions.png)
+![surjective function visualization](/images/surjective_functions.png)
 
 ### Showing a function is surjective, or not
 
@@ -65,7 +70,7 @@ So what can we say about a function that is both injective **and** surjective? T
 
 Visually, a bijective function looks like this:
 
-![bijective visualization](images/bijective_function.png)
+![bijective visualization](/images/bijective_function.png)
 
 ### Inverting functions
 
@@ -80,3 +85,8 @@ This translates well to functions in a programming context. When defining your o
 If it is not bijective however - say that some of its inputs map to the same output - then it would be quite difficul to **reliably** undo the action that function performs. If you were provided with that output, how would you decide what input it connects to? 
 
 Functions as they are used in programming draw a lot of inspiration from mathematical functions and their properties. Let's explore one final one in the next section.
+
+
+## References:
+[Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec*intro-functions.html)
+[chapter 1 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)

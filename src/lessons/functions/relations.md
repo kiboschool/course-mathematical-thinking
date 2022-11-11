@@ -1,4 +1,8 @@
+# Relations
 
+## Key Ideas:
+- Define relations as substes of a cartesian product
+- Introduce the concept of equivalence relations
 
 ## Relations
 
@@ -80,3 +84,7 @@ Do be careful that you need to explicitly cover all three properties to establis
 - How about the symmetric property? this is where things break! we can say that \\((3,4) \in \mathbb R\\) for example, but not that \\((5,3) \in \mathbb R\\)
 
 We will revisit equivalence relations in a couple weeks as we move into number theory, but for now, let's look into a different type of relations: functions.
+
+
+## References:
+[chapter 1.2 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)

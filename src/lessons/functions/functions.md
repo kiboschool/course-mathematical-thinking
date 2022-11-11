@@ -1,4 +1,10 @@
-## Functions
+# Functions
+## Key Ideas:
+- Define the properties of relations that make them functions.
+- Introduce notation and definitionsfor functions, domains, codomains, and images.
+- Revisit prior content through the lense of functions.
+
+## Relations to functions
 
 Every function is a relation, but not every relation is a function. In order to be a function, a relation needs to satisfy **one key constraint:** 
 
@@ -96,3 +102,8 @@ This kind of function is called a **probability distribution**, which we will ex
 The main takeway to share here is that ***functions are crafted for a specific purpose***. For example, probability distributions have a constraint on them that the sum of all the probabilities must be equal to 1. This allows us to apply our knowledge of statistics, while at the same time looking at it through the lense of functions. 
 
 Throughout your studies and careers, you will come up with many functions - often implementing them in code. Be creative! You can set your own constraints and limits to them to solve the problem at hand.
+
+
+## References:
+[Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec*intro-functions.html)
+[chapter 1 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)

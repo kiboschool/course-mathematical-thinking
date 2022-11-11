@@ -1,4 +1,8 @@
 # Function composition
+## Key Ideas:
+- Define notation for function composition
+- Relate function composition to programming
+- Show how established properties of functions translate to compositions
 
 ## Combining functions
 
@@ -82,3 +86,8 @@ let \\(f: X \to Y\\) and \\(g: Y \to Z\\) be surjective functions. Does that mea
 Therefore \\(g \circ f\\) is **surjective.**
 
 What can you conclude about the composition of bijective functions?
+
+
+## References:
+[Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec*intro-functions.html)
+[chapter 1 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)
