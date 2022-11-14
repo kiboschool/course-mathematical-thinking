@@ -8,7 +8,7 @@
 
 Every function is a relation, but not every relation is a function. In order to be a function, a relation needs to satisfy **one key constraint:** 
 
-A relation \\(R\\) on a subset of \\(A x B\\) is a function if and only if \\(\forall x \in A\\), there exists a **unique** element \\(y \in B\\) such that \\(xRy\\)
+A relation \\(R \subseteq A \times B\\) is a function if and only if \\(\forall x \in A\\), there exists a **unique** element \\(y \in B\\) such that \\(xRy\\)
 
 Let's go back to our previous examples. We had a relation,  \\(Table1: \\{(Ife, 200), (Tolu, 150), (Olivia, 150), (Tolu, 100)\\}\\) to capture donations from people. If I were to ask you how much Ife donated, the answer is clear: 200
 
@@ -66,7 +66,7 @@ We can define a function \\(And: B \times B \to B\\):
 We can revisit probability as well in terms of functions. Say we want to create a function that gives us the odd that a dice rolls a specific number. 
 
 - Our domain is the set \\(D = \\{1, 2, 3, 4, 5, 6\\}\\)
-- Our codomain, by definition of probability, is values between 0 and 1. we can define a set \\(P = \\{x \in \mathbb R: 0 \geq x \leq 1\\}\\). In this case it would also be valid to consider the codomain to be just the element \\(\frac{1}{6}\\), but let's stick with 
+- Our codomain, by definition of probability, is values between 0 and 1. we can define a set \\(P = \\{x \in \mathbb R: 0 \leq x \leq 1\\}\\). In this case it would also be valid to consider the codomain to be just the element \\(\frac{1}{6}\\), but let's stick with **P** as our domain.
 - Therefore we have our function set up such that \\(f(1) = f(2) = f(3) = f(4) = f(5) = f(6) = \frac{1}{6}\\)
 
 This is what we call a uniform probability distribution: All the odds are the same for any of the values. This has been our assumption throughout week 5, but events are not always evenly distributed.

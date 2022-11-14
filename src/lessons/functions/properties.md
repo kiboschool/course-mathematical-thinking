@@ -27,11 +27,9 @@ Visually, we can also express this idea as: There are no two arrows that point t
 ### Showing a functon is injective, or not
 To show that a function is **not** injective only requires a counter example, can you find two **distinct** elements *x* and *y* from the domain such that f(x) = f(y)? if so your proof is done.
 
-Conversely, showing that a function **is** injective requires showing that \\(\forall x, y \in Domain: x \neq y \implies f(x) \neq f(y)\\). This can be done directly in some cases, but can also be achieved using a proof by contradiction.
+Conversely, showing that a function **is** injective requires showing that \\(\forall x, y \in Domain:  f(x) = f(y)  \implies x = y\\). This can be done directly in some cases, assuming that you have two values \\(x, y\\) such that (\\f(x) = f(y)\\), and reaching the conclusion that \\(x\\) and \\(y\\) must be equal.
 
-For example, you may assume that our function f is **not injective**, meaning that there is an x and y such that \\(f(x) = f(y)\\) and \\(x \neq y\\). 
-
-You can then try to simplify \\(f(x) = f(y)\\) and obtain that x is indeed equal to y, contradicting your initial claim.
+The contrapositive of our statement above is that \\(\forall x, y \in Domain: x \neq y \implies f(x) \neq f(y)\\), which can make the proof simpler in some cases. You can identify two *distinct* values \\(x, y\\), and reaching the conclusion that \\(f(x) \neq f(y)\\)
 
 ## Surjective functions
 

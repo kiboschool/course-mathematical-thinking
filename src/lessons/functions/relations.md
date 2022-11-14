@@ -59,11 +59,11 @@ for example let's consider the cartesian product of the set \\(\mathbb Z\\) with
 
 Consider then the relation \\(R = \\{(x, y) | x^2 = y^2\\}\\). This relation is a subset of \\(\mathbb R \times \mathbb R\\) that only keeps the pairs of numbers that have the same squared value. We will show how this relation R is an **equivalence relation**
 
-Is \\((3,4) \in \mathbb R\\)? no, as we can easily show that \\(3^2 \neq 4^2\\). In other words, 3 is not equivalent to 4 in this relation.
+Is \\((3,4) \in R\\)? no, as we can easily show that \\(3^2 \neq 4^2\\). In other words, 3 is not equivalent to 4 in this relation.
 
-How about \\((3,3) \in \mathbb R\\)? It is true as \\(3^2 = 3^2\\). It is somewhat obvious, but 3 is equivalent to itself in this relation.
+How about \\((3,3) \in R\\)? It is true as \\(3^2 = 3^2\\). It is somewhat obvious, but 3 is equivalent to itself in this relation.
 
-How about \\((2,-2) \in \mathbb R\\) That is also true, as \\(2^2 = (-2)^2\\). How about if we flip it? is \\((-2,2) \in \mathbb R\\)? yes indeed.
+How about \\((2,-2) \in R\\) That is also true, as \\(2^2 = (-2)^2\\). How about if we flip it? is \\((-2,2) \in R\\)? yes indeed.
 
 More generally, an equivalence relation \\(R\\) on a set \\(S\\) requires 3 properties to be true:
 
@@ -81,7 +81,7 @@ Do be careful that you need to explicitly cover all three properties to establis
 
 - Is R reflexive? yes! we can say that a number is less than or equal to itself
 - Is R transitive? yes! if \\(x \leq y, y \leq z\\), it follows that \\(x \leq z\\)
-- How about the symmetric property? this is where things break! we can say that \\((3,4) \in \mathbb R\\) for example, but not that \\((5,3) \in \mathbb R\\)
+- How about the symmetric property? this is where things break! we can say that \\((3,4) \in R\\) for example, but not that \\((5,3) \in R\\)
 
 We will revisit equivalence relations in a couple weeks as we move into number theory, but for now, let's look into a different type of relations: functions.
 

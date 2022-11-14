@@ -4,6 +4,9 @@
   2. is *f* surjective? explain: *f* is not surjective, as there is no value of the domain that is mapped to 2
 
 2. 
+Assigning grades can be viewed as a relation between students and grades. As a student can only have a single grade at the end of the term, we satisfy the key property to be a function. Our domain would be the set of all possible students, and our codomain the set of all possible grades. 
+
+3. 
 Checking the reflexive property of R:
   For any fraction a/b, we have that a/b R a/b since ab = ab
 
@@ -22,7 +25,7 @@ Checking the transitive property of R:
 
 As all three properties are satisfied, R is an equivalence relation.
 
-2. Consider the following function: \\(f: \mathbb N \to \mathbb N\\) with the recurrence relation \\(\\f(n+1) = \cmd{\frac{f(n)}{2}  if  f(n)  is  even}{3f(n) + 1  if  f(n)  is  odd})
+4. Consider the following function: \\(f: \mathbb N \to \mathbb N\\) with the recurrence relation \\(\\f(n+1) = \cmd{\frac{f(n)}{2}  if  f(n)  is  even}{3f(n) + 1  if  f(n)  is  odd})
 Notice that if f(0) = 1, we get that:
 - f(1) = 4
 - f(2) = 2
@@ -45,7 +48,7 @@ So we have a cycle.
   - Therefore, there exists an integer m such that there is no n that satisfies f(n) = m
   - Therefore we have a contradiction and f is not surjective.
 
-3. Let \\(f: X \to Y\\) and \\(g: Y \to Z\\) be functions. We define \\(g \circ f: X \to Z\\) as the composition of the two functions.
+5. Let \\(f: X \to Y\\) and \\(g: Y \to Z\\) be functions. We define \\(g \circ f: X \to Z\\) as the composition of the two functions.
   1. If \\(f\\) and \\(g\\) are both injective, must \\(g \circ f) be injective as well? Explain
   - let \\(a, b \in X\\) such that \\(a \neq b\\).
   - This means that \\(f(a) \neq f(b)\\) as \\(f\\) is injective and a and b are distinct.
@@ -59,15 +62,3 @@ So we have a cycle.
   - Therefore, \\(\exists x in X such that g(f(x)) = z\\)
   - Thus \\(\forall z \in Z, \exists x \in X: g(f(x)) = z\\) and \\(g \circ f\\) is surjective.
   
-4. In the game of hearts, 4 players are given 13 cards from a deck of 52 typical playing cards. 
-  1. Represent this as a function, stating its domain and codomain. 
-  	- The domain can be any representation of four players. P = {1,2,3,4}, or P = {player1, player2, player3, player4}
-  	- The codomain is the set of all 52 choose 13 possible hand combinations.
-  1. Is this function injective?
-  	- The function should be injective given that each card is unique, so no two hands will be the same for each player.
-  1. Is this function surjective?
-  	- The function is not surjective, as each player is mapped to a unique hand, so only four hands are mapped onto, leaving 52 choose 13 - 4 possibilities that aren't. Alternatively, one can simply state that the size of the domain is less than the size of the codomain.
-
-
-  
-

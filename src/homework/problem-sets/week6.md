@@ -18,10 +18,7 @@ Submit your response in Gradescope, either using the app or the website.
    1. is *f* injective? explain
    2. is *f* surjective? explain
 
-2. In the game of hearts, 4 players are given 13 cards from a deck of 52 typical playing cards. 
-   1. Represent this as a function, stating its domain and codomain.
-   2. Is this function injective?
-   3. Is this function surjective?
+2. At the end of the semester a teacher assigns letter grades to each of her students. Argue that this is a function, and describe its domain and codomain.
 
 3. Let \\(S = \\{\frac{p}{q}: p, q \in \mathbb Z, q \neq 0\\}\\) be the set of fractions. We define a relation *R* on *S* such by the formula: \\(\frac{a}{b} R \frac{c}{d} \iff ad = bc\\). Is R an equivalence relation? why or why not?
 
@@ -37,4 +34,4 @@ Notice that if f(0) = 1, we get that: f(1) = 4, f(2) = 2, f(3) = 1, f(4) = 4, et
 
 
 ## References:
-[Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec*intro-functions.html)
+[Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec_intro-functions.html)
