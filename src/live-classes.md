@@ -10,6 +10,7 @@ Video recordings of the class will also be posted after the classes each week.
 | 3    | Proofs              | [Notes][w3-notes]       | [YouTube][w3-video1] |[YouTube][w3-video2] |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
 | 4    | Counting            | [Notes][w4-notes]       | [YouTube][w4-video1] |[YouTube][w4-video2] |[Class Problems][w4-classproblems] |[Solutions][w4-psSols]|
 | 5    | Probability         | [Notes][w5-notes]       | [YouTube][w5-video1] |[YouTube][w5-video2] |[Class Problems][w5-classproblems] |[Solutions][w5-psSols]|
+| 6    | Review              | No Notes                | [YouTube][w6-video1] |[YouTube][w6-video2] |No CLass Problems                  |No Problem Set        |
 
 
 
@@ -44,7 +45,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w5-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [w6-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
-[w6-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w6-video1]: https://youtu.be/pVM1R2n2nTo
 [w6-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w6-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w6-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ

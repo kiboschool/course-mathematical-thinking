@@ -53,7 +53,7 @@ This is a permutation problem. Given a sequence of 5 distinct digits, how many w
 
 One of these permutations represents the **winning sequence!** if we pick that one, we'd win the first prize, not the second. Therefore,  \\(|E_{secondPrize}| = 5! - 1\\)
 
-This gives us that \\(P(E_{secondPrize}) = \frac{124}{30240}\\) Still not great odds, but 124 times more likely than winning.
+This gives us that \\(P(E_{secondPrize}) = \frac{119}{30240}\\) Still not great odds, but 119 times more likely than winning.
 
 ## Key theorems:
 In this section, we formalize some theorems regarding probability. These will form the basis for you to be able to prove more complex statements regarding probabilities. 

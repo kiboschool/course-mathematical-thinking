@@ -70,7 +70,7 @@ Finally, we also have 2+4+6 = 12. there are 3! = 6 ways to rearrange those numbe
 
 Therefore, |F| = 3+1+6 = 10
 
-\\(P(E | F) = \frac{|E \cap F|}{|F|} = \frac{3}{6}\\)
+\\(P(E | F) = \frac{|E \cap F|}{|F|} = \frac{3}{10}\\)
 
 
 4. One coin in a collection of 65 has two heads. The rest are fair. If a coin, chosen at random from the lot and then tossed, turns up heads 6 times in a row, what is the probability that it is the two-headed coin? 
