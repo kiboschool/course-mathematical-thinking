@@ -193,7 +193,7 @@ As an optional bonus task: write a python function that takes one member of weak
 
 As an optional bonus task: write a python function to return a set of passwords in weak_S6 from a member of weak_S7. (Assume that those sets are similar to the other weak_* sets we've defined above)
 
-<!-- 
+
 ## Part 3: Storing passwords
 
 Even more effective in practice than brute force attacks and dictionary attacks are _credential stuffing attacks_.
