@@ -142,7 +142,7 @@ The basic idea is to try everything, very quickly. Just how fast can a computer 
 
 ### Dictionary attacks
 
-Trying every possible combination is the the most effective strategy. Attackers are smart - they can try guessing passwords that are more likely! People are predictable. They need to choose passwords that they can remember, so they end up choosing some passwords much more frequently than others.
+Trying every possible combination is not the most effective strategy. Attackers are smart - they can try guessing passwords that are more likely! People are predictable. They need to choose passwords that they can remember, so they end up choosing some passwords much more frequently than others.
 
 Consider the password scheme S1 - a 4-digit numeric pincode. What do you think are the most common 4-digit pincodes?
 
