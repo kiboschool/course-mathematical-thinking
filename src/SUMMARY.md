@@ -50,6 +50,8 @@
   - [Case study: The Monty Hall Problem](lessons/probability/case_study.md)
   - [Problem Set 5](homework/problem-sets/week5.md)
 
+- [Review](live-classes.md)
+
 - [Functions and Relations](lessons/functions-and-relations.md)
   - [Guiding Question](homework/the-question/week6.md)
   - [Relations](lessons/functions/relations.md)
