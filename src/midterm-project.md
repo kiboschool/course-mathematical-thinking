@@ -222,9 +222,9 @@ A hash function is useful because it's _very hard to undo_. There's no easy-to-c
 
 ### A hash function
 
-Run the code in hashing_demo.py, and provide it with a test password. What do you notice about the size of the hashed value? Try it again, several times, with the same password. What do you notice about the output? Finally, make a small change to your password - swap a letter, or change its casing, or add just one number. What do you notice about the output?
+Run the code in [hashing_demo](https://replit.com/@MehdiOulmakki/hashingdemo?v=1), and provide it with a test password. What do you notice about the size of the hashed value? Try it again, several times, with the same password. What do you notice about the output? Finally, make a small change to your password - swap a letter, or change its casing, or add just one number. What do you notice about the output?
 
-The algorithm in `hashing_demo.py` is called _md5_ and it is a very popular example of a hash function.
+The algorithm in `hashing_demo` is called _md5_ and it used to be a very popular hash function.
 
 Here's the formal definition of a hash function:
 
