@@ -246,7 +246,7 @@ Domain needs to be the set of possible passwords, range should be a fixed-length
 
 Let’s try to assess some hashing functions now.
 
-Consider the following hashing algorithm for numeric pincodes in S2:
+Consider the following hashing algorithm H1 for numeric pincodes in S2:
 
 ```txt
 - Sum the last 4 digits
