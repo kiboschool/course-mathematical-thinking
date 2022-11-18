@@ -50,10 +50,16 @@
   - [Case study: The Monty Hall Problem](lessons/probability/case_study.md)
   - [Problem Set 5](homework/problem-sets/week5.md)
 
-<!--
 - [Functions and Relations](lessons/functions-and-relations.md)
   - [Guiding Question](homework/the-question/week6.md)
+  - [Relations](lessons/functions/relations.md)
+  - [Functions](lessons/functions/functions.md)
+  - [Properties of functions](lessons/functions/properties.md)
+  - [Composition of functions](lessons/functions/composition.md)
   - [Problem Set 6](homework/problem-sets/week6.md)
+  
+
+<!--
 
 - [Number Systems](lessons/number-systems.md)
   - [Guiding Question](homework/the-question/week7.md)
