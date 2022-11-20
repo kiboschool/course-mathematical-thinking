@@ -58,7 +58,7 @@
   - [Functions](lessons/functions/functions.md)
   - [Properties of functions](lessons/functions/properties.md)
   - [Composition of functions](lessons/functions/composition.md)
-  - [Problem Set 6](homework/problem-sets/week6.md)
+  - [Problem Set week 7](homework/problem-sets/week6.md)
   
 
 <!--
