@@ -52,7 +52,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w6-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [w7-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Relations%20and%20Functions.nb
-[w7-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w7-video1]: https://youtu.be/kvr7P0afiQU
 [w7-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w7-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w7-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
