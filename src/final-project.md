@@ -15,7 +15,7 @@ The project has 3 parts:
 
 More information will be published here when the project is assigned.
 
-<!-- When publishing the final project, uncomment the rest of this file
+
 
 
 The project has 3 parts:
@@ -29,7 +29,7 @@ Each part will involve applying a different set of mathematical concepts you've 
 
 This is a multi-week project.
 
-You have until Nov 21 to finish all of the required parts of the project.
+You have until Dec 16 to finish all of the required parts of the project.
 
 You are expected to submit your work by these deadlines:
 
@@ -43,7 +43,7 @@ You have access to the entire project now, but we have not have covered all the 
 
 ## Submission
 
-For each deadline, there will be a gradescope link to submit your work. You'll be able to revise and resubmit those parts for the final submission deadline. The final submission is what will be graded.
+There will be a gradescope link to submit your work. You'll be able to revise and resubmit those parts for the final submission deadline. The final submission is what will be graded.
 
 For each of the questions, create a pdf or scan an image to show your work. It may be easiest to write your solution by hand, then upload a photo of that instead of typesetting your work in a text editor; feel free to do either.
 
@@ -99,7 +99,7 @@ Unfortunately, we do not have a guaranteed way to share the key over an untruste
 
 7. Can you think of a strategy that would allow communication over an untrusted network? this is an open ended question where we expect you to think about the problem and share ideas or questions of your own, no pressure to create a brand new algorithm!
 
-
+<!-- When publishing the final project, uncomment the rest of this file
 ## Part 2: Building up to RSA
 
 We concluded the previous checkpoint with the observation that symmetric key cryptography has a major challenge when it comes to sharing the key itself.
