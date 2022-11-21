@@ -152,10 +152,7 @@ An attacker doesn't need to try every single password. They can try them in orde
 
 This style of attack is called a _dictionary attack_. Instead of trying random passwords, it guesses from a 'dictionary' of frequently used passwords.
 
-3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second.
-
-Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? 1 day?
-
+3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second. Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? 1 day?Asumme that for there is a uniform distribution of frequencies for passwords between the 21st and the 9,979th.
 
 ### Dictionary attacks for other passwords
 
@@ -178,6 +175,8 @@ Let’s call weak_S3 the set of passwords that are made up entirely of known wor
 | 2 | 675 |
 
 Note the difference in size between weak_S3 and S3.
+
+This table seems a bit off, so for the purpose of Questions 5, 6 , and 7 just assume that |weak_S3| is 50,000.
 
 Some large fraction of people use weak passwords. Depending on what you ask, between 30% and 80% of people have bad password habits. Let's assume for our purposes that bad habits mean picking an easy to remember password: an existing word or combination of words.
 
