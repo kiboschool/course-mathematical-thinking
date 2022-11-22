@@ -152,7 +152,7 @@ An attacker doesn't need to try every single password. They can try them in orde
 
 This style of attack is called a _dictionary attack_. Instead of trying random passwords, it guesses from a 'dictionary' of frequently used passwords.
 
-3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second. Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? 1 day?Asumme that for there is a uniform distribution of frequencies for passwords between the 21st and the 9,979th.
+3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second. Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? 1 day? Asumme that there is a uniform distribution of frequencies for passwords between the 21st and the 9,979th.
 
 ### Dictionary attacks for other passwords
 
