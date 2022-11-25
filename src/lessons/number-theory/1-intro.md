@@ -23,6 +23,8 @@ Let's consider two integers *m* and *n*. if \\(\frac{n}{m}\\) is also an Integer
 
 Note that \\(m | n\\) is a proposition, which means it can be True or False. \\(4 | 20\\) holds, but \\(3 | 7\\) does not.
 
+We use the symbol \\(m \not | n\\) to indicate the opposite notion, that *m* does not divide *n*.
+
 ## The division algorithm
 
 The definition above is nice for numbers that divide each other, but that is not always the case. How do we capture that two numbers don't quite divide each other completely? We have a handy theorem to support that:

@@ -32,11 +32,11 @@ We can capture this same idea in a different way, leveraging our recent definiti
 ### Congruence as a relation:
 We can look at congruence as a relation, and easily show that it is an equivalence relation:
 
-1. \\(a \equiv a (\text{mod n})\\) is trivial to show. For example, we can say that \\(a = a + 0.n\\), which is equivalent to \\(a \equiv a (\text{mod n})\\)
+1. \\(a \equiv a (\text{mod n})\\) is trivial to show. For example, we can say that \\(a = a + 0n\\), which is equivalent to \\(a \equiv a (\text{mod n})\\)
 
 2. if \\(a \equiv b (\text{mod n})\\) then \\(b \equiv a (\text{mod n})\\). This comes from the fact that \\(n | a-b \implies n | b-a \\), which is equivalent to \\(b \equiv a (\text{mod n})\\)
 
-3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n, then} a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
+3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c \text{(mod n), then } a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
 
 ### Arithmetic
 
@@ -46,7 +46,7 @@ This is familiar to what we've done for years with equations, but congruence is 
 
 - \\(a + c \equiv b + d (\text{mod n})\\)
 - \\(a - c \equiv b - d (\text{mod n})\\)
-- \\(a.c \equiv b.d (\text{mod n})\\)
+- \\(ac \equiv bd (\text{mod n})\\)
 - \\(a^p \equiv b^p (\text{mod n})\\)
 
 How about division? can we safely divide both sides of a congruence? let's look at an example: \\(24 \equiv 39 (\text{mod 5})\\) 
@@ -79,13 +79,13 @@ Find the remainder of x modulo 9. Now we could approach this quickly with a calc
 
 Can we figure out each of these remainders? 1 mod 9 is 1, so no issues there. 90 is clearly a multiple of 9, so 90 mod 9 is 0
 
-How about 400? Well \\(400 \equiv 4.100 (\text{mod 9})\\)
+How about 400? Well \\(400 \equiv 4\times100 (\text{mod 9})\\)
 
 Notice that 100 = 99 + 1 so 100 mod 9 = 1
 
-This means that \\(400 \equiv 4.1 (\text{mod 9})\\)
+This means that \\(400 \equiv 4\times1 (\text{mod 9})\\)
 
-Similarly, we can find that \\(3000 \equiv 3.1 (\text{mod 9})\\)
+Similarly, we can find that \\(3000 \equiv 3\times1 (\text{mod 9})\\)
 
 So overwall, we get that \\(x \equiv 3 + 4 + 0 + 1 (\text{mod 9})\\)
 
@@ -93,7 +93,7 @@ So overwall, we get that \\(x \equiv 3 + 4 + 0 + 1 (\text{mod 9})\\)
 ### Example 2:
 find the remainder of \\(3^{123} (\text{mod 7})\\). We will be relying on our third and fourth arithmetic properties of congruence for this. Our goal is to break down the power so that we can slowly reduce the values on the right side of our congruence. 
 
-\\(3^123 \equiv 3^{3.41} (\text{mod 7})\\)
+\\(3^123 \equiv 3^{3\times41} (\text{mod 7})\\)
 
 \\(3^123 \equiv 27^{41} (\text{mod 7})\\)
 

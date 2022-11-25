@@ -62,8 +62,8 @@ So we have some relevant information now! we can express y as 17k + 2. **y can n
 Let's plug it back in our initial equation, and try to express *x* in terms of *k*
 
 - \\(17x + 29(17k + 2) = 41\\) 
-- \\(17x + 29.17k + 58 = 41\\)
-- \\(17x = -17 - 29.17k\\)
+- \\(17x + 29(17k) + 58 = 41\\)
+- \\(17x = -17 - 29(17k)\\)
 - \\(17x = 17 (-1 - 29k)\\)
 - \\(x = -29k - 1\\)
 
@@ -83,9 +83,9 @@ Let's look for the general solution of \\(3x + 5y = 16\\)
 
 Taking the congruence modulo 3 we get \\(5y \equiv 16 \text{mod 3}\\)
 
-- \\(2y \equiv 1 \text{mod 3}\\)
-- \\(2y \equiv 4 \text{mod 3}\\)
-- \\(y \equiv 2 \text{mod 3}\\) as gcd(3,2) = 1
+- \\(2y \equiv 1 (\text{mod 3})\\)
+- \\(2y \equiv 4 (\text{mod 3})\\)
+- \\(y \equiv 2 (\text{mod 3})\\) as gcd(3,2) = 1
 
 Therefore, y = 3k+2 for any integer \\(k \in \mathbb Z\\)
 

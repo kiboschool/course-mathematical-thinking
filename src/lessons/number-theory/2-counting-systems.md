@@ -17,9 +17,9 @@ In other words, \\(213 = 0\times1000 + 2\times100 + 1\times10 + 3\times1\\)
 
 We can look at this in yet another way leveraging what we have just covered of division:
 
-- 213 = 21.10 + **3**
-- 21 = 2.10 + **1**
-- 2 = 0.10 + **2**
+- \\(213 = 21\times10 + 3\\)
+- \\(21 = 2\times10 + 1\\)
+- \\(2 = 0\times10 + 2\\)
 - We have a 0 now so we stop the process.
 
 The number of our units is the **remainder** of dividing our entire number by 10.
