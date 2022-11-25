@@ -1,6 +1,6 @@
 ## Common denominators
 
-Let's consider an integer *a*. We can define a set of denominators of *a* such that \\(denominators = \\{k \in \mathbb N \\} \\) if \\(k|a\\)
+Let's consider an integer *a*. We can define a set of denominators of *a* such that \\(denominators = \\{k \in \mathbb N \text{such that} k|a\\)
 
 We will not often need to identify all the denominators of a given number, we are however interested in finding what denominators two numbers share in common. Common denominators can be handy to address some problems. Note that given integers *a*, *b*, and *d* such that \\(d|a\\) and \\(d|b\\) we can easily show that:
 
@@ -93,7 +93,7 @@ Can we convince ourselves that \\(r_{n-1}|a\\) and \\(r_{n-1}|b\\)?
 
 Let's start from the final step of the algorithm:
 - \\(r_{n-2} = q_nr_{n-1} + 0 => r_{n-1} | r_{n-2}\\)
-- We can keep working backwards from there: Since \\(r_{n-1} | r_{n-2}\\), then  \\(r_{n-3} = q_{n-1}r_{n-2} + r_{n-1} \implies \\(r_{n-1} | r_{n-3}\\)
+- We can keep working backwards from there: Since \\(r_{n-1} | r_{n-2}\\), then  \\(r_{n-3} = q_{n-1}r_{n-2} + r_{n-1} \implies r_{n-1} | r_{n-3}\\)
 - Ultimately this means that \\(r{n-1} | r_2\\) and \\(r_{n-1} | r_1\\)
 - Since \\(b = q_2r_1 + r_2\\), it follows that \\(r_{n-1} | b\\)
 - Since \\(a = q_1b + r_1\\), it follows that \\(r_{n-1} | a\\)

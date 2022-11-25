@@ -8,13 +8,13 @@
 
 Out of the four fundamental mathematical operations you have grown accustomed to, division is somewhat special. Let's focus on the set of all integers for a moment. Adding and multiplying integers together is guaranteed to give us a new integer. Substraction broadens that scope, where the result may also be a negative integer.
 
-Division of integers on the other hand can yield wildly different results, you may still get an integer, or a defined rational fraction, such as \\(frac{3}{4}\\), or an irrational number such as \\(frac{1}{3}\\)
+Division of integers on the other hand can yield wildly different results, you may still get an integer, or a defined rational fraction, such as \\(\frac{3}{4}\\), or an irrational number such as \\(\frac{1}{3}\\)
 
 Understanding the mechanics of division gives us deeper insights into numbers and how they connect. We will apply these insights in problem solving, and see how some have enabled the manufacturing of electronics in the first place! as usual though, let us start with formalizing our language and with some definitions:
 
 ## Defining divisibility
 
-Let's consider two integers *m* and *n*. if \\(\frac{n}{m}\\) is also an integer, we say that *m divides n*. We can also represent this symbolically as \\(m | n\\). All the following statements are equivalent:
+Let's consider two integers *m* and *n*. if \\(\frac{n}{m}\\) is also an Integer, we say that *m divides n*. We can also represent this symbolically as \\(m | n\\). All the following statements are equivalent:
 
 - *m* divides *n*
 - *n* is a multiple of *m*

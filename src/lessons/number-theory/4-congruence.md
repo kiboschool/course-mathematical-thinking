@@ -36,7 +36,7 @@ We can look at congruence as a relation, and easily show that it is an equivalen
 
 2. if \\(a \equiv b (\text{mod n})\\) then \\(b \equiv a (\text{mod n})\\). This comes from the fact that \\(n | a-b \implies n | b-a \\), which is equivalent to \\(b \equiv a (\text{mod n})\\)
 
-3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n})\\), then \\(a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
+3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n, then} a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
 
 ### Arithmetic
 
@@ -74,38 +74,38 @@ However, applying the formula to the second example where GCD(15, 3) = 3 we can 
 ### Example 1:
 Find the remainder of x modulo 9. Now we could approach this quickly with a calculator, but it's helpful to see how we can do it directly by leveraging our understanding of congruence. This is the same as solving the following:
 
-- \\(x \equiv 3491 (\text{mod n})\\)
-- \\(x \equiv 3000 + 400 + 90 + 1 (\text{mod n})\\)
+- \\(x \equiv 3491 (\text{mod 9})\\)
+- \\(x \equiv 3000 + 400 + 90 + 1 (\text{mod 9})\\)
 
 Can we figure out each of these remainders? 1 mod 9 is 1, so no issues there. 90 is clearly a multiple of 9, so 90 mod 9 is 0
 
-How about 400? Well \\(400 \equiv 4.100 (\text{mod n})\\)
+How about 400? Well \\(400 \equiv 4.100 (\text{mod 9})\\)
 
 Notice that 100 = 99 + 1 so 100 mod 9 = 1
 
-This means that \\(400 \equiv 4.1 (\text{mod n})\\)
+This means that \\(400 \equiv 4.1 (\text{mod 9})\\)
 
-Similarly, we can find that \\(3000 \equiv 3.1 (\text{mod n})\\)
+Similarly, we can find that \\(3000 \equiv 3.1 (\text{mod 9})\\)
 
 So overwall, we get that \\(x \equiv 3 + 4 + 0 + 1 (\text{mod 9})\\)
 
 \\(x \equiv 8 (\text{mod 9})\\)
 ### Example 2:
-find the remainder of \\(3^123 (\text{mod 7})\\). We will be relying on our third and fourth arithmetic properties of congruence for this. Our goal is to break down the power so that we can slowly reduce the values on the right side of our congruence. 
+find the remainder of \\(3^{123} (\text{mod 7})\\). We will be relying on our third and fourth arithmetic properties of congruence for this. Our goal is to break down the power so that we can slowly reduce the values on the right side of our congruence. 
 
 \\(3^123 \equiv 3^{3.41} (\text{mod 7})\\)
 
-\\(3^123 \equiv 27^41 (\text{mod 7})\\)
+\\(3^123 \equiv 27^{41} (\text{mod 7})\\)
 
-\\(3^123 \equiv 6^41 (\text{mod 7})\\) since \\(27 \equiv 6 (\text{mod 7})\\)
+\\(3^123 \equiv 6^{41} (\text{mod 7})\\) since \\(27 \equiv 6 (\text{mod 7})\\)
 
-\\(3^123 \equiv 6.6^{2.20} (\text{mod 7})\\)
+\\(3^123 \equiv 6\times6^{2\times20} (\text{mod 7})\\)
 
-\\(3^123 \equiv 6.36^20 (\text{mod 7})\\)
+\\(3^123 \equiv 6\times36^{20} (\text{mod 7})\\)
 
-\\(3^123 \equiv 6.1^20 (\text{mod 7})\\) since \\(36 \equiv 1 (\text{mod 7})\\)
+\\(3^123 \equiv 6\times1^{20} (\text{mod 7})\\) since \\(36 \equiv 1 (\text{mod 7})\\)
 
-\\(3^123 \equiv 6 (\text{mod 7})\\) since \\(1^20 = 1)\\)
+\\(3^123 \equiv 6 (\text{mod 7})\\) since \\(1^{20} = 1)\\)
 
 ## References:
 

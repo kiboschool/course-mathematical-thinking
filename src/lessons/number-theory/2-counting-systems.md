@@ -11,9 +11,9 @@ Let's take a big step back to our early years in school, and how we first learne
 |-|-|-|-|
 |0|2|1|3|
 
-In other words, \\(213 = 0.1000 + 2.100 + 1.10 + 3.1\\)
+In other words, \\(213 = 0\times1000 + 2\times100 + 1\times10 + 3\times1\\)
 
-\\(213 = 0.10^3 + 2.10^2 + 1.10^1 + 3.10^0\\)
+\\(213 = 0\times10^3 + 2\times10^2 + 1\times10^1 + 3\times10^0\\)
 
 We can look at this in yet another way leveraging what we have just covered of division:
 
@@ -35,9 +35,9 @@ We will follow the same approach, repeatedly dividing and considering the remain
 
 Let's represent the number 7 in base 2. Since we will be dividing by 2, our possible remainders can only be 0 or 1:
 
-- 7 = 3.2 + **1**
-- 3 = 1.2 + **1**
-- 1 = 0.2 + **1**
+- \\(7 = 3\times2 + 1\\)
+- \\(3 = 1\times2 + 1\\)
+- \\(1 = 0\times2 + 1\\)
 - We have a 0 now so we stop the process.
 
 This means that in base 2, we represent 7 as 111. 
@@ -48,7 +48,7 @@ Let's try to go the other way around: How should we interpret the base 2 number 
 |-|-|-|-|
 |1|0|1|1|
 
-so shifting from binary to decimal, 1011 is equivalent to \\(1.2^3 + 0.2^2 + 1.2^1 + 1.2^0 = 11\\)
+so shifting from binary to decimal, 1011 is equivalent to \\(1\times2^3 + 0\times2^2 + 1\times2^1 + 1\times2^0 = 11\\)
 
 ### Why bother?
 

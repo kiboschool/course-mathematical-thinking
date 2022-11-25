@@ -2,7 +2,7 @@
 
 ## Submission
 
-This problem set is due Sunday November 27th at 10pm
+This problem set is due Sunday December 4th at 10pm
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
@@ -19,7 +19,7 @@ Submit your response in Gradescope, either using the app or the website.
     3. 101 in base 10 to base 2
 2. Compute GCD(1240, 6660)
 3. Let *a* be a positive integer. Prove that GCD(*a*, *a*+1) = 1
-4. Prove that GCD(*a*, *a+2*) = 1 if *a* is odd, and GCD(*a*, *a+2*) = 1 if *a* is even
+4. Prove that GCD(*a*, *a+2*) = 1 if *a* is odd, and GCD(*a*, *a+2*) = 2 if *a* is even
 5. Show that if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n})\\), then \\(a \equiv c (\text{mod n})\\)
 6. Simplify the following congruences:
     1. \\(15x \equiv 9 \text{ (mod 25)}\\)
