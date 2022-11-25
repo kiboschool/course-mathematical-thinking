@@ -29,7 +29,7 @@ For some numbers, these are the **only** denominators they have. For example bot
 if *p* is a prime number then for any integer *b* we have that: 
 - \\(p|b \implies GCD(p, b) = p\\)
 
-- \\( \not p|b \implies GCD(p, b) = 1 \\)
+- \\(p \not | b \implies GCD(p, b) = 1 \\)
 
 Prime numbers have fascinated mathematicians for centuries, and their properties come in very handy as we will see in the final part of our project. For now though, you should simply be aware of them. 
 

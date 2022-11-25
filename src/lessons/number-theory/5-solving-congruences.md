@@ -61,11 +61,11 @@ So we have some relevant information now! we can express y as 17k + 2. **y can n
 
 Let's plug it back in our initial equation, and try to express *x* in terms of *k*
 
-\\(17x + 29(17k + 2) = 41\\) 
-\\(17x + 29.17k + 58 = 41\\)
-\\(17x = -17 - 29.17k\\)
-\\(17x = 17 (-1 - 29k)\\)
-\\(x = -29k - 1\\)
+- \\(17x + 29(17k + 2) = 41\\) 
+- \\(17x + 29.17k + 58 = 41\\)
+- \\(17x = -17 - 29.17k\\)
+- \\(17x = 17 (-1 - 29k)\\)
+- \\(x = -29k - 1\\)
 
 So we have a way to express both y and x in terms of an integer *k*! Let's try some values of *k* and convince ourselves that this works:
 
@@ -83,18 +83,18 @@ Let's look for the general solution of \\(3x + 5y = 16\\)
 
 Taking the congruence modulo 3 we get \\(5y \equiv 16 \text{mod 3}\\)
 
-\\(2y \equiv 1 \text{mod 3}\\)
-\\(2y \equiv 4 \text{mod 3}\\)
-\\(y \equiv 2 \text{mod 3}\\) as gcd(3,2) = 1
+- \\(2y \equiv 1 \text{mod 3}\\)
+- \\(2y \equiv 4 \text{mod 3}\\)
+- \\(y \equiv 2 \text{mod 3}\\) as gcd(3,2) = 1
 
 Therefore, y = 3k+2 for any integer \\(k \in \mathbb Z\\)
 
 Plugging it back into the initial equation we get that:
 
-\\(3x + 5(3k + 2) = 16\\)
-\\(3x + 5(3k + 2) = 16\\)
-\\(3x + 15k = 6\\)
-\\(x = 2 - 5k\\)
+- \\(3x + 5(3k + 2) = 16\\)
+- \\(3x + 5(3k + 2) = 16\\)
+- \\(3x + 15k = 6\\)
+- \\(x = 2 - 5k\\)
 
 so our general solution to the diophantine equation is that x = 2-5k and y = 3k+2 \\(\forall k \in \mathbb Z\\)
 
@@ -111,10 +111,10 @@ Therefore, x = 8k+7 for any integer \\(k \in \mathbb Z\\)
 
 Plugging it back into the initial equation we get that:
 
-\\(17(8k+7) + 8y = 31\\)
-\\(17(8k) + 119 +8y = 31\\)
-\\(8y = -88 -17(8k)\\)
-\\(y = -11 -17k\\)
+- \\(17(8k+7) + 8y = 31\\)
+- \\(17(8k) + 119 +8y = 31\\)
+- \\(8y = -88 -17(8k)\\)
+- \\(y = -11 -17k\\)
 
 so our general solution to the diophantine equation is that x = 8k+7 and y = -11 - 17k \\(\forall k \in \mathbb Z\\)
 

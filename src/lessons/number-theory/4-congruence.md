@@ -36,7 +36,7 @@ We can look at congruence as a relation, and easily show that it is an equivalen
 
 2. if \\(a \equiv b (\text{mod n})\\) then \\(b \equiv a (\text{mod n})\\). This comes from the fact that \\(n | a-b \implies n | b-a \\), which is equivalent to \\(b \equiv a (\text{mod n})\\)
 
-3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n})\\), then if \\(a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
+3. if \\(a \equiv b (\text{mod n})\\) and if \\(b \equiv c (\text{mod n})\\), then \\(a \equiv c (\text{mod n})\\) is also fairly straightforward to show, but will be left as part of your homework!
 
 ### Arithmetic
 
@@ -74,8 +74,8 @@ However, applying the formula to the second example where GCD(15, 3) = 3 we can 
 ### Example 1:
 Find the remainder of x modulo 9. Now we could approach this quickly with a calculator, but it's helpful to see how we can do it directly by leveraging our understanding of congruence. This is the same as solving the following:
 
--\\(x \equiv 3491 (\text{mod n})\\)
--\\(x \equiv 3000 + 400 + 90 + 1 (\text{mod n})\\)
+- \\(x \equiv 3491 (\text{mod n})\\)
+- \\(x \equiv 3000 + 400 + 90 + 1 (\text{mod n})\\)
 
 Can we figure out each of these remainders? 1 mod 9 is 1, so no issues there. 90 is clearly a multiple of 9, so 90 mod 9 is 0
 

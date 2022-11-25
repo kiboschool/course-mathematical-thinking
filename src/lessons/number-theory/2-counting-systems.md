@@ -11,7 +11,9 @@ Let's take a big step back to our early years in school, and how we first learne
 |-|-|-|-|
 |0|2|1|3|
 
-In other words, \\(213 = 0.1000 + 2.100 + 1.10 + 3.1\\), or \\(213 = 0.10^3 + 2.10^2 + 1.10^1 + 3.10^0\\)
+In other words, \\(213 = 0.1000 + 2.100 + 1.10 + 3.1\\)
+
+\\(213 = 0.10^3 + 2.10^2 + 1.10^1 + 3.10^0\\)
 
 We can look at this in yet another way leveraging what we have just covered of division:
 
