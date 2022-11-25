@@ -65,4 +65,4 @@
   - [Denominators](lessons/number-theory/3-common-denominators.md)
   - [Congruence](lessons/number-theory/4-congruence.md)
   - [Solving problems](lessons/number-theory/5-solving-congruences.md)
-  - [Final Problem Set](lessons/problem-sets/final_problem_set.md)
+  - [Final Problem Set](homework/problem-sets/final_problem_set.md)
