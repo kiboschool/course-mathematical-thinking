@@ -58,17 +58,11 @@
   - [Composition of functions](lessons/functions/composition.md)
   - [Problem Set 6](homework/problem-sets/week6.md)
 
-<!-- - [Number Systems](lessons/number-systems.md)
-  - [Guiding Question](homework/the-question/week7.md)
-  - [Problem Set 7](homework/problem-sets/week7.md)
-
 - [Number Theory](lessons/number-theory.md)
   - [Guiding Question](homework/the-question/week8.md)
-  - [Problem Set 8](homework/problem-sets/week8.md)
-
-- [Modular Arithmetic](lessons/modular-arithmetic.md)
-  - [Guiding Question](homework/the-question/week9.md)
-  - [Problem Set 9](homework/problem-sets/week9.md)
-
-- [Review and Preview](lessons/review.md)
-  -->
+  - [Introduction](homework/number-theory/1-intro.md)
+  - [Counting Systems](homework/number-theory/2-counting-systems.md)
+  - [Denominators](homework/number-theory/3-common-denominators.md)
+  - [Congruence](homework/number-theory/4-congruence.md)
+  - [Solving problems](homework/number-theory/5-solving-congruences.md)
+  - [Final Problem Set](homework/problem-sets/final_problem_set.md)
