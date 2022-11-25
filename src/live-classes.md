@@ -12,6 +12,7 @@ Video recordings of the class will also be posted after the classes each week.
 | 5    | Probability             | [Notes][w5-notes]       | [YouTube][w5-video1] |[YouTube][w5-video2] |[Class Problems][w5-classproblems] |[Solutions][w5-psSols]|
 | 6    | Review                  | No Notes                | [YouTube][w6-video1] |[YouTube][w6-video2] |No Class Problems                  |No Problem Set        |
 | 7    | Functions and Relations | [Notes][w7-notes]       | [YouTube][w7-video1] |[YouTube][w7-video2] |[Class Problems][w7-classproblems] |[Solutions][w7-psSols]|
+| 8    | Functions and Relations | [Notes][w7-notes]       | [YouTube][w7-video1] |[YouTube][w7-video2] |[Class Problems][w7-classproblems] |[Solutions][w7-psSols]|
 
 
 
@@ -57,7 +58,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w7-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w7-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-[w8-notes]:https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w8-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory.nb
 [w8-video1]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w8-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w8-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D

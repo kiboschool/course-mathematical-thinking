@@ -60,6 +60,14 @@
   - [Composition of functions](lessons/functions/composition.md)
   - [Problem Set week 7](homework/problem-sets/week6.md)
   
+- [Number Theory](lessons/number-theory.md)
+  - [Guiding Question](homework/the-question/week8.md)
+  - [Introduction](lessons/number-theory/1-intro.md)
+  - [Counting Systems](lessons/number-theory/2-counting-systems.md)
+  - [Denominators](lessons/number-theory/3-common-denominators.md)
+  - [Congruence](lessons/number-theory/4-congruence.md)
+  - [Solving problems](lessons/number-theory/5-solving-congruences.md)
+  - [Final Problem Set](homework/problem-sets/final_problem_set.md)
 
 <!--
 
