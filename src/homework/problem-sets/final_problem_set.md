@@ -2,7 +2,7 @@
 
 ## Submission
 
-This problem set is due Sunday December 4th at 10pm
+This problem set is due Sunday December 11th at 10pm
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
