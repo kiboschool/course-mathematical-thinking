@@ -56,7 +56,7 @@ Video recordings of the class will also be posted after the classes each week.
 [w7-video1]: https://youtu.be/kvr7P0afiQU
 [w7-video2]: https://youtu.be/1bTFwZzJJV4
 [w7-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
-[w7-psSols]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[w7-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%20Week%207%20Solutions.nb
 
 [w8-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory.nb
 [w8-video1]: https://youtu.be/Hv8WzRwTZdo
