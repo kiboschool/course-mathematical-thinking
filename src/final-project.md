@@ -134,7 +134,7 @@ We say that two numbers are considered relatively prime if their greates common 
   1. 215 and 216
   2. 17 and 68
   3. 16 and 81
-<!-- When publishing the final project, uncomment the rest of this file
+
 ### Extended Euclidian algorithm.
 You may have used the euclidian algorithm to solve some of the problems above. We will slightly tweak it now to get a bit more information out of it.
 Before we introduce the extended euclidian algorithm, let's first think through what other information we really want.
@@ -155,7 +155,7 @@ def extended-euclidian(a, b):
   return gcd, x, y
 
 Proving the correctness of this algorithm is left as an optional exercise. However, we should convince ourselves that it does work.
-
+<!-- When publishing the final project, uncomment the rest of this file
 6. For the following three pairs of integers a and b, apply the extended-euclidian algorithm to identify x, y such that gcd(a, b) = ax + by:
   1. 17 and 68
   2. 16 and 81
