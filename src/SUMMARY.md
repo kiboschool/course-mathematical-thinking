@@ -68,7 +68,7 @@
 
 - [Number Theory Part 2](lessons/number-theory-2.md)
   - [Guiding Question](homework/the-question/week9.md)
-  - [Number Systems]()
+  - [Counting Systems](lessons/number-theory/2-counting-systems.md)
   - [Congruence](lessons/number-theory/4-congruence.md)
   - [Solving problems](lessons/number-theory/5-solving-congruences.md)
   - [Final Problem Set](homework/problem-sets/final_problem_set.md)
