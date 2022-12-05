@@ -127,9 +127,9 @@ We say that two numbers are considered relatively prime if their greates common 
 
 2. Show that two non-prime numbers a and b can also be relatively prime.
 3. Find a relatively prime number for the following numbers:
-  1. 1715
-  2. 100
-  3. 482671
+    1. 1715
+    2. 100
+    3. 482671
 4. Using the definition, test if the following pairs of numbers are relatively prime:
   1. 215 and 216
   2. 17 and 68
@@ -139,7 +139,7 @@ We say that two numbers are considered relatively prime if their greates common 
 You may have used the euclidian algorithm to solve some of the problems above. We will slightly tweak it now to get a bit more information out of it.
 Before we introduce the extended euclidian algorithm, let's first think through what other information we really want.
 
-5. Prove that if gcd(a, b) = d, then \exists x, y \in Z such that d = ax + by
+5. Prove that if gcd(a, b) = d, then \(\exists x, y \in Z\) such that d = ax + by
 
 The extended euclidian algorithm allows us to identify exactly what this x and y are. It returns 3 different values: the gcd, a factor x, and a factor y, such that gcd(a, b) = ax + by
 
@@ -155,13 +155,15 @@ def extended-euclidian(a, b):
   return gcd, x, y
 
 Proving the correctness of this algorithm is left as an optional exercise. However, we should convince ourselves that it does work.
-<!-- When publishing the final project, uncomment the rest of this file
+
 6. For the following three pairs of integers a and b, apply the extended-euclidian algorithm to identify x, y such that gcd(a, b) = ax + by:
   1. 17 and 68
   2. 16 and 81
   3. 215 and 321
 
 With this knowledge in hand, we are now ready to tackle RSA in the next section of the lab!
+
+<!-- When publishing the final project, uncomment the rest of this file
 
 ## Part 3: Proving RSA
 
