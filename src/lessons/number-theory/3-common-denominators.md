@@ -1,8 +1,8 @@
-## Common denominators
+## Common divisors
 
-Let's consider an integer *a*. We can define a set of denominators of *a* such that \\(denominators = \\{k \in \mathbb N \text{such that} k|a\\)
+Let's consider an integer *a*. We can define a set of divisors of *a* such that \\(divisors = \\{k \in \mathbb N \text{such that} k|a\\}\\)
 
-We will not often need to identify all the denominators of a given number, we are however interested in finding what denominators two numbers share in common. Common denominators can be handy to address some problems. Note that given integers *a*, *b*, and *d* such that \\(d|a\\) and \\(d|b\\) we can easily show that:
+We will not often need to identify all the divisors of a given number, we are however interested in finding what divisors two numbers share in common. Common divisors can be handy to address some problems. Note that given integers *a*, *b*, and *d* such that \\(d|a\\) and \\(d|b\\) we can easily show that:
 
 - \\(d | k_1a + k_2b\\) for any integers \\(k_1 , k_2\\)
 - \\(d | k_1a - k_2b\\) for any integers \\(k_1 , k_2\\)
@@ -10,7 +10,7 @@ We will not often need to identify all the denominators of a given number, we ar
 
 ### The GCD
 
-Most commonly, we will often seek to know what their **greatest** common denominator is. We will refer to it as GCD moving forward. 
+Most commonly, we will often seek to know what their **greatest** common divisor is. We will refer to it as GCD moving forward. 
 
 Consider the following situation: We are fixing up a house, and have a rectangular space that is 253 cm long and 92 cm wide. We want to decorate it with square tiles. How big of a tile can we use to make sure that we cover everything?
 
@@ -18,13 +18,13 @@ One obvious first answer is using tiles that are 1 cm by 1cm in size. It would t
 
 What if we tried 2 by 2 cm tiles? that would fit nicely along the width of the space, as \\(2|92\\), but that would not properly cover the length. 
 
-Whatever number we use must be a common denominator of the two dimensions. Let's try to factor out 92: \\(92 = 2 \times 2 \times 23\\). How about 253? You can try out a few numbers, but hopefully you will also find that \\(253 = 11 \times 23\\). This means that GCD(92, 253) = 23, so we can use 23 by 23 cm tiles and fully cover the area we need.
+Whatever number we use must be a common divisor of the two dimensions. Let's try to factor out 92: \\(92 = 2 \times 2 \times 23\\). How about 253? You can try out a few numbers, but hopefully you will also find that \\(253 = 11 \times 23\\). This means that GCD(92, 253) = 23, so we can use 23 by 23 cm tiles and fully cover the area we need.
 
 ## Primes:
 
-Every number has a few guaranteed denominators: 1 can divide every number after all. Similarly, a number always divides itself, with the exception of 0. 
+Every number has a few guaranteed divisors: 1 can divide every number after all. Similarly, a number always divides itself, with the exception of 0. 
 
-For some numbers, these are the **only** denominators they have. For example both 2 and 3 are prime, so are 11, 13 and 29. More generally, a prime number is a positive integer **greater than 1** that has exactly 2 denominators: 1 and itself. In other words, a prime number can not be expressed as the product of any other positive integers besides 1 and itself
+For some numbers, these are the **only** divisors they have. For example both 2 and 3 are prime, so are 11, 13 and 29. More generally, a prime number is a positive integer **greater than 1** that has exactly 2 divisors: 1 and itself. In other words, a prime number can not be expressed as the product of any other positive integers besides 1 and itself
 
 This has some interesting implications: If *p* is a prime number then for any integer *b* we have that: 
 - \\(p|b \implies GCD(p, b) = p\\)
@@ -35,7 +35,7 @@ Prime numbers have fascinated mathematicians for centuries, and their properties
 
 ### Relative primes
 
-How about if the dimensions we had to deal with for our tiling problem were 92 by 105 centimeters? Well, \\(105 = 3 \times 5 \times 7\\), so what does that mean for our GCD? the only denominator these tho numbers have in common is 1. 
+How about if the dimensions we had to deal with for our tiling problem were 92 by 105 centimeters? Well, \\(105 = 3 \times 5 \times 7\\), so what does that mean for our GCD? the only divisor these tho numbers have in common is 1. 
 
 More formally, if *a* and *b* are integers and GCD(a, b) = 1, then *a* and *b* are **relative primes**
 
@@ -86,8 +86,8 @@ The smallest element in \\(\mathbb N\\) is 0, so if we continue following the al
 ### showing that \\(r_{n-1}\\) is the GCD
 We can approach this proof in a few different ways, but it ultimately relies on showing two things:
 
-1. Showing that \\({r_{n-1}}\\) is a common denominator of *a* and *b*
-2. Showing that \\({r_{n-1}}\\) is indeed the greatest of all common denominators of *a* and *b*
+1. Showing that \\({r_{n-1}}\\) is a common divisor of *a* and *b*
+2. Showing that \\({r_{n-1}}\\) is indeed the greatest of all common divisors of *a* and *b*
 
 Can we convince ourselves that \\(r_{n-1}|a\\) and \\(r_{n-1}|b\\)?
 
@@ -102,9 +102,9 @@ Let's start from the final step of the algorithm:
 
 - Since \\(a = q_1b + r_1\\), it follows that \\(r_{n-1} | a\\)
 
-- So \\(r_{n-1}\\) is a common denominator of both *a* and *b*
+- So \\(r_{n-1}\\) is a common divisor of both *a* and *b*
 
-let *d* be any common denominator of *a* and *b*
+let *d* be any common divisor of *a* and *b*
 
 - By definition, \\(d | a\\), and \\(d | q_1.b\\) 
 
@@ -113,8 +113,8 @@ let *d* be any common denominator of *a* and *b*
 - Considering the second step of our algorithms we have that \\(b = q_2.r_1 + r_2\\). By the same logic as above it follows that \\(d | r_2\\)
 - Repeatedly applying the same logic for each step of the algorithm, we ultimately reach that \\(d | r_{n-1}\\)
 - This implies that \\(r_{n-1} \geq d\\)
-- so for any commond denominator *d* of *a* and *b*, \\(d \leq r_{n-1}\\)
-- Therefore, \\(r_{n-1}\\) is the greatest common denominator of *a* and *b*
+- so for any common divisor *d* of *a* and *b*, \\(d \leq r_{n-1}\\)
+- Therefore, \\(r_{n-1}\\) is the greatest common divisor of *a* and *b*
 
 And here you go, your first proof of an algorithm's correctness! You can view a live version of the proof [here](https://www.youtube.com/watch?v=8cikffEcyPI&ab_channel=MichaelPenn) for reference.
 

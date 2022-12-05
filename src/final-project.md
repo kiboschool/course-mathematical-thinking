@@ -139,7 +139,7 @@ We say that two numbers are considered relatively prime if their greates common 
 You may have used the euclidian algorithm to solve some of the problems above. We will slightly tweak it now to get a bit more information out of it.
 Before we introduce the extended euclidian algorithm, let's first think through what other information we really want.
 
-5. Prove that if gcd(a, b) = d, then \(\exists x, y \in Z\) such that d = ax + by
+5. Prove that if gcd(a, b) = d, then \\(\exists x, y \in \mathbb{Z}\\) such that d = ax + by
 
 The extended euclidian algorithm allows us to identify exactly what this x and y are. It returns 3 different values: the gcd, a factor x, and a factor y, such that gcd(a, b) = ax + by
 
