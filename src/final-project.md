@@ -99,7 +99,7 @@ Unfortunately, we do not have a guaranteed way to share the key over an untruste
 
 7. Can you think of a strategy that would allow communication over an untrusted network? this is an open ended question where we expect you to think about the problem and share ideas or questions of your own, no pressure to create a brand new algorithm!
 
-<!-- When publishing the final project, uncomment the rest of this file
+
 ## Part 2: Building up to RSA
 
 We concluded the previous checkpoint with the observation that symmetric key cryptography has a major challenge when it comes to sharing the key itself.
@@ -113,7 +113,7 @@ In Part 3, we will dive deep into the RSA algorithm, a popular strategy to avoid
   - pub(priv(m)) = m
 - If Alice wants to receive messages from Bob, she would make her public key publicly known
 - Bob can then send pub_alice(m) to Alice.
-- Alice can then decrypt the cypher text by applying her private key, so priv_alice(pub_alice(m))
+- Alice can then decrypt the cypher text by applying her private key, so priv_alice(pub_alice(m))=m.
 - If Cynthia is still eavesdropping, then she knows the public key of Alice, she can also intercept pub_alice(m), but because she does not know the private key, she should not be able to decypher the message.
 
 1. How do you feel about this set up? Do you have any questions in mind about e and d, the public and private keys?
@@ -123,7 +123,7 @@ RSA relies on some interesting properties of numbers to create these keys and ap
 ### Relative primes:
 We have covered in class what a prime number is: a number that is divisible only by itself and 1.
 
-We say that two numbers are considered relatively prime if their greates common divider is 1. By definition, it then follows that a prime number p is relatively prime with any other number.
+We say that two numbers are considered relatively prime if their greates common divider is 1. By definition, it then follows that a prime number p is relatively prime with any other number that is not a power of the prime.
 
 2. Show that two non-prime numbers a and b can also be relatively prime.
 3. Find a relatively prime number for the following numbers:
@@ -162,7 +162,7 @@ Proving the correctness of this algorithm is left as an optional exercise. Howev
   3. 215 and 321
 
 With this knowledge in hand, we are now ready to tackle RSA in the next section of the lab!
-
+<!-- When publishing the final project, uncomment the rest of this file
 ## Part 3: Proving RSA
 
 Let's jump straight ahead into the RSA algorithm:
