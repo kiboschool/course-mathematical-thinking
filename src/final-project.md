@@ -131,9 +131,9 @@ We say that two numbers are considered relatively prime if their greates common 
     2. 100
     3. 482671
 4. Using the definition, test if the following pairs of numbers are relatively prime:
-  1. 215 and 216
-  2. 17 and 68
-  3. 16 and 81
+    1. 215 and 216
+    2. 17 and 68
+    3. 16 and 81
 
 ### Extended Euclidian algorithm.
 You may have used the euclidian algorithm to solve some of the problems above. We will slightly tweak it now to get a bit more information out of it.
@@ -144,22 +144,22 @@ Before we introduce the extended euclidian algorithm, let's first think through 
 The extended euclidian algorithm allows us to identify exactly what this x and y are. It returns 3 different values: the gcd, a factor x, and a factor y, such that gcd(a, b) = ax + by
 
 def extended-euclidian(a, b):
-  if a == 0:
-      return b, 0, 1
+    if a == 0:
+        return b, 0, 1
 
-  gcd, x1, y1 = extended-euclidian( b mod a, a)
+    gcd, x1, y1 = extended-euclidian( b mod a, a)
 
-  x = y1 - (b/a) * x1 # we use integer division here
-  y = x1
+    x = y1 - (b/a) * x1 # we use integer division here
+    y = x1
 
-  return gcd, x, y
+    return gcd, x, y
 
 Proving the correctness of this algorithm is left as an optional exercise. However, we should convince ourselves that it does work.
 
 6. For the following three pairs of integers a and b, apply the extended-euclidian algorithm to identify x, y such that gcd(a, b) = ax + by:
-  1. 17 and 68
-  2. 16 and 81
-  3. 215 and 321
+    1. 17 and 68
+    2. 16 and 81
+    3. 215 and 321
 
 With this knowledge in hand, we are now ready to tackle RSA in the next section of the lab!
 
