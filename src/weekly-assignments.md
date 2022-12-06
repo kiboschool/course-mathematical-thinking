@@ -42,14 +42,6 @@ up for further submissions.
 - [Problem Set 7](homework/problem-sets/week6.md)
 - [Problem Set 8](homework/problem-sets/final_problem_set.md)
 
-<!--
-
-- [Problem Set 6](homework/problem-sets/week6.md)
-- [Problem Set 7](homework/problem-sets/week7.md)
-- [Problem Set 8](homework/problem-sets/week8.md)
-- [Problem Set 9](homework/problem-sets/week9.md)
--->
-
 ## Guiding Questions
 
 Each week is guided by a question that prompts you to think and explore the central topic of the week. Your written answer will contribute to your participation grade.
