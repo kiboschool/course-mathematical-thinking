@@ -21,7 +21,7 @@ Problem sets let you practice with the topics you cover that week, explore appli
 
 Here's a video demonstrating how to submit your work in Gradescope:
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/eb46a02bf3fc444e83d3a0ef74095199" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://youtube.com/embed/VyD1fvRz6ro" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Problem Set Index
 
