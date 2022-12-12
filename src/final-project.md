@@ -9,16 +9,6 @@ Encryption algorithms will also transform data, but with a clear way to get the 
 ## Instructions
 
 The project has 3 parts:
-- Part 1: Defining Encryption
-- Part 2: Preparing for RSA
-- Part 3: Proving RSA
-
-More information will be published here when the project is assigned.
-
-
-
-
-The project has 3 parts:
 - [Part 1: Defining Encryption](#part-1-intuition-for-encryption)
 - [Part 2: Preparing for RSA](#part-2-building-up-to-rsa)
 - [Part 3: Proving RSA](#part-3-proving-rsa)
@@ -29,13 +19,13 @@ Each part will involve applying a different set of mathematical concepts you've 
 
 This is a multi-week project.
 
-You have until Dec 16 to finish all of the required parts of the project.
+You have until Dec 18 to finish all of the required parts of the project.
 
 You are expected to submit your work by these deadlines:
 
 - Dec 5: Part 1
 - Dec 12: Part 2
-- Dec 16: Finished Project (all three parts)
+- Dec 18: Finished Project (all three parts)
 
 Your answers will only be scored after the finished project deadline. You are encouraged to revisit your answers to Part 1 and Part 2 if you think you can improve them.
 

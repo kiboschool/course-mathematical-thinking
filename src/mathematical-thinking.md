@@ -17,7 +17,7 @@ You'll review number systems, and their relevance to digital computers. You'll d
 
 ## Course Overview
 
-<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://www.loom.com/embed/0b4f098ed9f64945b0d4b8648d4353b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/XtskO_ON1LM" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Meeting Times
 
