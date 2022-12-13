@@ -153,7 +153,7 @@ Proving the correctness of this algorithm is left as an optional exercise. Howev
 
 With this knowledge in hand, we are now ready to tackle RSA in the next section of the lab!
 
-<!-- When publishing the final project, uncomment the rest of this file
+
 
 ## Part 3: Proving RSA
 
@@ -183,6 +183,7 @@ m = S(c) = \c^d \pmod n
 
 First, let's see this in action:
 4. Say our secret message *m* is the number 65. Compute the cypher text, then decrypt it, using the following values: n = 299, e = 5, d = 53
+<!-- When publishing the final project, uncomment the rest of this file
 5. Encrypt and decrypt the same message using your own public and private key.
 
 ### Proving the correctness of RSA
