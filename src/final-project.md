@@ -160,10 +160,10 @@ With this knowledge in hand, we are now ready to tackle RSA in the next section 
 Let's jump straight ahead into the RSA algorithm:
 - We begin by picking two prime numbers, *p* and *q*
 - We compute ***n*** = *pq*
-- We compute \phi (n) = *(p-1)(q-1)*
-- We compute ***e*** to be a small odd integer which is relatively prime to \phi (n)
-- Finally, we compute ***d*** to be the *multiplicative inverse of* ***e***, modulo \phi (n)
-  - This last step takes some clarification. We can phrase that step as solving the equation de \equiv 1 \pmod \phi (n)
+- We compute \\(\phi (n) = *(p-1)(q-1)*\\)
+- We compute ***e*** to be a small odd integer which is relatively prime to \\(\phi (n)\\)
+- Finally, we compute ***d*** to be the *multiplicative inverse of* ***e***, modulo \\(\phi (n)\\)
+  - This last step takes some clarification. We can phrase that step as solving the equation \\(de \equiv 1 \pmod \phi (n)\\)
 
 At this stage, we consider the pair (e, n) to be our public key, and (d, n) our private keys.
 
@@ -176,10 +176,10 @@ At this stage, we consider the pair (e, n) to be our public key, and (d, n) our 
 3. Generally, write e and d in terms of p and q. Here is a hint: what does *ed* equal to?
 
 We still need to understand the encryption and decryption functions necessary. To encrypt a message m, considering m is an integer, we get cypher text *c* such that:
-c = P(m) = \m^e \pmod n
+\\(c = P(m) = \m^e \pmod n\\)
 
 In order to obtain the original message *m* from the cypher text *c*, we compute:
-m = S(c) = \c^d \pmod n
+\\(m = S(c) = \c^d \pmod n\\)
 
 First, let's see this in action:
 4. Say our secret message *m* is the number 65. Compute the cypher text, then decrypt it, using the following values: n = 299, e = 5, d = 53
