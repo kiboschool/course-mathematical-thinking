@@ -160,7 +160,7 @@ With this knowledge in hand, we are now ready to tackle RSA in the next section 
 Let's jump straight ahead into the RSA algorithm:
 - We begin by picking two prime numbers, *p* and *q*
 - We compute ***n*** = *pq*
-- We compute \\(\phi (n) = *(p-1)(q-1)*\\)
+- We compute \\(\phi (n) = (p-1)(q-1)\\)
 - We compute ***e*** to be a small odd integer which is relatively prime to \\(\phi (n)\\)
 - Finally, we compute ***d*** to be the *multiplicative inverse of* ***e***, modulo \\(\phi (n)\\)
   - This last step takes some clarification. We can phrase that step as solving the equation \\(de \equiv 1 \pmod \phi (n)\\)
@@ -168,8 +168,8 @@ Let's jump straight ahead into the RSA algorithm:
 At this stage, we consider the pair (e, n) to be our public key, and (d, n) our private keys.
 
 1. Manually compute the private RSA keys for the following inputs:
-  1. p = 17, q = 19, e = 11
-  2. p = 17, q = 19, e = 5
+    1. p = 17, q = 19, e = 11
+    2. p = 17, q = 19, e = 5
 
 2. Pick two values for p and q of your chosing, so long as they are primes less than 100. Create your own public and private keys.
 
