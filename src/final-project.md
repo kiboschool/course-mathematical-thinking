@@ -176,10 +176,10 @@ At this stage, we consider the pair (e, n) to be our public key, and (d, n) our 
 3. Generally, write e and d in terms of p and q. Here is a hint: what does *ed* equal to?
 
 We still need to understand the encryption and decryption functions necessary. To encrypt a message m, considering m is an integer, we get cypher text *c* such that:
-\\(c = P(m) = \m^e \pmod n\\)
+\\(c = P(m) = m^e \pmod n\\)
 
 In order to obtain the original message *m* from the cypher text *c*, we compute:
-\\(m = S(c) = \c^d \pmod n\\)
+\\(m = S(c) = c^d \pmod n\\)
 
 First, let's see this in action:
 4. Say our secret message *m* is the number 65. Compute the cypher text, then decrypt it, using the following values: n = 299, e = 5, d = 53
