@@ -74,7 +74,7 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w10-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory%20Part%202.nb
 [w10-video1]: https://youtu.be/K7OFxhlKiPs
-[w10-video2]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
+[w10-video2]: https://youtu.be/Q-bde91okbs
 [w10-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w10-psSols]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 https://youtu.be/K7OFxhlKiPs
