@@ -1,7 +1,6 @@
 # Live Classes
 
 Each live class will have notes here that you should read before attending class.
-Video recordings of the class will also be posted after the classes each week.
 
 | Week | Topic                   | Reading                 | Section 1 Video      | Section 2 Video     |Class Problems with solutions      |Problem Set Solutions |
 |------|-------------------------|-------------------------|----------------------|---------------------|-----------------------------------|----------------------|

@@ -16,12 +16,7 @@ By the end of this project, you will have compared different password schemes, y
 
 ## Instructions
 
-The project will have 3 parts:
-- Part 1: Password Generation
-- Part 2: Attacking Passwords
-- Part 3: Storing Passwords
-
-More information will be published here when the project is assigned.
+The project has 3 parts:
 
 - [Part 1: Password Generation](#part-1-password-generation)
 - [Part 2: Attacking Passwords](#part-2-attacking-passwords)
@@ -29,31 +24,18 @@ More information will be published here when the project is assigned.
 
 Each part will involve applying a different set of mathematical concepts you've learned.
 
-## Deadlines
-
-This is a multi-week project.
-
-You have until Nov 21 to finish all of the required parts of the project.
-
-You are expected to submit your work by these deadlines:
-- Nov 7: Part 1
-- Nov 14: Part 2
-- Nov 21: Finished Project (all three parts)
-
-Your answers will only be scored after the finished project deadline. You are encouraged to revisit your answers to Part 1 and Part 2 if you think you can improve them.
-
-You have access to the entire project now, but we have not have covered all the topics yet. Plan to revisit the project each week as you learn the skills required to solve each part of the challenge.
-
 ## Submission
 
-For each deadline, there will be a gradescope link to submit your work. You'll be able to revise and resubmit those parts for the final submission deadline. The final submission is what will be graded.
+You will submit your project on Gradescope using this link.
 
-For each of the questions, create a pdf or scan an image to show your work. It may be easiest to write your solution by hand, then upload a photo of that instead of typesetting your work in a text editor; feel free to do either.
+Some of the questions allow you to type your answers in. Others expect you to
+show your work. For those questions, you can (optionally) upload a scan of a 
+hand-written copy of your work, if that is easier than typing out each part.
 
 ## Notes
 
 - For questions that require you to perform calculations, make sure to show your work.
-- For questions that ask you for a hypothesis or opinion, we do not expect a ***correct*** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
+- For questions that ask you for a hypothesis or opinion, we do not expect a **correct** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
 
 ## Part 1: Password generation
 
