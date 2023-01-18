@@ -3,7 +3,12 @@
 **CSF004**
 _6 ECTS Credits_
 
+Course Start: Monday January 23, 2023
+Course End: Friday March 3, 2023
+
 ---
+
+## Course Overview
 
 Is this statement true? why?
 
@@ -15,17 +20,15 @@ This course will help you develop the ability to think logically and mathematica
 
 You'll review number systems, and their relevance to digital computers. You'll discuss and practice algebraic operations and concepts fundamental to Computer Science. The course also includes an introduction to counting and probability.  You'll also explore how all of these methods are used in real-world computational problems.
 
-## Course Overview
 
 <div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/XtskO_ON1LM" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Meeting Times
 
-* Class 1: Mondays from 3:00pm - 4:30pm GMT
-* Class 2: Thursdays from 6:30pm - 8pm GMT
-* Office Hours: Tuesdays 7:00pm - 8pm GMT & Fridays 7:00pm - 8pm GMT or by request.
+* Office Hours: Wednesdays from 6:30pm-8pm GMT
 
-The following week’s lessons will be released every Sunday.
+All of the lessons for the course will be released from the start, so you can
+proceed through the materials as you complete each section.
 
 ## Instructor
 
@@ -43,35 +46,35 @@ By the end of the course, you will be able to:
 * Decompose a given problem into smaller problems using recursion and induction
 * Apply probability rules to determine the likelihood of an event
 
-## Weekly Topics
+## Topics
 
-1. Propositional Logic
-2. Introduction to Sets
-3. Introduction to Proofs
-4. Counting
-5. Probability
-6. Review
-7. Relations and Functions
-8. Relations and Functions Part 2
-9. Number Theory
-10. Number Theory part 2
+-  Propositional Logic
+-  Introduction to Sets
+-  Introduction to Proofs
+-  Counting
+-  Probability
+-  Relations and Functions
+-  Number Theory
 
 ## Assessments
 
 Your overall course grade is composed of these weighted factors:
 
-* Class participation: 20%
-* Weekly assignments: 50%
-* Projects: 30%
+* 45% 	Problem Sets
+* 20%	  Midterm Project
+* 25%	  Final Project
+* 10% 	Office Hours Attendance
 
-**Class participation** is composed of your attendance in class, and your
-submission of the weekly Guiding Question.
+**Problem Sets**  are chances to practice the concepts covered in the readings 
+and lessons. 
 
-**Weekly Assignments** are problem sets, where you'll practice the concepts
-covered in the readings and lessons.
+The **Midterm Project** will be about Passwords, and connect mathematical theory 
+to the real world.
 
-**Projects** are a Midterm and Final project, where you'll tie many concepts
-together to the real world.
+The **Final Project** will be about Encryption.
 
-The weekly problem sets, guiding questions, midterm and final
-projects are described on the next several pages.
+The problem sets, midterm, and final projects will be completed and submitted 
+using Gradescope.
+
+**Office Hours** will be a chance to review the concepts and practice the
+material together. You are required to attend at least 3 office hours sessions.
