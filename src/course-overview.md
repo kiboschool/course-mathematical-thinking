@@ -10,13 +10,6 @@ Course End: Friday March 3, 2023
 
 ---
 
-## Meeting Times
-
-* Office Hours: Wednesdays from 6:30pm-8pm GMT
-
-All of the lessons for the course will be released from the start, so you can
-proceed through the materials as you complete each section.
-
 ## Instructor
 
 Santiago Camacho 
@@ -24,6 +17,18 @@ Santiago Camacho
 [santiago.camacho@kibo.school](mailto:santiago.camacho@kibo.school)
 
 Please reach out by email with “[Mathematical Thinking]” in the subject, using your kibo email address.
+
+## Office Hours
+
+Office Hours will be held on **Wednesdays from 6:30pm-8pm GMT**, using Zoom.
+
+> You are required to attend _at least 3 Office Hours sessions_. 
+> Office Hours Attendance counts for 10% of your final grade. 
+
+- Register for the office hours and add them to your calendar, so that you do
+    not forget
+- Bring questions to office hours. The discussion will be more helpful if you
+    show up with topics that you are confused by, from the materials.
 
 ## Learning Outcomes
 

@@ -2,16 +2,16 @@
 
 [Mathematical Thinking](mathematical-thinking.md)
 [Course Overview](course-overview.md)
-[Office Hours](office-hours.md)
+[Lectures and Notes](live-classes.md)
 
 ## Assessments
 
-[Assessments](weekly-assignments.md)
-[Problem Set 1](homework/problem-sets/pset1.md)
-[Problem Set 2](homework/problem-sets/pset2.md)
-[Midterm Project](midterm-project.md)
-[Problem Set 3](homework/problem-sets/pset3.md)
-[Final Project](final-project.md)
+- [Assessments](weekly-assignments.md)
+  - [Problem Set 1](homework/problem-sets/pset1.md)
+  - [Problem Set 2](homework/problem-sets/pset2.md)
+  - [Midterm Project](midterm-project.md)
+  - [Problem Set 3](homework/problem-sets/pset3.md)
+  - [Final Project](final-project.md)
 
 ## Lessons
 
