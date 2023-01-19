@@ -13,6 +13,10 @@ In these lessons, we'll focus on counting elements of sets, in different ways. H
 - counting infinite sets: cardinality
 - binomial theorem
 
+## Guiding Question: Counting
+
+Our class needs to send 3 representatives to a mathematics competition. How many possible teams could represent us in that competition? Without additional research, think through how to compute that number, and share you reasoning.
+
 ## Resources:
 - [Chapter 1 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/ch_counting.html)
 - [Chapter 3 of Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)

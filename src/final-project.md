@@ -1,6 +1,6 @@
 # Final Project: Can you keep a secret?
 
-_Due date: February 13_
+_Due date: March 3_
 
 This project involves topics from the whole course.
 
