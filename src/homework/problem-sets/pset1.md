@@ -1,10 +1,12 @@
 # Problem Set 1
 
-_Due date: February 6_
+_Due date: Jan 30_
 
 This problem set covers Propositional Logic, Sets, and Proofs.
 
 Review the material from those chapters to help complete the problem set.
+
+> **[View Problem Set 1 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2586520)**
 
 ## Submission
 
@@ -14,9 +16,7 @@ Review the material from those chapters to help complete the problem set.
 
 Submit your answers in the Gradescope Assignment.
 
-> [View Problem Set 1 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2586520)
-
-Notes:
+### Notes
 - Start early! Problem sets take time, and you may get stuck on some problems.
     Try to complete all that you can, then bring questions to office hours.
 - You'll get feedback on some of your answers in Gradescope when you submit.

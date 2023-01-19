@@ -1,3 +1,22 @@
+# Midterm Project: How good is a P@ssword?
+
+_Due date: February 13_
+
+This project involves topics from the first half of the course, including logic,
+sets, proofs, counting, and probabilities.
+
+Review the material from those chapters to help complete the project.
+
+> **[Complete the Midterm Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/TODO)**
+
+## Submission
+
+This is an **individual assignment**. Your work must be your own.
+
+Submit your answers in the Gradescope Assignment.
+
+Note: Start early! The project is long, and you may get stuck on some problems. Try to complete all that you can, then bring questions to office hours.
+
 # How good is a P@ssword?
 
 ## Intro

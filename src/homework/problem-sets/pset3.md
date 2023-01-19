@@ -6,6 +6,8 @@ This problem set covers Functions and Relations and Number Theory.
 
 Review the material from those chapters to help complete the problem set.
 
+> **[View Problem Set 3 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2588705)**
+
 ## Submission
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
@@ -14,9 +16,8 @@ Review the material from those chapters to help complete the problem set.
 
 Submit your answers in the Gradescope Assignment.
 
-> [View Problem Set 3 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2588705)
 
-Notes:
+### Notes
 - Start early! Problem sets take time, and you may get stuck on some problems.
     Try to complete all that you can, then bring questions to office hours.
 - You'll get feedback on some of your answers in Gradescope when you submit.

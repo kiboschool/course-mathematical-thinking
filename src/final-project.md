@@ -1,4 +1,12 @@
-# Can you keep a secret?
+# Final Project: Can you keep a secret?
+
+_Due date: February 13_
+
+This project involves topics from the whole course.
+
+Review the material from the course to help complete the project.
+
+> **[Complete the Final Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/TODO)**
 
 ## Intro
 

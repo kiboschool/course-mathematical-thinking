@@ -1,10 +1,12 @@
 # Intro to proofs
 
-## Key Ideas:
+## Key Ideas
+
 - Defining the general idea of a proof
 - Showcasing how direct proofs of implication are crafted
 
-## Anatomy of a proof:
+## Anatomy of a proof
+
 You may have experienced conversations or watched debates where someone is trying to make a point, and it ends up feeling a bit like the following image:
 
 ![Then a Miracle Occurs. Copyrighted artwork by Sydney Harris Inc.](/images/miracle.png)

@@ -1,10 +1,12 @@
 # Problem Set 2
 
-_Due date: February 13_
+_Due date: February 6_
 
 This problem set covers Counting and Probability.
 
 Review the material from those chapters to help complete the problem set.
+
+> **[View Problem Set 2 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2588658)**
 
 ## Submission
 
@@ -14,8 +16,7 @@ Review the material from those chapters to help complete the problem set.
 
 Submit your answers in the Gradescope Assignment.
 
-> [View Problem Set 2 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2588658)
-Notes:
+### Notes
 - Start early! Problem sets take time, and you may get stuck on some problems.
     Try to complete all that you can, then bring questions to office hours.
 - You'll get feedback on some of your answers in Gradescope when you submit.
