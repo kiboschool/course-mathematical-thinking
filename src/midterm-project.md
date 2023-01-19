@@ -2,20 +2,27 @@
 
 _Due date: February 13_
 
-This project involves topics from the first half of the course, including logic,
-sets, proofs, counting, and probabilities.
-
-Review the material from those chapters to help complete the project.
-
-> **[Complete the Midterm Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/TODO)**
-
 ## Submission
 
 This is an **individual assignment**. Your work must be your own.
 
-Submit your answers in the Gradescope Assignment.
+This project involves topics from the first half of the course, including logic,
+sets, proofs, counting, and probabilities.
+Review the material from those chapters to help complete the project.
 
-Note: Start early! The project is long, and you may get stuck on some problems. Try to complete all that you can, then bring questions to office hours.
+You will submit your project on Gradescope using this link.
+
+> **[Complete the Midterm Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/2589162)
+
+Some of the questions allow you to type your answers in. Others expect you to
+show your work. For those questions, you can (optionally) upload a scan of a 
+hand-written copy of your work, if that is easier than typing out each part.
+
+## Notes
+
+- For questions that require you to perform calculations, make sure to show your work.
+- For questions that ask you for a hypothesis or opinion, we do not expect a **correct** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
+- Start early! The project is long, and you may get stuck on some problems. Try to complete all that you can, then bring questions to office hours.
 
 # How good is a P@ssword?
 
@@ -42,19 +49,6 @@ The project has 3 parts:
 - [Part 3: Storing Passwords](#part-3-storing-passwords)
 
 Each part will involve applying a different set of mathematical concepts you've learned.
-
-## Submission
-
-You will submit your project on Gradescope using this link.
-
-Some of the questions allow you to type your answers in. Others expect you to
-show your work. For those questions, you can (optionally) upload a scan of a 
-hand-written copy of your work, if that is easier than typing out each part.
-
-## Notes
-
-- For questions that require you to perform calculations, make sure to show your work.
-- For questions that ask you for a hypothesis or opinion, we do not expect a **correct** answer. Feel free to share your genuine thoughts, and we will revisit them later through the exercise.
 
 ## Part 1: Password generation
 
@@ -287,4 +281,3 @@ Security is an arms race. When researchers invent new techniques to keep things 
 On a lighter note, take a look at this [comic](https://imgs.xkcd.com/comics/password_strength.png).
 
 5. (Optional) What do you think of the statement the comic makes? Is the password scheme from the comic (four 3-to-8 letter words) safe? What would you recommend to your friends and family, in terms of password management?
--->
