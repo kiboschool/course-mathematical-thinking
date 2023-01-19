@@ -14,8 +14,7 @@ Review the material from those chapters to help complete the problem set.
 
 Submit your answers in the Gradescope Assignment.
 
-> [View Problem Set 2 on Gradescope](https://www.gradescope.com/courses/498228/assignments/ TODO)
-
+> [View Problem Set 2 on Gradescope](https://www.gradescope.com/courses/498228/assignments/2588658)
 Notes:
 - Start early! Problem sets take time, and you may get stuck on some problems.
     Try to complete all that you can, then bring questions to office hours.
