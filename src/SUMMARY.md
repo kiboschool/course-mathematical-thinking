@@ -66,15 +66,13 @@ Helpful while pulling problems to gradescope in development
   - [Functions](lessons/functions/functions.md)
   - [Properties of functions](lessons/functions/properties.md)
   - [Composition of functions](lessons/functions/composition.md)
-  
+
 - [Number Theory](lessons/number-theory.md)
   - [Guiding Question](homework/the-question/week8.md)
+  - [Guiding Question](homework/the-question/week9.md)
   - [Introduction](lessons/number-theory/1-intro.md)
   - [Counting Systems](lessons/number-theory/2-counting-systems.md)
   - [Divisors](lessons/number-theory/3-common-denominators.md)
-
-- [Number Theory Part 2](lessons/number-theory-2.md)
-  - [Guiding Question](homework/the-question/week9.md)
-  - [Counting Systems](lessons/number-theory/2-counting-systems.md)
   - [Congruence](lessons/number-theory/4-congruence.md)
   - [Solving problems](lessons/number-theory/5-solving-congruences.md)
+

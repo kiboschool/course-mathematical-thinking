@@ -10,8 +10,12 @@ We'll focus on some of the basics of number theory: what it means for a number t
 - GCD and Euclid's algorithm
 - Primes, primality testing, and prime sieves
 - Relative primes
+- Number Systems
+- Extended Euclidean algorithm
+- Congruences
+- Diophantine equations
 
 ## Resources:
 - [Chapter 5.2 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec_addtops-numbth.html)
 - [Chapter 2 of Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/ntic/chapter-basic-integers.html)
-- [Instructor Reading](https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory.nb)
+- [Instructor Reading](https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory%20Part%202.nb)
