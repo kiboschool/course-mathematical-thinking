@@ -10,7 +10,9 @@ This project involves topics from the whole course.
 
 Review the material from the course to help complete the project.
 
-> **[Complete the Final Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/TODO)**
+<!-- uncomment when we release
+
+> **[Complete the Final Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/2589210)**
 
 Some of the questions allow you to type your answers in. Others expect you to
 show your work. For those questions, you can (optionally) upload a scan of a 

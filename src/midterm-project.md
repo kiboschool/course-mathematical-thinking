@@ -10,9 +10,11 @@ This project involves topics from the first half of the course, including logic,
 sets, proofs, counting, and probabilities.
 Review the material from those chapters to help complete the project.
 
+<!-- uncomment when we release
+
 You will submit your project on Gradescope using this link.
 
-> **[Complete the Midterm Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/2589162)
+> **[Complete the Midterm Project on Gradescope](https://www.gradescope.com/courses/498228/assignments/2589162)**
 
 Some of the questions allow you to type your answers in. Others expect you to
 show your work. For those questions, you can (optionally) upload a scan of a 
