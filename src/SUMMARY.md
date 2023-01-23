@@ -9,8 +9,8 @@
 - [Assessments](weekly-assignments.md)
   - [Problem Set 1](homework/problem-sets/pset1.md)
   - [Problem Set 2](homework/problem-sets/pset2.md)
-  - [Midterm Project](midterm-project.md)
   - [Problem Set 3](homework/problem-sets/pset3.md)
+  - [Midterm Project](midterm-project.md)
   - [Final Project](final-project.md)
 
 ## Lessons

@@ -10,8 +10,8 @@ You can find the instructions and links to each week's work below.
 |---|---|
 | [Problem Set 1](homework/problem-sets/pset1.md) | Jan 30 |
 | [Problem Set 2](homework/problem-sets/pset2.md) | Feb 6 |
-| [Midterm Project](midterm-project.md) | Feb 13 |
-| [Problem Set 3](homework/problem-sets/pset3.md) | Feb 20 |
+| [Problem Set 3](homework/problem-sets/pset3.md) | Feb 13 |
+| [Midterm Project](midterm-project.md) | Feb 20 |
 | [Final Project](final-project.md) | March 3 |
 
 ## Problem Sets

@@ -6,11 +6,10 @@ _Due date: February 13_
 
 This is an **individual assignment**. Your work must be your own.
 
-This project involves topics from the first half of the course, including logic,
-sets, proofs, counting, and probabilities.
-Review the material from those chapters to help complete the project.
+This project involves topics from the course, including logic,
+sets, proofs, counting, and probabilities, and functions and relations.
 
-<!-- uncomment when we release
+Review the material from those chapters to help complete the project.
 
 You will submit your project on Gradescope using this link.
 
@@ -125,9 +124,7 @@ The basic idea is to try everything, very quickly. Just how fast can a computer 
 1. Let’s assume that a dedicated attacker can try 1 million passwords per second. Answer the following questions for each of the password schemes S1-S7 from Part 1.
 
 - How quickly would every possible password be tried?
-- How likely is it that the password would be broken within 1 minute of trying?
 - How likely is it that the password would be broken within 1 hour of trying?
-- How likely is it that the password would be broken within 1 day of trying?
 
 (Give the probabilities as a % chance)
 
@@ -149,7 +146,7 @@ An attacker doesn't need to try every single password. They can try them in orde
 
 This style of attack is called a _dictionary attack_. Instead of trying random passwords, it guesses from a 'dictionary' of frequently used passwords.
 
-3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second. Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? 1 day? Asumme that there is a uniform distribution of frequencies for passwords between the 21st and the 9,979th.
+3. Assume an attacker is using a dictionary attack against the pin codes (scheme S1), starting with the top 20 passwords from that post. Assume that they can try 1 password / second. Given the % of users who would choose one of those as their 4 digit pin, what is the % chance that a password will be cracked within 1 minute? 1 hour? Assume that there is a uniform distribution of frequencies for passwords that aren't in the top 20.
 
 ### Dictionary attacks for other passwords
 
@@ -161,23 +158,22 @@ Let’s call weak_S3 the set of passwords that are made up entirely of known wor
 
 4. The table below shows how many common words there are of each length. Calculate the number of possible passwords in the set weak_S3.
 
-| word length | # in dictionary |
-| --- | --- |
-| 8 | 80148 |
-| 7 | 78035 |
-| 6 | 87151 |
-| 5 | 158390 |
-| 4 | 149165 |
-| 3 | 15939 |
-| 2 | 675 |
+| Word length | Number in dictionary |
+|---|---|
+| 1 | 26 |
+| 2 | 662 |
+| 3 | 4,615 |
+| 4 | 6,977 |
+| 5 | 10,541 |
+| 6 | 13,341 |
+| 7 | 14,392 |
+| 8 | 13,284 |
 
 Note the difference in size between weak_S3 and S3.
 
-This table seems a bit off, so for the purpose of Questions 5, 6 , and 7 just assume that |weak_S3| is 50,000.
+Some large fraction of people use weak passwords. Depending on what you ask, between 30% and 80% of people have bad password habits. Bad habits might mean picking an easy to remember password: an word or combination of words.
 
-Some large fraction of people use weak passwords. Depending on what you ask, between 30% and 80% of people have bad password habits. Let's assume for our purposes that bad habits mean picking an easy to remember password: an existing word or combination of words.
-
-5. Assume that 60% of users would choose a weak password (a password from weak_S3), and that an attacker can try 10^6 passwords per second. How likely is it that a given password would be broken within 1 minute? 1 hour? 1 day?
+5. Assume that 60% of users would choose a weak password (a password from the set weak_S3), and that an attacker can try 10^6 passwords per second. How likely is it that a given password would be broken within 1 minute? 1 hour? 1 day?
 
 6. weak_S3 is S3, but made only from common words. How you would you calculate the set weak_S4, which allows for capitalized characters?
 
@@ -222,7 +218,7 @@ Run the code in [hashing_demo](https://replit.com/@MehdiOulmakki/hashingdemo?v=1
 
 The algorithm in `hashing_demo` is called _md5_ and it used to be a very popular hash function.
 
-Here's the formal definition of a hash function:
+Here's the definition of a hash function:
 
 > A hash function takes input of an arbitrary size, and generates output of a fixed size.
 
@@ -238,7 +234,7 @@ Domain needs to be the set of possible passwords, range should be a fixed-length
 - **Uniform**: should generate each output with the same probability
 - **Avalanche Effect**: Small changes to the password should yield drastically different outputs
 
-### Task: Assessing hash functions
+### Assessing hash functions
 
 Let’s try to assess some hashing functions now.
 
