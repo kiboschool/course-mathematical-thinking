@@ -15,6 +15,9 @@ To warm up your thinking about Sets, follow these steps.
   - Were any of these categories empty?
   - Was anyone in all three categories?
 
+
+The following is a [video](https://www.youtube.com/watch?v=tyDKR4FG3Yw) that will help you solidify some concepts
+
 Sets will have plenty of mathematical syntax and notation, but at the heart are
 questions like these. Which elements are in the set? How many?
 
