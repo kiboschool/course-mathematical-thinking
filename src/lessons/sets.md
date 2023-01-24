@@ -16,7 +16,14 @@ To warm up your thinking about Sets, follow these steps.
   - Was anyone in all three categories?
 
 
-The following is a [video](https://www.youtube.com/watch?v=tyDKR4FG3Yw) that will help you solidify some concepts
+The following are videos that will help you solidify some concepts.
+
+[Introduction to Sets](https://www.youtube.com/watch?v=tyDKR4FG3Yw)
+
+[Subsets and Power Sets](https://www.youtube.com/watch?v=H5D6EAezsXQ)
+
+[Set Operations](https://www.youtube.com/watch?v=4TlCToZZ5gA)
+
 
 Sets will have plenty of mathematical syntax and notation, but at the heart are
 questions like these. Which elements are in the set? How many?
