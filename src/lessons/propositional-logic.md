@@ -6,6 +6,11 @@ These lessons are focused on _propositional logic_: the rules that govern logica
 
 You'll also practice evaluating chains of reasoning to verify that the reasoning is correct, or, if it's mistaken, locating which steps are invalid.
 
+The following videos might help with the topics in propositional logic:
+- [Introduction to propositional logic](https://www.youtube.com/watch?v=itrXYg41-V0)
+- [Truth Tables](https://www.youtube.com/watch?v=UiGu57JzLkE)
+- [Proofs with Truth Tables](https://www.youtube.com/watch?v=9fX6n0_MDic)
+
 ## Resources:
 - [A Concise introduction to logic part 1](https://open.umn.edu/opentextbooks/textbooks/452)
 - [Discrete mathematics - an open introduction part 3.1](http://discrete.openmathbooks.org/dmoi3/sec_propositional.html)
