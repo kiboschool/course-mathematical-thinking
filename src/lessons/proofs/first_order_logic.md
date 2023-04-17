@@ -19,8 +19,8 @@ Let's revisit one of last week's example and update it using predicates. We go b
 > If the DJ is playing Jerusalema, then Zainab is not on the dancefloor
 
 Let's rephrase this in terms of predicates
-- Let \\(P(s): "The DJ is currently playing song s"\\)
-- Let \\(Df(x): "x is on the dancefloor"\\)
+- Let \\(P(s): "The\ DJ\ is\ currently\ playing\ song\ s"\\)
+- Let \\(Df(x): "x\ is\ on\ the\ dancefloor"\\)
 
 We can rephrase our implication now as:
 > \\(P(jerusalema) \to \lnot Df(Zainab)\\)
