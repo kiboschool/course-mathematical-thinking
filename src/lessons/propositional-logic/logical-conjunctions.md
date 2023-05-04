@@ -1,12 +1,12 @@
 # Connectors part 1: And/Or:
 
 ## Key ideas:
-- Introduce the concept of truth tables
-- Introduce the truth table and notation for And
-- Introduce the truth table and notation for Or
+- Introduce the concept of truth tables.
+- Introduce the truth table and notation for And.
+- Introduce the truth table and notation for Or.
 
 ## And:
-The first connector we will discuss is ***AND***. We use it often to connect propositions - "I am tired ***AND*** I am happy" - but let's formalize our understanding of it. Firt, in propositional logic, we often use a specific symbol to indicate ***AND*** rather than writin the word over and over again. The symbol for AND is \\( \land \\). So you should be able to interpret I am tired \\( \land \\) I am happy the same way as the above sentence.
+The first connector we will discuss is ***AND***. We use it often to connect propositions - "I am tired ***AND*** I am happy" - but let's formalize our understanding of it. First, in propositional logic, we often use a specific symbol to indicate ***AND*** rather than writin the word over and over again. The symbol for AND is \\( \land \\). So you should be able to interpret I am tired \\( \land \\) I am happy the same way as the above sentence.
 
 Let \\( P\\), \\( Q\\) be two propositions. Instinctively, we have a sense for what \\( P \land  Q\\) mean, but let's formalize it! remember that our key objective is to be very specific. This might be easier to reason about with concrete examples so:
 - Let \\( P\\) be the proposition "You are reading this on your phone"
@@ -52,7 +52,7 @@ Well we know that \\( P \land  Q\\) is a proposition, so we could evaluate it fi
 
 But similarly, \\( Q \lor  R\\) is also a valid proposition we could evaluate first. How do we prioritize? 
 
-By default, note that \\(\land\\) has a higher priority than \\(\lor\\). This means that the first interpretation above is the correct and expected one. 
+By default, we note that \\(\land\\) has a higher priority than \\(\lor\\). This means that the first interpretation above is the correct and expected one. 
 This is similar to basic algebra: If you see the expression *2 x 3 + 1* you should evaluate it as 7, not 8, as multipication has a higer priority. If you wanted to make sure the addition happened first, you could use parenthesis to indicate it. so *2 x (3 + 1)* is equal to 8
 
 You can similarly use parenthesis in propositional logic. So we have that:
