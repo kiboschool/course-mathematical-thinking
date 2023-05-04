@@ -18,18 +18,22 @@ For the purposes of this course, a ***proposition*** is simply a sentence. Howev
 
 Let's look at some pairs of sentences and see if they are propositions or not:
 
-> Tobi is kind of tall
-> Tobi is 1.6 meters tall
+> Tobi is kind of tall.
+
+> Tobi is 1.6 meters tall.
 
 The first sentence is subjective! some may find Tobi tall, some may not. What's considered tall in a given area may not be in another. The second sentence however is verifiable: We can measure Tobi and say if the sentence is True or False. 
 
 > This song is bad!
+
 > This song is in English
 
 The second sentence is straightforward to verify: We can look at the lyrics and tell if the song is in English or not. The first sentence is not only ambiguous - you might like the song, and I might not - but the word "bad" is sometimes used to actually indicate the complete opposite in slang! The word itself is now ambiguous. 
 
 Someimes, we will have to grapple with challenging sentences that are *impossible* to evaluate for other reasons. Let's look at these last two examples:
+
 > This sentence is True. 
+
 > This sentence is False.
 
 Can the first sentence be True? well yes, it says so! Some propositions may have a unique value, *either* True or False, based on how they are crafted. They remain propositions nevertheless. 
@@ -49,9 +53,7 @@ We will often assign a propositon to a variable \\(P\\) instead of rewriting the
 If we deal with multiple propositions, we carry on in alphabetical order, so our second proposition is \\(Q\\), then \\(R\\), etc.
 
 ### Programming 1 connection:
-As you start progressing in programming 1, you will encounter boolean variables - variables that can either be True or False. You can effectively apply everything we learn about propositions in this course to boolean variables in programming!
-
-*As an aside, we will include sections like this whenever a topic we cover is strongly related to something you are learning in programming 1!*
+In programming 1 you encountered boolean variables - variables that can either be True or False. You can effectively apply everything we learn about propositions in this course to boolean variables in programming!
 
 ## Atomic sentences
 
