@@ -16,7 +16,7 @@ This is stricter than the simple implication. In fact, another way to reason abo
 
 Let's consider the following truth table:
 
-| \\( P\\) | \\( Q\\) | \\( P \to  Q\\)| \\( Q \to  P\\) | \\(( P \to  Q) \land ( Q \to  P\\) |
+| \\( P\\) | \\( Q\\) | \\( P \to  Q\\)| \\( Q \to  P\\) | \\(( P \to  Q) \land ( Q \to  P)\\) |
 | ------------ | -------------| -----------------------------------|--------|-------|
 | True | True | True | True | True | 
 | True | False | False | True | False | 
