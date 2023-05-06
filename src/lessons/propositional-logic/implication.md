@@ -55,7 +55,7 @@ So we can update our truth table
 | False | True | True | 
 | False | False |  | 
 
-Similarly, we can conclude that the final scenario should also evaluate to True. Consider the scenario where *x* is 5. \\( R) and \\( S) are both False, but does that change anything to the truth of our initial statement \\( R \implies  S) ? It does not! So to conclude our truth table for implications is
+Similarly, we can conclude that the final scenario should also evaluate to True. Consider the scenario where *x* is 5. \\( R\\) and \\( S\\) are both False, but does that change anything to the truth of our initial statement \\( R \implies  S\\) ? It does not! So to conclude our truth table for implications is
 
 | \\( P\\) | \\( Q\\) | \\( P \to  Q\\)|
 | ------------ | -------------| -----------------------------------|
@@ -71,8 +71,11 @@ We will look at some more strict connectors than implication in the next few sec
 ## Converse, Inverse, Contrapositive
 
 Given an implication \\( P \to  Q\\), we can derive 3 related propositions:
+
 1- The **converse** of our implication is \\( Q \to  P\\) - Our initial hypothesis and conclusion swap.
+
 2- The **inverse** of our implication is \\(\lnot  P \to \lnot  Q\\) - if they hypothesis is not true then the conclusion is not true.
+
 3- The **contrapositive** of our implication is \\(\lnot  Q \to \lnot  P\\) - if the conclusion is not true, then the hypothesis is not true.
 
 Let's find the converse, inverse, and contrapositive of our first implication: "If the DJ is playing Jerusalema, then Zainab is not on the dancefloor
