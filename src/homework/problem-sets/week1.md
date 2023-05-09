@@ -1,15 +1,12 @@
-# Problem Set 1
+# Practice Set 1
 
 ## Submission
 
-This problem set is due Sunday October 16th at 10pm
+This practice set is not due 
 
-- You may collaborate with up your peers. If you do, be sure to mention who you 
-  collaborated with explicitly in your submission. For example, write "I worked
-  with Ope and Mehdi on this problem set" at the top.
-- Show your work. Direct answers will not be accepted.
+- You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
 
-Submit your response in Gradescope, either using the app or the website.
+There is no requirement to submit the material, but this will help you solidify the concepts.
 
 ## Problems
 
@@ -65,7 +62,7 @@ Submit your response in Gradescope, either using the app or the website.
 
     e. Premises:  \\((P \iff Q), (R \iff S)\\). Conclusion:  \\(((P \wedge R) \iff (Q \wedge S))\\).
 
-    f. Premises:  \\(((P \vee Q) \iff R), \neg P \iff Q)\\). Conclusion:  \\(R\\).
+    f. Premises:  \\(((P \vee Q) \iff R), (\neg P \iff Q)\\). Conclusion:  \\(R\\).
 
     g. Conclusion:  \\(((P \iff Q) \iff (\neg P \iff \neg Q))\\)
 
