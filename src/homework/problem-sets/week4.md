@@ -1,10 +1,12 @@
-## Submission and Due dates:
+# Practice Set 4
 
-This problem set is due Sunday November 6th at 10pm
+## Submission:
 
-- You may collaborate with your peers, make sure to include it explicitly in your submission.
-- Show your work. Direct answers will not be accepted.
-- Submit your work through gradescope
+This practice set is not due 
+
+- You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
+
+There is no requirement to submit the material, but this will help you solidify the concepts.
 
 ## Instructions:
 1. The door to a building has a lock which has 5 buttons numbered from 1 to 5. The combinations of numbers that opens the lock is a sequence of 5 numbers and is reset every week.

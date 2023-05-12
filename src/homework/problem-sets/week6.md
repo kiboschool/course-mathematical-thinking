@@ -1,13 +1,12 @@
-# Problem Set Week 7
+# Practice Set 6
 
 ## Submission
 
-This problem set is due Sunday November 27th at 10pm
+This practice set is not due 
 
-- You may collaborate with up your peers. If you do, be sure to mention who you 
-  collaborated with explicitly in your submission. For example, write "I worked
-  with Ope and Mehdi on this problem set" at the top.
-- Show your work. Direct answers will not be accepted.
+- You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
+
+There is no requirement to submit the material, but this will help you solidify the concepts.
 
 Submit your response in Gradescope, either using the app or the website.
 

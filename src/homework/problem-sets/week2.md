@@ -1,19 +1,16 @@
-## Problem Set 2
+## Practice Set 2
 
 ## Submission
 
-This problem set is due Sunday October 23rd at 10pm
+This practice set is not due
 
-- You may collaborate with up your peers. If you do, be sure to mention who you 
-  collaborated with explicitly in your submission. For example, write "I worked
-  with Ope and Mehdi on this problem set" at the top.
-- Show your work. Direct answers will not be accepted.
+- You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
 
-Submit your response in Gradescope, either using the app or the website.
+There is no requirement to submit the material, but this will help you solidify the concepts.
 
 ## Instructions:
 
-1. Let A = \\( \\{ x \in \mathbb N : 3 \le x \le 13\\}\\), B = \\( \\{ x \in \mathbb N: x\\) is even\\(\\}\\), and C = \\(\\{ x \in \mathbb N: x\\) is Odd\\(\\}\\)
+1. Let A = \\( \\{ x \in \mathbb N : 3 \le x \le 13\\}\\), B = \\( \\{ x \in \mathbb N: x\\text{ is even } \\}\\), and C = \\(\\{ x \in \mathbb N: x\\{ is Odd.} \\}\\)
 
    a. find A \\(\cap\\) B.
 
