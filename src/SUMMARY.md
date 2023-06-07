@@ -9,6 +9,16 @@
 
 ## Lessons
 
+- [Elementary Functions](lessons/elementary-functions.md)
+  - [Number Sets](lessons/elementary-functions/number-sets.md)
+  - [Constant Functions](lessons/elementary-functions/constant-functions.md)
+  - [Linear Functions](lessons/elementary-functions/linear-functions.md)
+  - [Affine Functions](lessons/elementary-functions/affine-functions.md)
+  - [Polynomial Functions](lessons/elementary-functions/polynomials.md)
+  - [Polynomial Roots](lessons/elementary-functions/polynomial-roots.md)
+  - [Exponential Functions](lessons/elementary-functions/exponentials.md)
+  - [Logarithmic Functions](lessons/elementary-functions/logarithms.md)
+
 - [Propositional Logic](lessons/propositional-logic.md)
   - [Propositions and statements](lessons/propositional-logic/propositions.md)
   - [Logical conjunctions](lessons/propositional-logic/logical-conjunctions.md)

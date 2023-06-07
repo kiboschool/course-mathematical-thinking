@@ -48,7 +48,7 @@ We can express the key idea behind a set using set builder notation, a shorthand
 
 In other words, \\(E\\) is the set of all elements of \\(\mathbb N\\) that are even. so if we consider a variable \\(x \in E \to (x \in \mathbb N \land x\\) is even \\()\\)
 
-We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\\) is even \\(\\}\\). Here, the **:** is a shorthand for "such that". Following the **:** you can define propositions that **must** be true for all elements of the set. 
+We can further condense this idea by saying: \\(E = \\{x \in \mathbb N : x\text{ is even }\\}\\). Here, the **:** is a shorthand for "such that". Following the **:** you can define propositions that **must** be true for all elements of the set. 
 
 There may be a few different ways to express a given definition of a set, but this is a helpful notation we should practice. Try to interpret the following four sets in plain english:
 
