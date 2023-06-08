@@ -149,3 +149,9 @@ The above product is read fully as "the indexed product by i from \(i\) equal to
 
 ### Examples
 
+- Let \(f\) be any function \(\prod_{n=5}^{10}f(n)=f(5)f(6)f(7)f(8)f(9)f(10)\)
+
+- \(\prod_{i=1}^5 i = 120\)
+
+- \(\prod_{n=1}^{4}2^i = 1024\)
+
