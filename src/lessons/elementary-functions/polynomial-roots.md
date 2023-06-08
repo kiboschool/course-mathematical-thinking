@@ -4,17 +4,17 @@ Polynomials are essential mathematical expressions that appear in various areas 
 
 ## Polynomial Roots
 The roots of a polynomial are the values of the variable that make the polynomial equal to zero. In other words, if we substitute a root into the polynomial, the resulting value will be zero. These roots are also known as zeros, solutions, or x-intercepts of the polynomial.
-For example, consider the polynomial \(f(x) = x^2 - 4x + 3\). To find its roots, we set \(f(x)\) equal to zero:
-\(x^2 - 4x + 3 = 0\) and solve for \(x\).
+For example, consider the polynomial \\(f(x) = x^2 - 4x + 3\\). To find its roots, we set \\(f(x)\\) equal to zero:
+\\(x^2 - 4x + 3 = 0\\) and solve for \\(x\\).
 
-By factoring or using the quadratic formula, we can find the roots of this polynomial: \(x = 1\) and \(x = 3\). These values make the polynomial equal to zero, so they are the roots of the equation.
+By factoring or using the quadratic formula, we can find the roots of this polynomial: \\(x = 1\\) and \\(x = 3\\). These values make the polynomial equal to zero, so they are the roots of the equation.
 
 ## Polynomial Factorization
 Factorization involves breaking down a polynomial into a product of simpler polynomials. This process allows us to express a polynomial in a more manageable form and can help reveal its roots.
-For example, let's consider the polynomial \(f(x) = x^2 - 4x + 3\) again. We can factor this polynomial as:
-\(f(x) = (x - 1)(x - 3)\).
+For example, let's consider the polynomial \\(f(x) = x^2 - 4x + 3\\) again. We can factor this polynomial as:
+\\(f(x) = (x - 1)(x - 3)\\).
 
-Here, we have expressed the polynomial as a product of two simpler polynomials, \((x - 1)\) and \((x - 3)\). These factors represent the linear terms associated with the roots of the original polynomial.
+Here, we have expressed the polynomial as a product of two simpler polynomials, \\((x - 1)\\) and \\((x - 3)\\). These factors represent the linear terms associated with the roots of the original polynomial.
 
 Factoring can be more complex for higher-degree polynomials. In such cases, techniques like synthetic division, long division, or factoring by grouping may be employed. Now a days you may also use a computer algebra system to obtain the factorization of polynomials.
 

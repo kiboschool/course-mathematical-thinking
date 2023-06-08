@@ -16,7 +16,7 @@ In the real numbers, linear functions on one variable are always going to have t
 
 - \\(f(x) = k x\\) for some real number \\(k\\).
 
-In particular the function only depends on the value of \\(f(1)\\). As indeed, if \\(x\\) is a real number then \\(f(x)= x\\f(1)\\). 
+In particular the function only depends on the value of \\(f(1)\\). As indeed, if \\(x\\) is a real number then \\(f(x)= x f(1)\\). 
 
 ## Graphs of linear functions
 
