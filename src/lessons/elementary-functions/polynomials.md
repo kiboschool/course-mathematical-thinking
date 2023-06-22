@@ -13,6 +13,13 @@ Sometimes we are interested in modeling or describing several events that do not
 
 In this section we will be able to identify polynomials, the jargon around them and a few of their properties.
 
+## Examples 
+The dish in a dish antenna follows the shape of the graph of a polynomial of second degree in two variables such as 
+
+\\(4x^2 + 4y^2\\)
+
+
+
 ## Monomials
 
 A monomial is a term composed of the product between one or more variables and a real number. For example, if \\(x, y,\\) and \\(z\\) are variables, then the following are monomials

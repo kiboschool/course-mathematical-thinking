@@ -6,6 +6,12 @@
 
 Linear functions are used in several areas of knowledge, such as mathematics engineering and even the social sciences. Some concrete applications in computer science involve optimization, image processing, graph algorithms, quantum computing, criptography, and machine learning just to name a few.
 
+## A simple example
+
+You can easily calculate the expected pay of an hourly job as a function of the hours that were worked using a linear function. For example if you are paid \\(\$ 35\\) then your expected pay function would be 
+
+\\(EP(h) = 35 \cdot h\\) where \\(h\\) is the number of hours worked.
+
 ## Linearity
 A function \\(f\\) is said to be linear if it satisfies the following two conditions
 
