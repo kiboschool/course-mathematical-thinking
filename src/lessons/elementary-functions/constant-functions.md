@@ -4,6 +4,10 @@
 - Define constant functions
 - Establish graphical properties of constant functions
 
+## A Simple example
+
+Usually in programing we define some constants and give them a name. We can think of these as constant functions.
+
 ## Constant functions in one variable
 
 As its name suggests, a constant function is a function whose output is constant independent of the input. When we graph a constant function in one variable on the cartesian plane we obtain a horizontal line.

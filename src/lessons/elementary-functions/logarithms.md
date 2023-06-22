@@ -6,6 +6,12 @@ Logarithmic functions, or logarithms for short, are essential mathematical tools
 ## What is a Logarithmic Function?
 A logarithmic function is the inverse of an exponential function. It represents the relationship between a given base and its exponent. The general form of a logarithmic function is written as \\(f(x) = log(base, x)\\), where 'base' is a positive number greater than 1, and 'x' is the input value.
 
+## Application
+
+Let us assume that you are investing some capital on an account that provides a \\(5\%\\) interest rate compounded annually If you wanted to find out when would your money achieve a certain percentage growth you would use a logarithmic function 
+
+\\(Y(p) = \log(1+5\%,p)\\) where \\(p\\) is the percentage growth that you are looking for (e.g %200 when wanting to figure out when your money would double).
+
 ## Properties of Logarithmic Functions:
 
 ### Domain and Range

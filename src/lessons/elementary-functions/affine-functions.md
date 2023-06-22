@@ -4,6 +4,12 @@ Affine functions play a crucial role in mathematics and have many practical appl
 
 An affine function, also known as an affine transformation or an affine map, is a type of mathematical function that preserves lines and ratios of distances. In simpler terms, an affine function combines two essential components: a linear function and a translation.
 
+## A simple example
+
+Modeling the cost of production of a certain number of units for your business is a function that depends on an initial cost and then an increased cost per additional unit. As such it can be modeled with the affine function
+
+\\(C(u)= I + c u\\) where \\(I\\) is the initial cost of production, \\(c\\) is the cost per individual unit produced, and \\(u\\) is the number of units produced.
+
 ## Definition 
 
 An affine function can be defined in the form:

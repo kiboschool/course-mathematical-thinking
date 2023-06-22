@@ -3,6 +3,17 @@
 ## Introduction
 Exponential functions play a fundamental role in mathematics and are widely used in various fields, including science, finance, and computer science. We will explore the basics of exponential functions, their properties, and how to work with them.
 
+## A simple example
+When you have a binary tree structure, the number of leafs of the tree can be calculated with the function
+
+\\(L(l)=2^l\\) where \\(l\\) is the number of levels of the tree.
+
+## Another example
+
+If you are interested in learning what is the rate of growth of money deposited (loaned) with an interest rate of \\(r\\) compounded annually then you can figure that out using the exponential function
+
+\\(R(y)= (1+r)^y\\) where \\(y\\) is the number of years the money would be in the deposit.
+
 ## What is an Exponential Function?
 An exponential function is a mathematical function of the form \\(f(x) = a^x\\), where \\(a\\) is a positive constant and \\(x\\) is a variable. The **base** \\(a\\) is typically greater than 1, but it can also be a number between 0 and 1, excluding 0. The variable \\(x\\) can be any real number or even a complex number. Even though many of the facts that we will expose also hold for exponentials with complex number values we will mainly focus on the variable taking real inputs.
 
