@@ -8,9 +8,9 @@ A logarithmic function is the inverse of an exponential function. It represents 
 
 ## Application
 
-Let us assume that you are investing some capital on an account that provides a \\(5\%\\) interest rate compounded annually If you wanted to find out when would your money achieve a certain percentage growth you would use a logarithmic function 
+Let us assume that you are investing some capital on an account that provides a \\(5\\%\\) interest rate compounded annually If you wanted to find out when would your money achieve a certain percentage growth you would use a logarithmic function 
 
-\\(Y(p) = \log(1+5\%,p)\\) where \\(p\\) is the percentage growth that you are looking for (e.g %200 when wanting to figure out when your money would double).
+\\(Y(p) = \log(1+5\\% ,p)\\) where \\(p\\) is the percentage growth that you are looking for (e.g %200 when wanting to figure out when your money would double).
 
 ## Properties of Logarithmic Functions:
 
