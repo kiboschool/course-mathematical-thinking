@@ -87,6 +87,10 @@ Which makes our initial sentence take the form of if \\(P\\), then  \\(Q\\)
 
 So our intiial sentence is *not* atomic. At the end of the day, this is good! this means we can combine simple, atomic propositions to express much larger and complex ideas. In the next sections we will cover the connectors we have to make complex propositions.
 
+## Section Video
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/NCKvuyZVJQQ" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ### References:
 For further details, you can read through the following chapters:
 - [A Concise introduction to logic part 1.1](https://open.umn.edu/opentextbooks/textbooks/452)

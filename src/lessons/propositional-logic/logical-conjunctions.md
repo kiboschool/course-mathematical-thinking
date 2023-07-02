@@ -88,6 +88,11 @@ What you should see is that the fourth and fifth columns are different, so the t
 
 We will continue looking at connectors in the next section.
 
+## Video on Conjunction Disjunction and Negation
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/LO4lFX4Ur2Q" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ## References:
 
 For further details, you can read through the following chapters:

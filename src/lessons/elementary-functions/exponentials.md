@@ -57,3 +57,7 @@ Exponential functions have numerous applications in various fields. Some common 
 - Biological processes
 - Epidemic modeling
 - Electronics and signal processing
+
+## Video on Exponentials
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/BBsvxAjWHfw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

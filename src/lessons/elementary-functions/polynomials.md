@@ -129,6 +129,10 @@ For polynomials in one variable there are some **tendencies** that you can obtai
 
 - If the degree of the polynomial is odd and the leading coefficient is negative then the graph is going to start at the negatives, cross the x-axis and continue to decrease in the negatives.
 
+## Video on Polynomials
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/D9qPrsK1lQ8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Summation Notation 
 
 When convenient we will use the Sigma-summation notation to abbreviate sums. In general if you have a list of elements 
@@ -146,6 +150,11 @@ Consider the sum of the first ten natural numbers.
 Or a polynomial where the coefficients correspond to odd numbers.
 - \\(\sum_{i=0}^{3}(2i+1)x^i = 1+3x+5x^2+7x^3\\)
 
+## Video on Summation
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/IIkJm8xhzZc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ## Product Notation
 
 When convenient we will use the Pi-product notation to abbreviate products. In general if you have a list of elements 
@@ -161,4 +170,9 @@ The above product is read fully as "the indexed product by i from \\(i\\) equal 
 - \\(\prod_{i=1}^5 i = 120\\)
 
 - \\(\prod_{n=1}^{4}2^i = 1024\\)
+
+## Video on Products
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/lVTVLzcydhI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 

@@ -29,3 +29,7 @@ In particular the function only depends on the value of \\(f(1)\\). As indeed, i
 The graph of every linear functions in one variable look like a line that goes through the origin. It is easy to graph this functions as you only need one value that is non-zero, and then just join the origin to the point corresponding to the (input,output) that you obtained.
 
 When dealing with linear functions of two variables, their graphical representation will correspond to that of planes in the three dimensional space that cut through the origin.
+
+## Section Video
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/kBhQB1CcR7w" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

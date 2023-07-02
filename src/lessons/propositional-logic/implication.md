@@ -104,6 +104,11 @@ What do you notice? Which of these forms are equivalent to each other? Your tabl
 \\(\to\\) has the lowest priority, so \\(\land\\) and \\(\lor\\) will always be evaluated before it, unless parenthesis change that.
 \\(\lnot\\) has the highest priority, so it will be evaluated before anything else. 
 
+
+## VIdeo on implication and biconditional
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/9AOt6w4cKZI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## References:
 
 For further details, you can read through the following chapters:

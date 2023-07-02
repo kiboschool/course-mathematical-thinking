@@ -32,3 +32,7 @@ Key characteristics of affine functions include:
 Affine functions find applications in various fields, including computer graphics, image processing, optimization, economics, and physics. They provide a flexible and efficient framework for modeling and solving real-world problems.
 
 In summary, an affine function is a mathematical function that combines a linear component and a translation component. It preserves lines and ratios of distances, making it a powerful tool for a wide range of applications. Understanding affine functions is fundamental in mathematics and opens the door to exploring more advanced concepts in geometry, algebra, and beyond.
+
+## Section Video
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/kfPCDQPnyf4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

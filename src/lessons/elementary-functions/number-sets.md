@@ -29,3 +29,7 @@ Rational numbers (\\(\mathbb{Q}\\)) are numbers that can be expressed as fractio
 Real numbers (\\(\mathbb{R}\\)) include both rational and irrational numbers.
 
 Understanding these number systems is fundamental in mathematics and various other fields. They allow us to perform calculations, solve equations, measure quantities, and explore the vastness of mathematical concepts.
+
+## Section Video
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/xnOyr-avXAw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
