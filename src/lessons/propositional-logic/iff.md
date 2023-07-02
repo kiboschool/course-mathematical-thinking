@@ -49,6 +49,11 @@ We have covered all our connectors now! so our final priority order is:
 3- \\(\lor\\)
 4- \\(\to  ,  \iff\\)
 
+## Video on Equivalent Propositions
+
+<div style="position: relative; padding-bottom: 59.73451327433629%; height: 0;"><iframe src="https://youtube.com/embed/glYNeV14xqg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ## References:
 For further details, you can read through the following chapters:
 - [A Concise introduction to logic part 1.9](https://open.umn.edu/opentextbooks/textbooks/452)
