@@ -15,7 +15,7 @@
   - [Negation](lessons/propositional-logic/negation.md)
   - [Implication](lessons/propositional-logic/implication.md)
   - [If and only if](lessons/propositional-logic/iff.md)
-  - [Problem Set 1](homework/problem-sets/week1.md)
+  - [Problem Set Week 1](homework/problem-sets/week1.md)
 
 - [Sets](lessons/sets.md)
   - [Guiding Question](homework/the-question/week2.md)
@@ -23,7 +23,7 @@
   - [Set Operations](lessons/sets/set_operations.md)
   - [Subsets](lessons/sets/subsets.md)
   - [Visualizing sets](lessons/sets/visualizing_sets.md)
-  - [Problem Set 2](homework/problem-sets/week2.md)
+  - [Problem Set Week 2](homework/problem-sets/week2.md)
 
 - [Proofs](lessons/proofs.md)
   - [Guiding Question](homework/the-question/week3.md)
@@ -31,7 +31,7 @@
   - [First Order Logic](lessons/proofs/first_order_logic.md)
   - [Proofs by contrapositive](lessons/proofs/indirect_proofs_contrapositive.md)
   - [Proofs by contradiction](lessons/proofs/indirect_proofs_contradiction.md)
-  - [Problem Set 3](homework/problem-sets/week3.md)
+  - [Problem Set Week 3](homework/problem-sets/week3.md)
 
 
 - [Counting](lessons/counting.md)
@@ -40,7 +40,7 @@
   - [Permutations with Repetition](lessons/counting/permutations_repetition.md)
   - [Combinations](lessons/counting/combinations.md)
   - [Combinations with Repetition](lessons/counting/combinations_repetition.md)
-  - [Problem Set 4](homework/problem-sets/week4.md)
+  - [Problem Set Week 4](homework/problem-sets/week4.md)
 
 - [Probability](lessons/probability.md)
   - [Guiding Question](homework/the-question/week5.md)
@@ -48,7 +48,7 @@
   - [Combining Events](lessons/probability/complex_events.md)
   - [Conditional Probability](lessons/probability/conditional_probability.md)
   - [Case study: The Monty Hall Problem](lessons/probability/case_study.md)
-  - [Problem Set 5](homework/problem-sets/week5.md)
+  - [Problem Set Week 5](homework/problem-sets/week5.md)
 
 - [Review](live-classes.md)
 
@@ -58,7 +58,7 @@
   - [Functions](lessons/functions/functions.md)
   - [Properties of functions](lessons/functions/properties.md)
   - [Composition of functions](lessons/functions/composition.md)
-  - [Problem Set 6](homework/problem-sets/week6.md)
+  - [Problem Set Week 6](homework/problem-sets/week6.md)
 
 - [Number Theory](lessons/number-theory.md)
   - [Guiding Question](homework/the-question/week8.md)

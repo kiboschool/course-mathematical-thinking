@@ -1,0 +1,252 @@
+name: Mathematical Thinking
+code: CSF004
+term: Oct-2023
+units:
+  - name: Propositional Logic
+    activities:
+      - name: Introduction
+        path: src/lessons/propositional-logic.md
+      - name: Propositions and statements
+        path: src/lessons/propositional-logic/propositions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Logical conjunctions
+        path: src/lessons/propositional-logic/logical-conjunctions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Negation
+        path: src/lessons/propositional-logic/negation.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Implication
+        path: src/lessons/propositional-logic/implication.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: If and only if
+        path: src/lessons/propositional-logic/iff.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 1
+        path: src/homework/problem-sets/week1.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Sets
+    activities:
+      - name: Introduction
+        path: src/lessons/sets.md
+      - name: Guiding Question
+        path: src/homework/the-question/week2.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Key Set Definitions
+        path: src/lessons/sets/set_definitions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Set Operations
+        path: src/lessons/sets/set_operations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Subsets
+        path: src/lessons/sets/subsets.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Visualizing sets
+        path: src/lessons/sets/visualizing_sets.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 2
+        path: src/homework/problem-sets/week2.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Proofs
+    activities:
+      - name: Introduction
+        path: src/lessons/proofs.md
+      - name: Guiding Question
+        path: src/homework/the-question/week3.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Direct Proofs
+        path: src/lessons/proofs/direct_proofs.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: First Order Logic
+        path: src/lessons/proofs/first_order_logic.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Proofs by contrapositive
+        path: src/lessons/proofs/indirect_proofs_contrapositive.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Proofs by contradiction
+        path: src/lessons/proofs/indirect_proofs_contradiction.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 3
+        path: src/homework/problem-sets/week3.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Counting
+    activities:
+      - name: Introduction
+        path: src/lessons/counting.md
+      - name: Guiding Question
+        path: src/homework/the-question/week4.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Permutations
+        path: src/lessons/counting/permutations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Permutations with Repetition
+        path: src/lessons/counting/permutations_repetition.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Combinations
+        path: src/lessons/counting/combinations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Combinations with Repetition
+        path: src/lessons/counting/combinations_repetition.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 4
+        path: src/homework/problem-sets/week4.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Probability
+    activities:
+      - name: Introduction
+        path: src/lessons/probability.md
+      - name: Guiding Question
+        path: src/homework/the-question/week5.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Intro to Probability
+        path: src/lessons/probability/probability_intro.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Combining Events
+        path: src/lessons/probability/complex_events.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Conditional Probability
+        path: src/lessons/probability/conditional_probability.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: 'Case study: The Monty Hall Problem'
+        path: src/lessons/probability/case_study.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 5
+        path: src/homework/problem-sets/week5.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Review
+    activities:
+      - name: Introduction
+        path: src/live-classes.md
+  - name: Functions and Relations
+    activities:
+      - name: Introduction
+        path: src/lessons/functions-and-relations.md
+      - name: Guiding Question
+        path: src/homework/the-question/week6.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Relations
+        path: src/lessons/functions/relations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Functions
+        path: src/lessons/functions/functions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Properties of functions
+        path: src/lessons/functions/properties.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Composition of functions
+        path: src/lessons/functions/composition.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Problem Set Week 6
+        path: src/homework/problem-sets/week6.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Number Theory
+    activities:
+      - name: Introduction
+        path: src/lessons/number-theory.md
+      - name: Guiding Question
+        path: src/homework/the-question/week8.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Introduction
+        path: src/lessons/number-theory/1-intro.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Counting Systems
+        path: src/lessons/number-theory/2-counting-systems.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Denominators
+        path: src/lessons/number-theory/3-common-denominators.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Congruence
+        path: src/lessons/number-theory/4-congruence.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Solving problems
+        path: src/lessons/number-theory/5-solving-congruences.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Final Problem Set
+        path: src/homework/problem-sets/final_problem_set.md
+        workload: 60
+        type: lesson
+        kind: general
+
