@@ -21,15 +21,14 @@ You'll review number systems, and their relevance to digital computers. You'll d
 
 ## Meeting Times
 
-* Class 1: Mondays from 3:00pm - 4:30pm GMT
-* Class 2: Thursdays from 6:30pm - 8pm GMT
-* Office Hours: Tuesdays 7:00pm - 8pm GMT & Fridays 7:00pm - 8pm GMT or by request.
+* Class 1: Thursdays 3:00pm - 4:30pm GMT
+* Office Hours: Thursdays 5:00pm - 6:00pm GMT & 6:00pm - 7:00pm GMT or by request.
 
 The following week’s lessons will be released every Sunday.
 
 ## Instructor
 
-Santiago Camacho 
+Dr. Santiago Camacho 
 
 [santiago.camacho@kibo.school](mailto:santiago.camacho@kibo.school)
 
@@ -45,14 +44,14 @@ By the end of the course, you will be able to:
 
 ## Weekly Topics
 
-1. Propositional Logic
-2. Introduction to Sets
-3. Introduction to Proofs
-4. Counting
-5. Probability
-6. Review
-7. Relations and Functions
-8. Relations and Functions Part 2
+1. Elementary Functions
+2. Propositional Logic
+3. Introduction to Sets
+4. Introduction to Proofs
+5. Counting
+6. Probability
+7. Review
+8. Relations and Functions
 9. Number Theory
 10. Number Theory part 2
 
@@ -60,12 +59,12 @@ By the end of the course, you will be able to:
 
 Your overall course grade is composed of these weighted factors:
 
-* Class participation: 20%
-* Weekly assignments: 50%
+* Class Participation: 10%
+* Weekly assignments: 60%
 * Projects: 30%
 
 **Class participation** is composed of your attendance in class, and your
-submission of the weekly Guiding Question.
+in-class work on weekly problem sets.
 
 **Weekly Assignments** are problem sets, where you'll practice the concepts
 covered in the readings and lessons.
