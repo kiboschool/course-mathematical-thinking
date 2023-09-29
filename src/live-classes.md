@@ -3,18 +3,19 @@
 Each live class will have notes here that you should read before attending class.
 Video recordings of the class will also be posted after the classes each week.
 
-| Week | Topic                   | Reading                 | Section 1 Video      | Section 2 Video     |Class Problems with solutions      |Problem Set Solutions |
-|------|-------------------------|-------------------------|----------------------|---------------------|-----------------------------------|----------------------|
-| 1    | Propositional Logic     | [Notes][w1-notes]       | [YouTube][w1-video1] |[YouTube][w1-video2] |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
-| 2    | Sets                    | [Notes][w2-notes]       | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
-| 3    | Proofs                  | [Notes][w3-notes]       | [YouTube][w3-video1] |[YouTube][w3-video2] |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
-| 4    | Counting                | [Notes][w4-notes]       | [YouTube][w4-video1] |[YouTube][w4-video2] |[Class Problems][w4-classproblems] |[Solutions][w4-psSols]|
-| 5    | Probability             | [Notes][w5-notes]       | [YouTube][w5-video1] |[YouTube][w5-video2] |[Class Problems][w5-classproblems] |[Solutions][w5-psSols]|
-| 6    | Review                  | No Notes                | [YouTube][w6-video1] |[YouTube][w6-video2] |No Class Problems                  |No Problem Set        |
-| 7    | Functions and Relations | [Notes][w7-notes]       | [YouTube][w7-video1] |[YouTube][w7-video2] |No Class Problems                  |[Solutions][w7-psSols]|
-| 8    | Number Theory           | [Notes][w8-notes]       | [YouTube][w8-video1] |[YouTube][w8-video2] |No Class Problems                  |No Problem Set        |
-| 9    | Number Theory Part 2    | [Notes][w9-notes]       | [YouTube][w9-video1] |[YouTube][w9-video2] |[Class Problems][w9-classproblems] |[Solutions][w9-psSols]|
-| 10   | Review                  | No Notes                | [YouTube][w10-video1]|[YouTube][w10-video2]|No Class Problems                  |No Problem Set        |
+| Week | Topic                   | Reading           | Section 1 Video      | Additional Problems |Class Problems with solutions      |Additional Problem Solutions |
+|------|-------------------------|-------------------|----------------------|---------------------|-----------------------------------|----------------------|
+| 1    | Elementary Functions    | [Notes][w0-notes] | [YouTube][w1-video1] |[YouTube][w1-video2] |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
+| 1    | Propositional Logic     | [Notes][w1-notes] | [YouTube][w1-video1] |[YouTube][w1-video2] |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
+| 2    | Sets                    | [Notes][w2-notes] | [YouTube][w2-video1] |[YouTube][w2-video2] |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
+| 3    | Proofs                  | [Notes][w3-notes] | [YouTube][w3-video1] |[YouTube][w3-video2] |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
+| 4    | Counting                | [Notes][w4-notes] | [YouTube][w4-video1] |[YouTube][w4-video2] |[Class Problems][w4-classproblems] |[Solutions][w4-psSols]|
+| 5    | Probability             | [Notes][w5-notes] | [YouTube][w5-video1] |[YouTube][w5-video2] |[Class Problems][w5-classproblems] |[Solutions][w5-psSols]|
+| 6    | Review                  | No Notes          | [YouTube][w6-video1] |[YouTube][w6-video2] |No Class Problems                  |No Problem Set        |
+| 7    | Functions and Relations | [Notes][w7-notes] | [YouTube][w7-video1] |[YouTube][w7-video2] |No Class Problems                  |[Solutions][w7-psSols]|
+| 8    | Number Theory           | [Notes][w8-notes] | [YouTube][w8-video1] |[YouTube][w8-video2] |No Class Problems                  |No Problem Set        |
+| 9    | Number Theory Part 2    | [Notes][w9-notes] | [YouTube][w9-video1] |[YouTube][w9-video2] |[Class Problems][w9-classproblems] |[Solutions][w9-psSols]|
+| 10   | Review                  | No Notes          | [YouTube][w10-video1]|[YouTube][w10-video2]|No Class Problems                  |No Problem Set        |
 
 
 
