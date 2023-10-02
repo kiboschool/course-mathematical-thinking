@@ -1,8 +1,6 @@
-# Problem Set 1
+# Problem Set Week 1
 
 ## Submission
-
-This problem set is due Sunday October 16th at 10pm
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked

@@ -1,8 +1,6 @@
-# Problem Set 7
+# Problem Set Week 7
 
 ## Submission
-
-This problem set is due Sunday November 27th at 10pm
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
@@ -32,5 +30,6 @@ Submit your response in Gradescope, either using the app or the website.
     3. 1111111
     4. 1001010
 
-## References:
-Problems 1-3 were drawn from [chapter 6 of Precalculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)
+## References
+
+Problems 1-3 were drawn from [chapter 6 of Pre-calculus, 3rd corrected edition by S&Z](https://www.stitz-zeager.com/szprecalculus07042013.pdf)

@@ -1,8 +1,6 @@
-# Problem Set 5
+# Problem Set Week 5
 
 ## Submission
-
-This problem set is due Sunday November 13th at 10pm
 
 - You may collaborate with your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
@@ -12,7 +10,6 @@ This problem set is due Sunday November 13th at 10pm
 Submit your response in Gradescope, either using the app or the website.
 
 ## Problems
-
 
 1. We flip a coin three times. The set of all possible outcomes is:
 \\(\omega = \{HHH, HHT, HTH, HTT, TTT, TTH, THH, THT\}\\)
@@ -49,6 +46,6 @@ Submit your response in Gradescope, either using the app or the website.
     possible arrangement, calculates the probability of drawing a white ball 
     for each arrangement, and finds the maximum probability.
 
-## References: 
+## References
 
 These problems were drawn from chapters 1.2 and 4.1 of [Introductions to probability](https://open.umn.edu/opentextbooks/textbooks/21)

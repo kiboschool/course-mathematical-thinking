@@ -1,6 +1,4 @@
-# Problem Set 5 Solutions
-
-
+# Problem Set Week 5 Solutions
 
 1. We flip a coin three times. The set of all outcomes can be described as:
 \\(\omega = \{HHH, HHT, HTH, HTT, TTT, TTH, THH, THT\}\\)

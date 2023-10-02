@@ -1,8 +1,6 @@
-# Problem Set 6
+# Problem Set Week 6
 
 ## Submission
-
-This problem set is due Sunday November 20th at 10pm
 
 - You may collaborate with up your peers. If you do, be sure to mention who you 
   collaborated with explicitly in your submission. For example, write "I worked
@@ -12,6 +10,7 @@ This problem set is due Sunday November 20th at 10pm
 Submit your response in Gradescope, either using the app or the website.
 
 ## Problems
+
 ![problem 1](/images/week6_p1.svg)
 
 1. Consider the function \\(f: \\{1, 2, 3, 4\\} \to \\{1, 2, 3, 4\\}\\) represented in the graph above:
@@ -27,11 +26,9 @@ Submit your response in Gradescope, either using the app or the website.
 
 Notice that if f(0) = 1, we get that: f(1) = 4, f(2) = 2, f(3) = 1, f(4) = 4, etc. So we have a cycle.
 
-
    1. if f(0) = 5, can f be injective? Explain why or give a specific example of two elements from the domain with the same image.
    2. if f(0) = 3, can f be injective? Explain why or give a specific example of two elements from the domain with the same image.
    3. show that no matter the initial value, f can not be surjective. 
 
-
-## References:
+## References
 [Chapter 0.4 of Discrete Mathematics: An Open Introduction, 3rd edition](http://discrete.openmathbooks.org/dmoi3/sec_intro-functions.html)

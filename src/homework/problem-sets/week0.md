@@ -1,8 +1,6 @@
-# Problem Set 0
+# Problem Set Week 0
 
 ## Submission
-
-This problem set is due Tuesday October 11th at 4pm WAT.
 
 You can submit answers on a separate sheet of paper (scanned or photographed).
 
