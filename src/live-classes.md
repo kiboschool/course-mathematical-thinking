@@ -5,7 +5,7 @@ Video recordings of the class will also be posted after the classes each week.
 
 | Week | Topic                   | Reading           | Section   Video      | Additional Problems |Class Problems with solutions      |Additional Solutions  |
 |------|-------------------------|-------------------|----------------------|---------------------|-----------------------------------|----------------------|
-| 1    | Elementary Functions    | [Notes][w0-notes] | [YouTube][w0-video1] |[Extra][w1-video2]   |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
+| 1    | Elementary Functions    | [Notes][w0-notes] | [YouTube][w0-video1] |[Extra][w0-video2]   |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
 | 2    | Propositional Logic     | [Notes][w1-notes] | [YouTube][w1-video1] |[Extra][w1-video2]   |[Class Problems][w1-classproblems] |[Solutions][w1-psSols]|
 | 3    | Sets                    | [Notes][w2-notes] | [YouTube][w2-video1] |[Extra][w2-video2]   |[Class Problems][w2-classproblems] |[Solutions][w2-psSols]|
 | 4    | Proofs                  | [Notes][w3-notes] | [YouTube][w3-video1] |[Extra][w3-video2]   |[Class Problems][w3-classproblems] |[Solutions][w3-psSols]|
@@ -25,31 +25,31 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w1-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Propositional%20Logic.nb
 [w1-video1]: 
-[w1-video2]: 
+[w1-video2]: homework/problem-sets/week1.md
 [w1-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Propositional%20Logic%20class%20problems.nb
 [w1-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%201%20Solutions.nb
 
 [w2-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Sets.nb
 [w2-video1]: 
-[w2-video2]: 
+[w2-video2]: homework/problem-sets/week2.md 
 [w2-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Sets%20Class%20Problems%20Solutions.nb
 [w2-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%202%20Solutions.nb
 
 [w3-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Proofs.nb
 [w3-video1]: 
-[w3-video2]: 
+[w3-video2]: homework/problem-sets/week3.md 
 [w3-classproblems]:https://www.wolframcloud.com/obj/scamach2/Published/Proofs%20Class%20Problems%20Solutions.nb
 [w3-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%203%20Solutions.nb
 
 [w4-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Counting.nb
 [w4-video1]: 
-[w4-video2]: 
+[w4-video2]: homework/problem-sets/week4.md
 [w4-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Counting%20Class%20Problems%20Solutions.nb
 [w4-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%204%20Solutions.nb
 
 [w5-notes]: https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Probability.nb
 [w5-video1]: 
-[w5-video2]: 
+[w5-video2]: homework/problem-sets/week5.md
 [w5-classproblems]: https://www.wolframcloud.com/obj/scamach2/Published/Probability%20Class%20Problems%20Solutions.nb
 [w5-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%205%20Solutions.nb
 
@@ -61,7 +61,7 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w7-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Relations%20and%20Functions.nb
 [w7-video1]: 
-[w7-video2]: 
+[w7-video2]: homework/problem-sets/week6.md
 [w7-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w7-psSols]: https://www.wolframcloud.com/obj/scamach2/Published/Problem%20Set%20Week%207%20Solutions.nb
 
@@ -79,7 +79,7 @@ Video recordings of the class will also be posted after the classes each week.
 
 [w10-notes]:https://www.wolframcloud.com/obj/scamach2/Published/Introduction%20to%20Number%20Theory%20Part%202.nb
 [w10-video1]: 
-[w10-video2]: 
+[w10-video2]: homework/problem-sets/final_problem_set.md
 [w10-classproblems]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 [w10-psSols]: https://mathematical-thinking.vercel.app/%5Bw3-video2%5D
 https://youtu.be/K7OFxhlKiPs
