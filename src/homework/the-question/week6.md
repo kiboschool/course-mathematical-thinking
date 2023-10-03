@@ -1,4 +1,4 @@
-# Guiding Question: Week 6
+# Guiding Question Week 8
 
 We have been able to solve so many day-to-day problems using computers. Many of these problems fundamentally are about transformation: Taking some input, and turning it into some new, more useful output.
 

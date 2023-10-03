@@ -1,15 +1,7 @@
-# Problem Set Week 8
+# Practice Problems Week 10
 
-## Submission
 
-This problem set is due Sunday December 11th at 10pm
-
-- You may collaborate with up your peers. If you do, be sure to mention who you 
-  collaborated with explicitly in your submission. For example, write "I worked
-  with Ope and Mehdi on this problem set" at the top.
-- Show your work. Direct answers will not be accepted.
-
-Submit your response in Gradescope, either using the app or the website.
+- You may collaborate with up your peers. 
 
 ## Problems
 

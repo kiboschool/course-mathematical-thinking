@@ -1,14 +1,10 @@
-## Practice Set 2
-
-## Submission
-
-This practice set is not due
+# Practice Problems Week 3
 
 - You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
 
 There is no requirement to submit the material, but this will help you solidify the concepts.
 
-## Instructions:
+## Instructions
 
 1. Let A = \\( \\{ x \in \mathbb N : 3 \le x \le 13\\}\\), B = \\( \\{ x \in \mathbb N: x\\text{ is even } \\}\\), and C = \\(\\{ x \in \mathbb N: x\\{ is Odd.} \\}\\)
 

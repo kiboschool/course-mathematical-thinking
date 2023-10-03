@@ -1,4 +1,4 @@
-# Guiding Question: Week 8
+# Guiding Question Week 9
 
 At this point we know that we can represent arbitrary numbers in binary form, but you don't spend your time online looking purely at numbers right? You read text, watch videos, listen to music, play games, and so many other interactions.
 

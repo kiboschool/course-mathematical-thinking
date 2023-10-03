@@ -1,8 +1,4 @@
-# Practice Set 5
-
-## Submission
-
-This practice set is not due 
+# Practice Problems Week 6
 
 - You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
 

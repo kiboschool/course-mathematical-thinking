@@ -1,6 +1,6 @@
-# Guiding Question: Week 5
+# Guiding Question Week 6
 
-Some probabilites are pretty easy to deduce intuitively. How likely is it that when you flip a coin, it lands on tails? Over the course of next week, we will practice techniques to make it simple for us to compute more complex probabilities. Let's warm up with a question about celebration!
+Some probabilities are pretty easy to deduce intuitively. How likely is it that when you flip a coin, it lands on tails? Over the course of next week, we will practice techniques to make it simple for us to compute more complex probabilities. Let's warm up with a question about celebration!
 
 - How likely do you think it is that you share a birthday with one of your classmates?
 - How likely do you think it is that two of your classmates share a birthday with each other?

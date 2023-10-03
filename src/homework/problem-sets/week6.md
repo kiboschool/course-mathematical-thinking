@@ -1,14 +1,8 @@
-# Practice Set 6
-
-## Submission
-
-This practice set is not due 
+# Practice Problems Week 8
 
 - You may collaborate and are encouraged to collaborate with your peers. If you do, be sure to understand the material and write it out in your own words.
 
 There is no requirement to submit the material, but this will help you solidify the concepts.
-
-Submit your response in Gradescope, either using the app or the website.
 
 ## Problems
 ![problem 1](/images/week6_p1.svg)
