@@ -17,6 +17,7 @@ units:
         kind: ASSIGNMENT
         workload: 30
         grade_weight: 10.0
+        due: 2023-10-02
         publish: 2023-09-27
       - name: Assessments
         path: src/assessments.md
@@ -54,6 +55,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Elementary Functions
     activities:
@@ -117,6 +119,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Propositional Logic
     activities:
@@ -168,6 +171,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Sets
     activities:
@@ -219,6 +223,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Proofs
     activities:
@@ -270,6 +275,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Counting
     activities:
@@ -321,6 +327,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 6.5
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Probability
     activities:
@@ -372,6 +379,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Review
     activities:
@@ -431,6 +439,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 600
         grade_weight: 30.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Number Theory
     activities:
@@ -470,6 +479,7 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
   - name: Number Theory Part 2
     activities:
@@ -485,7 +495,7 @@ units:
         kind: GENERAL
         workload: 90
         publish: 2023-09-27
-      - name: Counting Systems
+      - name: Counting Systems Continued
         path: src/lessons/number-theory/2-counting-systems.md
         type: lesson
         kind: GENERAL
@@ -515,5 +525,6 @@ units:
         kind: ASSIGNMENT_SUMMATIVE
         workload: 60
         grade_weight: 7.0
+        due: 2023-10-02
         publish: 2023-09-27
 
