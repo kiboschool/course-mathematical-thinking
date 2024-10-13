@@ -1,0 +1,549 @@
+name: Mathematical Thinking
+code: CSF004
+term: Oct-2023
+about_path: src/course-overview.md
+image_path: src/proof-sketch.png
+units:
+  - name: Course Overview
+    activities:
+      - name: Introduction
+        path: src/course-overview.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Live Classes
+        path: src/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+      - name: Assessments
+        path: src/assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+      - name: Getting Help
+        path: src/getting-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+      - name: Giving Help
+        path: src/giving-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+      - name: Academic Integrity
+        path: src/academic-integrity.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+      - name: Core Reading
+        path: src/core-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-02
+      - name: Supplemental Reading
+        path: src/supplemental-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-02
+      - name: Assignment 0
+        path: src/homework/assignments/assignment0.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 120
+        grade_weight: 7.0
+        due: 2023-10-11
+        publish: 2023-10-02
+  - name: Elementary Functions
+    activities:
+      - name: Introduction
+        path: src/lessons/elementary-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Number Sets
+        path: src/lessons/elementary-functions/number-sets.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Constant Functions
+        path: src/lessons/elementary-functions/constant-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Linear Functions
+        path: src/lessons/elementary-functions/linear-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Affine Functions
+        path: src/lessons/elementary-functions/affine-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Polynomial Functions
+        path: src/lessons/elementary-functions/polynomials.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Polynomial Roots
+        path: src/lessons/elementary-functions/polynomial-roots.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Exponential Functions
+        path: src/lessons/elementary-functions/exponentials.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Logarithmic Functions
+        path: src/lessons/elementary-functions/logarithms.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Practice Problems Week 1
+        path: src/homework/problem-sets/week0.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Assignment 1
+        path: src/homework/assignments/assignment1.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-10-14
+        publish: 2023-10-12
+  - name: Propositional Logic
+    activities:
+      - name: Introduction
+        path: src/lessons/propositional-logic.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Propositions and statements
+        path: src/lessons/propositional-logic/propositions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Logical conjunctions
+        path: src/lessons/propositional-logic/logical-conjunctions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Negation
+        path: src/lessons/propositional-logic/negation.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Implication
+        path: src/lessons/propositional-logic/implication.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: If and only if
+        path: src/lessons/propositional-logic/iff.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Practice Problems Week 2
+        path: src/homework/problem-sets/week1.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-10-02
+      - name: Assignment 2
+        path: src/homework/assignments/assignment2.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-10-21
+        publish: 2023-10-19
+  - name: Sets
+    activities:
+      - name: Introduction
+        path: src/lessons/sets.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Guiding Question Week 3
+        path: src/homework/the-question/week2.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Key Set Definitions
+        path: src/lessons/sets/set_definitions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Set Operations
+        path: src/lessons/sets/set_operations.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Subsets
+        path: src/lessons/sets/subsets.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Visualizing sets
+        path: src/lessons/sets/visualizing_sets.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-02
+      - name: Practice Problems Week 3
+        path: src/homework/problem-sets/week2.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-10-02
+      - name: Assignment 3
+        path: src/homework/assignments/assignment3.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-10-28
+        publish: 2023-10-26
+  - name: Proofs
+    activities:
+      - name: Introduction
+        path: src/lessons/proofs.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Guiding Question Week 4
+        path: src/homework/the-question/week3.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Direct Proofs
+        path: src/lessons/proofs/direct_proofs.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: First Order Logic
+        path: src/lessons/proofs/first_order_logic.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Proofs by contrapositive
+        path: src/lessons/proofs/indirect_proofs_contrapositive.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Proofs by contradiction
+        path: src/lessons/proofs/indirect_proofs_contradiction.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Practice Problems Week 4
+        path: src/homework/problem-sets/week3.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-10-26
+      - name: Assignment 4
+        path: src/homework/assignments/assignment4.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-11-04
+        publish: 2023-11-02
+      - name: Midterm Project
+        path: src/midterm-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 600
+        grade_weight: 18.5
+        due: 2023-11-23
+        publish: 2023-11-02
+  - name: Counting
+    activities:
+      - name: Introduction
+        path: src/lessons/counting.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Guiding Question Week 5
+        path: src/homework/the-question/week4.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Permutations
+        path: src/lessons/counting/permutations.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Permutations with Repetition
+        path: src/lessons/counting/permutations_repetition.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Combinations
+        path: src/lessons/counting/combinations.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Combinations with Repetition
+        path: src/lessons/counting/combinations_repetition.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Practice Problems Week 5
+        path: src/homework/problem-sets/week4.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-10-26
+      - name: Assignment 5
+        path: src/homework/assignments/assignment5.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-11-11
+        publish: 2023-11-09
+  - name: Probability
+    activities:
+      - name: Introduction
+        path: src/lessons/probability.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Guiding Question Week 6
+        path: src/homework/the-question/week5.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Intro to Probability
+        path: src/lessons/probability/probability_intro.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Combining Events
+        path: src/lessons/probability/complex_events.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Conditional Probability
+        path: src/lessons/probability/conditional_probability.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: 'Case study: The Monty Hall Problem'
+        path: src/lessons/probability/case_study.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-10-26
+      - name: Practice Problems Week 6
+        path: src/homework/problem-sets/week5.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-10-26
+      - name: Assignment 6
+        path: src/homework/assignments/assignment6.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-11-18
+        publish: 2023-11-16
+  - name: Review
+    activities:
+      - name: Introduction
+        path: src/lessons/review.md
+        type: lesson
+        kind: GENERAL
+        workload: 600
+        publish: 2023-11-16
+  - name: Functions and Relations
+    activities:
+      - name: Introduction
+        path: src/lessons/functions-and-relations.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Guiding Question Week 8
+        path: src/homework/the-question/week6.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Relations
+        path: src/lessons/functions/relations.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Functions
+        path: src/lessons/functions/functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Properties of functions
+        path: src/lessons/functions/properties.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Composition of functions
+        path: src/lessons/functions/composition.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-16
+      - name: Practice Problems Week 8
+        path: src/homework/problem-sets/week6.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-11-16
+      - name: Final Project
+        path: src/final-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 600
+        grade_weight: 18.5
+        due: 2023-12-15
+        publish: 2023-11-23
+  - name: Number Theory
+    activities:
+      - name: Introduction
+        path: src/lessons/number-theory.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Guiding Question Week 9
+        path: src/homework/the-question/week8.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Introduction
+        path: src/lessons/number-theory/1-intro.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Counting Systems
+        path: src/lessons/number-theory/2-counting-systems.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Divisors
+        path: src/lessons/number-theory/3-common-denominators.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Assignment 7
+        path: src/homework/assignments/assignment7.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-12-02
+        publish: 2023-11-30
+  - name: Number Theory Part 2
+    activities:
+      - name: Introduction
+        path: src/lessons/number-theory-2.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Guiding Question Week 10
+        path: src/homework/the-question/week9.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Counting Systems Continued
+        path: src/lessons/number-theory/2-counting-systems.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Congruence
+        path: src/lessons/number-theory/4-congruence.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Solving problems
+        path: src/lessons/number-theory/5-solving-congruences.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: 2023-11-30
+      - name: Practice Problems Week 10
+        path: src/homework/problem-sets/final_problem_set.md
+        type: lesson
+        kind: GENERAL
+        workload: 300
+        publish: 2023-11-30
+      - name: Assignment 8
+        path: src/homework/assignments/assignment8.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 180
+        grade_weight: 7.0
+        due: 2023-12-09
+        publish: 2023-12-07
+

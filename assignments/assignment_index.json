@@ -1,0 +1,455 @@
+{
+  "name": "Mathematical Thinking",
+  "id": "531415",
+  "code": "CSF004 ",
+  "assignments": [
+    {
+      "id": "2816488",
+      "name": "Assignment 0",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2816488",
+      "filename": "assignment_0.pdf"
+    },
+    {
+      "id": "2825387",
+      "name": "Assignment 1",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2825387",
+      "filename": "assignment_1.pdf"
+    },
+    {
+      "id": "2817227",
+      "name": "Assignment 2",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2817227",
+      "filename": "assignment_2.pdf"
+    },
+    {
+      "id": "2819546",
+      "name": "Assignment 3",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2819546",
+      "filename": "assignment_3.pdf"
+    },
+    {
+      "id": "2830022",
+      "name": "Assignment 4",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2830022",
+      "filename": "assignment_4.pdf"
+    },
+    {
+      "id": "2836021",
+      "name": "Assignment 5",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2836021",
+      "filename": "assignment_5.pdf"
+    },
+    {
+      "id": "2839795",
+      "name": "Assignment 6",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2839795",
+      "filename": "assignment_6.pdf"
+    },
+    {
+      "id": "2847429",
+      "name": "Assignment 7",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2847429",
+      "filename": "assignment_7.pdf"
+    },
+    {
+      "id": "2853465",
+      "name": "Assignment 8",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2853465",
+      "filename": "assignment_8.pdf"
+    },
+    {
+      "id": "3597494",
+      "name": "Final Project",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/3597494",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "3597495",
+      "name": "Midterm Project",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/3597495",
+      "filename": "midterm_project.pdf"
+    },
+    {
+      "id": "2286514",
+      "name": "Final Project",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286514",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "2323447",
+      "name": "Guiding Question - Week 2",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323447",
+      "filename": "guiding_question_-_week_2.pdf"
+    },
+    {
+      "id": "2323448",
+      "name": "Guiding Question - Week 3",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323448",
+      "filename": "guiding_question_-_week_3.pdf"
+    },
+    {
+      "id": "2323469",
+      "name": "Guiding Question - Week 4",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323469",
+      "filename": "guiding_question_-_week_4.pdf"
+    },
+    {
+      "id": "2323470",
+      "name": "Guiding Question - Week 5",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323470",
+      "filename": "guiding_question_-_week_5.pdf"
+    },
+    {
+      "id": "2323474",
+      "name": "Guiding Question - Week 7",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323474",
+      "filename": "guiding_question_-_week_7.pdf"
+    },
+    {
+      "id": "2323476",
+      "name": "Guiding Question - Week 8",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323476",
+      "filename": "guiding_question_-_week_8.pdf"
+    },
+    {
+      "id": "2323477",
+      "name": "Guiding Question - Week 9",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323477",
+      "filename": "guiding_question_-_week_9.pdf"
+    },
+    {
+      "id": "2286513",
+      "name": "Midterm Project",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286513",
+      "filename": "midterm_project.pdf"
+    },
+    {
+      "id": "2325341",
+      "name": "Problem Set 0",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2325341",
+      "filename": "problem_set_0.pdf"
+    },
+    {
+      "id": "2265809",
+      "name": "Problem Set 1",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2265809",
+      "filename": "problem_set_1.pdf"
+    },
+    {
+      "id": "2286501",
+      "name": "Problem Set 2",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286501",
+      "filename": "problem_set_2.pdf"
+    },
+    {
+      "id": "2286502",
+      "name": "Problem Set 3",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286502",
+      "filename": "problem_set_3.pdf"
+    },
+    {
+      "id": "2286505",
+      "name": "Problem Set 4",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286505",
+      "filename": "problem_set_4.pdf"
+    },
+    {
+      "id": "2286506",
+      "name": "Problem Set 5",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286506",
+      "filename": "problem_set_5.pdf"
+    },
+    {
+      "id": "2286508",
+      "name": "Problem Set 7",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286508",
+      "filename": "problem_set_7.pdf"
+    },
+    {
+      "id": "2286511",
+      "name": "Problem Set 8",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286511",
+      "filename": "problem_set_8.pdf"
+    },
+    {
+      "id": "2816488",
+      "name": "Assignment 0",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2816488",
+      "filename": "assignment_0.pdf"
+    },
+    {
+      "id": "2825387",
+      "name": "Assignment 1",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2825387",
+      "filename": "assignment_1.pdf"
+    },
+    {
+      "id": "2817227",
+      "name": "Assignment 2",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2817227",
+      "filename": "assignment_2.pdf"
+    },
+    {
+      "id": "2819546",
+      "name": "Assignment 3",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2819546",
+      "filename": "assignment_3.pdf"
+    },
+    {
+      "id": "2830022",
+      "name": "Assignment 4",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2830022",
+      "filename": "assignment_4.pdf"
+    },
+    {
+      "id": "2836021",
+      "name": "Assignment 5",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2836021",
+      "filename": "assignment_5.pdf"
+    },
+    {
+      "id": "2839795",
+      "name": "Assignment 6",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2839795",
+      "filename": "assignment_6.pdf"
+    },
+    {
+      "id": "2847429",
+      "name": "Assignment 7",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2847429",
+      "filename": "assignment_7.pdf"
+    },
+    {
+      "id": "2853465",
+      "name": "Assignment 8",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/2853465",
+      "filename": "assignment_8.pdf"
+    },
+    {
+      "id": "3597494",
+      "name": "Final Project",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/3597494",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "3597495",
+      "name": "Midterm Project",
+      "course_id": "531415",
+      "course_code": "CSF004 ",
+      "href": "https://gradescope.com/courses/531415/assignments/3597495",
+      "filename": "midterm_project.pdf"
+    },
+    {
+      "id": "2286514",
+      "name": "Final Project",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286514",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "2323447",
+      "name": "Guiding Question - Week 2",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323447",
+      "filename": "guiding_question_-_week_2.pdf"
+    },
+    {
+      "id": "2323448",
+      "name": "Guiding Question - Week 3",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323448",
+      "filename": "guiding_question_-_week_3.pdf"
+    },
+    {
+      "id": "2323469",
+      "name": "Guiding Question - Week 4",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323469",
+      "filename": "guiding_question_-_week_4.pdf"
+    },
+    {
+      "id": "2323470",
+      "name": "Guiding Question - Week 5",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323470",
+      "filename": "guiding_question_-_week_5.pdf"
+    },
+    {
+      "id": "2323474",
+      "name": "Guiding Question - Week 7",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323474",
+      "filename": "guiding_question_-_week_7.pdf"
+    },
+    {
+      "id": "2323476",
+      "name": "Guiding Question - Week 8",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323476",
+      "filename": "guiding_question_-_week_8.pdf"
+    },
+    {
+      "id": "2323477",
+      "name": "Guiding Question - Week 9",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2323477",
+      "filename": "guiding_question_-_week_9.pdf"
+    },
+    {
+      "id": "2286513",
+      "name": "Midterm Project",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286513",
+      "filename": "midterm_project.pdf"
+    },
+    {
+      "id": "2325341",
+      "name": "Problem Set 0",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2325341",
+      "filename": "problem_set_0.pdf"
+    },
+    {
+      "id": "2265809",
+      "name": "Problem Set 1",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2265809",
+      "filename": "problem_set_1.pdf"
+    },
+    {
+      "id": "2286501",
+      "name": "Problem Set 2",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286501",
+      "filename": "problem_set_2.pdf"
+    },
+    {
+      "id": "2286502",
+      "name": "Problem Set 3",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286502",
+      "filename": "problem_set_3.pdf"
+    },
+    {
+      "id": "2286505",
+      "name": "Problem Set 4",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286505",
+      "filename": "problem_set_4.pdf"
+    },
+    {
+      "id": "2286506",
+      "name": "Problem Set 5",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286506",
+      "filename": "problem_set_5.pdf"
+    },
+    {
+      "id": "2286508",
+      "name": "Problem Set 7",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286508",
+      "filename": "problem_set_7.pdf"
+    },
+    {
+      "id": "2286511",
+      "name": "Problem Set 8",
+      "course_id": "445488",
+      "course_code": "CSF004",
+      "href": "https://gradescope.com/courses/445488/assignments/2286511",
+      "filename": "problem_set_8.pdf"
+    }
+  ]
+}
